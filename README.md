@@ -8,14 +8,14 @@ Server texturepack files are included here, as well as some plugin configuration
 
 ## Servers
 
-`$mc.suikacraft.com` for the Bukkit server
+`mc.suikacraft.com` for the Bukkit server
 
-`$sugoi.suikacraft.com` for the vanilla snapshot server
+`sugoi.suikacraft.com` for the vanilla snapshot server
 
 ## Mumble
 
-`$voice.suikacraft.com`
+`voice.suikacraft.com`
 
 ## IRC
 
-`$#suikacraft @ irc.rizon.net`
+`#suikacraft @ irc.rizon.net`
