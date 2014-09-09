@@ -4,13 +4,15 @@
 
 ## Files
 
-Server texturepack files are included here, as well as some plugin configurations (eventually).
+Server resourcepack files are included here, as well as some plugin configurations (eventually).
+
+The textures are a fork of the continuation of Isabella II.
 
 ## Servers
 
-`mc.suikacraft.com` for the Bukkit server
+`rp.suikacraft.com` for the Bukkit server
 
-`sugoi.suikacraft.com` for the vanilla snapshot server
+`smp.suikacraft.com` for the vanilla snapshot server
 
 ## Mumble
 
