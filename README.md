@@ -14,6 +14,8 @@ The textures are a fork of the continuation of Isabella II.
 
 `smp.suikacraft.com` for the vanilla snapshot server
 
+`gensokyo.suikacraft.com` for the Gensokyo server
+
 ## Mumble
 
 `voice.suikacraft.com`
