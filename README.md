@@ -8,11 +8,11 @@ Server resourcepack files are included here, as well as some plugin configuratio
 
 The textures are a fork of the continuation of Isabella II.
 
-SuikaCraft '1.7.10 Legacy'
+SuikaCraft `1.7.10 Legacy`
 
-SuikaCraft Snapshot '1.8 / Latest Snapshot'
+SuikaCraft Snapshot `1.8 / Latest Snapshot`
 
-SuikaCraft Snapshot Alt Glass 'with BetterGlass like stained glass'
+SuikaCraft Snapshot Alt Glass `with BetterGlass like stained glass`
 
 ## Servers
 
