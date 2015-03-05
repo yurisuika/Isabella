@@ -1,0 +1,26 @@
+{
+"__comment": "3D Mesh designed with BDcraft Cubik - Version PRO 0.65 Beta",
+"ambientocclusion": true,
+"randomOffsetX": true,
+"randomOffsetZ": true,
+"textures": {
+    "down": "blocks/waterlily",
+    "up": "blocks/waterlily",
+    "north": "blocks/waterlily_extra",
+    "south": "blocks/waterlily_extra",
+    "west": "blocks/waterlily_extra",
+    "east": "blocks/waterlily_extra",
+    "particle": "blocks/waterlily"
+},
+"elements": [ 
+{
+    "from": [ 0, -0.5, 0 ],
+    "to": [ 16, 0, 16 ],
+    "__comment": "Lily",
+    "faces": {
+        "down":  { "uv": [ 0, 0, 16, 16 ], "rotation": 90, "texture": "#down", "tintindex": 0 },
+        "up":    { "uv": [ 0, 0, 16, 16 ], "rotation": 90, "texture": "#up", "tintindex": 0 }
+    }
+}
+]
+}

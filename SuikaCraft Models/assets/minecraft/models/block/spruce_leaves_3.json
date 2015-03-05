@@ -1,0 +1,7 @@
+{
+    "parent": "block/leaves_3",
+    "textures": {
+        "middle": "blocks/leaves_spruce",
+        "tips": "blocks/leaves_spruce_bl"
+    }
+}

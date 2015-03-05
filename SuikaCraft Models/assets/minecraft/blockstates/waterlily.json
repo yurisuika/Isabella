@@ -1,0 +1,11 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "normal": [
+            { "model": "waterlily_1" },
+            { "model": "waterlily_2" },
+            { "model": "waterlily_3" },
+            { "model": "waterlily_4" }
+        ]
+    }
+}

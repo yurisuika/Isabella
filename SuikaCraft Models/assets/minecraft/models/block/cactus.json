@@ -1,0 +1,53 @@
+{
+"__comment": "3D Mesh designed with BDcraft Cubik - Version PRO 0.65 Beta",
+"textures": {
+    "down": "blocks/cactus_bottom",
+    "up": "blocks/cactus_top",
+    "north": "blocks/cactus_side",
+    "south": "blocks/cactus_spikes",
+    "particle": "blocks/cactus_side"
+},
+"elements": [ 
+{
+    "from": [ 3.5, 16, 3.5 ],
+    "to": [ 12, 17.5, 12 ],
+    "faces": {
+        "up":    { "uv": [ 3.5, 3.5, 12, 12 ], "texture": "#up", "cullface": up },
+        "north": { "uv": [ 12.5, 2, 4, 3.5 ], "texture": "#north", "cullface": up },
+        "south": { "uv": [ 4, 2, 12.5, 3.5 ], "texture": "#north", "cullface": up },
+        "west":  { "uv": [ 4, 2.5, 12.5, 4 ], "texture": "#north", "cullface": up },
+        "east":  { "uv": [ 12, 2, 3.5, 3.5 ], "texture": "#north", "cullface": up }
+    }
+},
+{
+    "from": [ 2.875, 16.1875, 2.8125 ],
+    "to": [ 13.375, 16.25, 13.3125 ],
+    "__comment": "PlaneY",
+    "faces": {
+        "up":    { "uv": [ 2.875, 2.8125, 13.375, 13.3125 ], "texture": "#south" }
+    }
+},
+{
+    "from": [ 2.8125, 0, 2.8125 ],
+    "to": [ 13.3125, 16, 13.3125 ],
+    "faces": {
+        "north": { "uv": [ 13.3125, 0, 2.8125, 16 ], "texture": "#south" },
+        "south": { "uv": [ 2.8125, 0, 13.3125, 16 ], "texture": "#south" },
+        "west":  { "uv": [ 2.8125, 0, 13.3125, 16 ], "texture": "#south" },
+        "east":  { "uv": [ 13.3125, 0, 2.8125, 16 ], "texture": "#south" }
+    }
+},
+{
+    "from": [ 3, 0, 3 ],
+    "to": [ 13, 16, 13 ],
+    "faces": {
+        "down":  { "uv": [ 1, 1, 15, 15 ], "texture": "#down" },
+        "up":    { "uv": [ 1, 1, 15, 15 ], "texture": "#up" },
+        "north": { "uv": [ 1, 0, 15, 16 ], "texture": "#north" },
+        "south": { "uv": [ 1, 0, 15, 16 ], "texture": "#north" },
+        "west":  { "uv": [ 1, 0, 15, 16 ], "texture": "#north" },
+        "east":  { "uv": [ 1, 0, 15, 16 ], "texture": "#north" }
+    }
+}
+]
+}

@@ -12,11 +12,11 @@ SuikaCraft `1.7.10 Legacy`
 
 SuikaCraft Snapshot `1.8 / Latest Snapshot`
 
-SuikaCraft Snapshot Alt Glass `with BetterGlass like stained glass`
+SuikaCraft Models `1.8 / Latest Snapshot with Custom Models`
 
 ## Servers
 
-`rp.suikacraft.com` for the Bukkit server
+`rp.suikacraft.com` for the Spigot server
 
 `smp.suikacraft.com` for the vanilla snapshot server
 
