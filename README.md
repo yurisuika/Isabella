@@ -12,7 +12,9 @@ SuikaCraft `1.7.10 Legacy`
 
 SuikaCraft Snapshot `1.8 / Latest Snapshot`
 
-SuikaCraft Models `1.8 / Latest Snapshot with Custom Models`
+SuikaCraft Models `1.8 / Custom Models`
+
+SuikaCraft Server `1.8 / Latest Snapshot with Custom Models`
 
 ## Servers
 
