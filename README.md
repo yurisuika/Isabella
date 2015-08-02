@@ -8,13 +8,15 @@ Server resourcepack files are included here, as well as some plugin configuratio
 
 The textures are a fork of the continuation of Isabella II.
 
-SuikaCraft `1.7.10 Legacy`
+SuikaCraft 1.7 `1.7 Legacy`
 
-SuikaCraft Snapshot `1.8 / Latest Snapshot`
+SuikaCraft 1.8 `1.8 Legacy`
 
-SuikaCraft Models `1.8 / Custom Models`
+SuikaCraft 1.9 `1.9  Latest Snapshot`
 
-SuikaCraft Server `1.8 / Latest Snapshot with Custom Models`
+SuikaCraft Models `Custom Models`
+
+SuikaCraft Server `1.8 Textures + Custom Models`
 
 ## Servers
 
