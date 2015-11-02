@@ -1,0 +1,7986 @@
+'0':
+  name: Farmhand
+  world: Woodlands
+  x: 332
+  y: 75
+  z: 144
+  uuid: 9f53fbb1-9b67-4e0e-b21c-84f28aa1e35c
+  prof: 0
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: MELON_BLOCK
+          amount: 4
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PUMPKIN
+          amount: 6
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: APPLE
+          amount: 4
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WHEAT
+          amount: 16
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SEEDS
+          amount: 64
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 15
+          amount: 8
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+'1':
+  name: Captain
+  world: Woodlands
+  x: 402
+  y: 64
+  z: 68
+  uuid: c5b34d42-2246-4c7d-b6e0-4820339435e1
+  prof: 5
+  object: villager
+  type: admin
+  recipes: {}
+'2':
+  name: Villager
+  world: Woodlands
+  x: -11
+  y: 68
+  z: 478
+  uuid: b80b27c4-232a-490d-a8f8-2e45bb194b6c
+  prof: 5
+  object: villager
+  type: admin
+  recipes: {}
+'3':
+  name: Fisherman
+  world: Woodlands
+  x: 405
+  y: 64
+  z: 121
+  uuid: 9ef63f37-b42f-4781-82d7-915cdb93ee48
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RAW_FISH
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RAW_FISH
+          damage: 1
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RAW_FISH
+          damage: 2
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RAW_FISH
+          damage: 3
+'4':
+  name: Traveller
+  world: Woodlands
+  x: 142
+  y: 82
+  z: 44
+  uuid: 3cbfe0a9-8033-458d-b427-a514fa59ed77
+  prof: 5
+  object: villager
+  type: admin
+  recipes: {}
+'5':
+  name: Chef
+  world: Woodlands
+  x: 3
+  y: 68
+  z: 495
+  uuid: 46e13dd9-d6f5-475a-aac9-86cc17b2c466
+  prof: 4
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: MUSHROOM_SOUP
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: APPLE
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: COOKED_CHICKEN
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BREAD
+'6':
+  name: Ranger
+  world: Woodlands
+  x: 3
+  y: 72
+  z: 491
+  uuid: dfa44bad-1f46-41e1-a866-4ce51607a35a
+  prof: 3
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: ROTTEN_FLESH
+          amount: 16
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BONE
+          amount: 16
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SPIDER_EYE
+          amount: 16
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: ENDER_PEARL
+          amount: 8
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+'7':
+  name: Villager
+  world: Woodlands
+  x: 9
+  y: 68
+  z: 484
+  uuid: 94b13379-7ff9-473b-897d-d3f38ecbe422
+  prof: 5
+  object: villager
+  type: admin
+  recipes: {}
+'8':
+  name: Traveller
+  world: Woodlands
+  x: 11
+  y: 72
+  z: 491
+  uuid: b55ffcec-6ef2-4686-a600-af2d3a941e61
+  prof: 5
+  object: villager
+  type: admin
+  recipes: {}
+'9':
+  name: Chef
+  world: Woodlands
+  x: -7
+  y: 69
+  z: 416
+  uuid: f47fb361-35b1-40a2-8be9-3137bfc56016
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: COOKED_BEEF
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: COOKED_CHICKEN
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: MUSHROOM_SOUP
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BREAD
+'10':
+  name: Drunkard
+  world: Woodlands
+  x: -8
+  y: 73
+  z: 421
+  uuid: 2af34ad7-1f10-495b-a1d8-95b26183e579
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: COAL
+          damage: 1
+'11':
+  name: Drunkard
+  world: Woodlands
+  x: -5
+  y: 73
+  z: 417
+  uuid: d5bec757-656e-4655-a2da-6d3012bf7402
+  prof: 0
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SEEDS
+'12':
+  name: Drunkard
+  world: Woodlands
+  x: -1
+  y: 74
+  z: 416
+  uuid: 0b8487ab-76c9-48e5-a733-71f9ae332c58
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POISONOUS_POTATO
+'13':
+  name: Baker
+  world: Woodlands
+  x: 323
+  y: 64
+  z: 95
+  uuid: 5ef94deb-99d9-4cd2-9eae-80a3aa4d8225
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: CAKE
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PUMPKIN_PIE
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: COOKIE
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BREAD
+'14':
+  name: Villager
+  world: Woodlands
+  x: 321
+  y: 64
+  z: 90
+  uuid: 9b5df9f1-e9d1-4a5b-b1c2-7ca33e01c9c4
+  prof: 5
+  object: villager
+  type: admin
+  recipes: {}
+'15':
+  name: Villager
+  world: Woodlands
+  x: 459
+  y: 64
+  z: 81
+  uuid: 8d33a24b-db28-4efd-88ca-210d8b0e8014
+  prof: 5
+  object: villager
+  type: admin
+  recipes: {}
+'16':
+  name: Barkeep
+  world: Woodlands
+  x: -7
+  y: 73
+  z: 415
+  uuid: 0a62bb9f-31d1-4039-b25e-3fcf880a3983
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 46
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fFine Wheatbeer
+            lore:
+            - ''
+            - §772 Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -2
+              amplifier: 0
+              ambient: true
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 35
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fFine Barleywine
+            lore:
+            - ''
+            - §772 Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -83
+              amplifier: 0
+              ambient: true
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 44
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fFine Cider
+            lore:
+            - ''
+            - §7144 Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -365
+              amplifier: 0
+              ambient: true
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 46
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fFine Bitter Ale
+            lore:
+            - ''
+            - §772 Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -374
+              amplifier: 0
+              ambient: true
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 36
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fStrong Chartreuse
+            lore:
+            - ''
+            - §710-times Distilled
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -419
+              amplifier: 0
+              ambient: true
+            - ==: PotionEffect
+              effect: 19
+              duration: 0
+              amplifier: 0
+              ambient: true
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 44
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fFine Herb Wine
+            lore:
+            - ''
+            - §7Hundreds of Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -73
+              amplifier: 0
+              ambient: true
+            - ==: PotionEffect
+              effect: 6
+              duration: 1
+              amplifier: 0
+              ambient: true
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 35
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fFine Dandelion Wine
+            lore:
+            - ''
+            - §7Hundreds of Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -77
+              amplifier: 0
+              ambient: true
+            - ==: PotionEffect
+              effect: 6
+              duration: 1
+              amplifier: 0
+              ambient: true
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 35
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fFine Pumpkin Wine
+            lore:
+            - ''
+            - §7Hundreds of Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -80
+              amplifier: 0
+              ambient: true
+            - ==: PotionEffect
+              effect: 6
+              duration: 1
+              amplifier: 0
+              ambient: true
+'17':
+  name: Villager
+  world: Woodlands
+  x: 457
+  y: 64
+  z: 103
+  uuid: f3e71beb-5cd4-4b56-a012-f1b28f755f93
+  prof: 5
+  object: villager
+  type: admin
+  recipes: {}
+'18':
+  name: Traveller
+  world: Woodlands
+  x: 456
+  y: 64
+  z: 104
+  uuid: c1fab7da-b791-466e-a314-eae190ea07ff
+  prof: 5
+  object: villager
+  type: admin
+  recipes: {}
+'19':
+  name: Florist
+  world: Woodlands
+  x: 456
+  y: 65
+  z: 115
+  uuid: 5c3dae4f-8982-42b8-9f93-2b6d81f8c8b0
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DOUBLE_PLANT
+          amount: 8
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DOUBLE_PLANT
+          damage: 4
+          amount: 8
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DOUBLE_PLANT
+          damage: 5
+          amount: 8
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DOUBLE_PLANT
+          damage: 1
+          amount: 8
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DOUBLE_PLANT
+          damage: 3
+          amount: 8
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WATER_LILY
+          amount: 16
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: VINE
+          amount: 16
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: FLOWER_POT_ITEM
+'20':
+  name: Florist
+  world: Woodlands
+  x: 452
+  y: 65
+  z: 120
+  uuid: f07fd99e-26de-45af-84dc-88127c8deb62
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: YELLOW_FLOWER
+          amount: 16
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RED_ROSE
+          amount: 16
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RED_ROSE
+          damage: 1
+          amount: 16
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RED_ROSE
+          damage: 2
+          amount: 16
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RED_ROSE
+          damage: 3
+          amount: 16
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RED_ROSE
+          damage: 8
+          amount: 16
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BROWN_MUSHROOM
+          amount: 16
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RED_MUSHROOM
+          amount: 16
+'21':
+  name: Shopkeeper
+  world: Woodlands
+  x: 327
+  y: 67
+  z: 123
+  uuid: 3733f06f-32aa-4875-8ceb-fbe080a40be3
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: COOKED_FISH
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: COOKED_FISH
+          damage: 1
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: COOKED_BEEF
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRILLED_PORK
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: MUSHROOM_SOUP
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: COOKED_CHICKEN
+'22':
+  world: Woodlands
+  x: 329
+  y: 67
+  z: 120
+  object: block
+  type: admin
+  recipes: {}
+'23':
+  world: Woodlands
+  x: 325
+  y: 68
+  z: 119
+  object: block
+  type: admin
+  recipes: {}
+'24':
+  name: Winemaker
+  world: Woodlands
+  x: 320
+  y: 68
+  z: 121
+  uuid: 3eb4f5ee-9ef9-4d52-9948-683e20c16513
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 44
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fFine Wine
+            lore:
+            - ''
+            - §7Hundreds of Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -432
+              amplifier: 0
+              ambient: true
+            - ==: PotionEffect
+              effect: 6
+              duration: 1
+              amplifier: 0
+              ambient: true
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 44
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fFine Herb Wine
+            lore:
+            - ''
+            - §7Hundreds of Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -433
+              amplifier: 0
+              ambient: true
+            - ==: PotionEffect
+              effect: 6
+              duration: 1
+              amplifier: 0
+              ambient: true
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 44
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fFine Apple Wine
+            lore:
+            - ''
+            - §7Hundreds of Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -66
+              amplifier: 0
+              ambient: true
+            - ==: PotionEffect
+              effect: 6
+              duration: 1
+              amplifier: 0
+              ambient: true
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 35
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fFine Dandelion Wine
+            lore:
+            - ''
+            - §7Hundreds of Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -435
+              amplifier: 0
+              ambient: true
+            - ==: PotionEffect
+              effect: 6
+              duration: 1
+              amplifier: 0
+              ambient: true
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 35
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fFine Pumpkin Wine
+            lore:
+            - ''
+            - §7Hundreds of Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -66
+              amplifier: 0
+              ambient: true
+            - ==: PotionEffect
+              effect: 6
+              duration: 1
+              amplifier: 0
+              ambient: true
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 41
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fFine Chardonnay
+            lore:
+            - ''
+            - §7Hundreds of Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -73
+              amplifier: 0
+              ambient: true
+            - ==: PotionEffect
+              effect: 6
+              duration: 1
+              amplifier: 0
+              ambient: true
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 44
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fFine Cognac
+            lore:
+            - ''
+            - §710-times Distilled
+            - §7Hundreds of Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -77
+              amplifier: 0
+              ambient: true
+            - ==: PotionEffect
+              effect: 6
+              duration: 1
+              amplifier: 0
+              ambient: true
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 46
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fFine Vermouth
+            lore:
+            - ''
+            - §78-times Distilled
+            - §7Hundreds of Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -80
+              amplifier: 0
+              ambient: true
+            - ==: PotionEffect
+              effect: 6
+              duration: 1
+              amplifier: 0
+              ambient: true
+'25':
+  name: Lost Traveller
+  world: Woodlands
+  x: 16
+  y: 68
+  z: 473
+  uuid: 4f1a6ba1-dc76-4aec-904a-ae63eab4cfd3
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BOOK_AND_QUILL
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BOOK_AND_QUILL
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            pages:
+            - 'The inn kicked me out because they said my record was too noisy! Can
+              you believe that?
+
+
+              It is rather scratched, I suppose...
+
+
+              You wouldn''t happen to have anything I could trade for it? I sort of
+              need some coin for a place to stay tonight...'
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_BARDING
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RECORD_11
+'26':
+  name: Master Distiller
+  world: Woodlands
+  x: 382
+  y: 69
+  z: 164
+  uuid: 2aae7035-1b4e-4809-a218-8448d68dfcea
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - The Art of Crafting...
+            title: Vodka Recipe
+            author: Master Distiller of Suika
+            pages:
+            - 'Vodka
+
+              -------------------
+
+              The Art of Crafting...
+
+
+              -  -  -  -  -  -  -  -
+
+
+              Ingredients...
+
+              -------------------
+
+              * 10 heirloom potatoes'
+            - 'Fermenting...
+
+              -------------------
+
+              * 15 minutes
+
+
+              Distillation...
+
+              -------------------
+
+              * 20 runs
+
+
+              Ageing...
+
+              -------------------* 0 seasons
+
+              * oakwood barrel'
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - The Art of Crafting...
+            title: Absinthe Recipe
+            author: Master Distiller of Suika
+            pages:
+            - 'Absinthe
+
+              -------------------
+
+              The Art of Crafting...
+
+
+              -  -  -  -  -  -  -  -
+
+
+              Ingredients...
+
+              -------------------
+
+              * 15 bundles of herbs
+
+              * 3 wild seeds'
+            - 'Fermenting...
+
+              -------------------
+
+              * 20 minutes
+
+
+              Distillation...
+
+              -------------------
+
+              * 10 runs
+
+
+              Ageing...
+
+              -------------------* 0 seasons
+
+              * oakwood barrel'
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - The Art of Crafting...
+            title: Chartreuse Recipe
+            author: Master Distiller of Suika
+            pages:
+            - 'Chartreuse
+
+              -------------------
+
+              The Art of Crafting...
+
+
+              -  -  -  -  -  -  -  -
+
+
+              Ingredients...
+
+              -------------------
+
+              * 10 bundles of herbs
+
+              * 3 green dandelions
+
+              * 2 wild seeds
+
+              * 1 pumpkin seed
+
+              * 2 fruit gourd seeds'
+            - 'Fermenting...
+
+              -------------------
+
+              * 20 minutes
+
+
+              Distillation...
+
+              -------------------
+
+              * 10 runs
+
+
+              Ageing...
+
+              -------------------* 0 seasons
+
+              * oakwood barrel'
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - The Art of Crafting...
+            title: Rakia Recipe
+            author: Master Distiller of Suika
+            pages:
+            - 'Rakia
+
+              -------------------
+
+              The Art of Crafting...
+
+
+              -  -  -  -  -  -  -  -
+
+
+              Ingredients...
+
+              -------------------
+
+              * 8 ripe apples'
+            - 'Fermenting...
+
+              -------------------
+
+              * 15 minutes
+
+
+              Distillation...
+
+              -------------------
+
+              * 15 runs
+
+
+              Ageing...
+
+              -------------------* 0 seasons
+
+              * oakwood barrel'
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - The Art of Crafting...
+            title: Poitin Recipe
+            author: Master Distiller of Suika
+            pages:
+            - 'Poitin
+
+              -------------------
+
+              The Art of Crafting...
+
+
+              -  -  -  -  -  -  -  -
+
+
+              Ingredients...
+
+              -------------------
+
+              * 6 heirloom potatoes
+
+              * 4 bundles of wheat
+
+              * 1 wild seed'
+            - 'Fermenting...
+
+              -------------------
+
+              * 15 minutes
+
+
+              Distillation...
+
+              -------------------
+
+              * 15 runs
+
+
+              Ageing...
+
+              -------------------* 0 seasons
+
+              * oakwood barrel'
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - The Art of Crafting...
+            title: Jenever Recipe
+            author: Master Distiller of Suika
+            pages:
+            - 'Jenever
+
+              -------------------
+
+              The Art of Crafting...
+
+
+              -  -  -  -  -  -  -  -
+
+
+              Ingredients...
+
+              -------------------
+
+              * 3 bundles of herbs
+
+              * 6 bundles of wheat'
+            - 'Fermenting...
+
+              -------------------
+
+              * 20 minutes
+
+
+              Distillation...
+
+              -------------------
+
+              * 10 runs
+
+
+              Ageing...
+
+              -------------------* 0 seasons
+
+              * oakwood barrel'
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - The Art of Crafting...
+            title: Rum Recipe
+            author: Master Distiller of Suika
+            pages:
+            - 'Rum
+
+              -------------------
+
+              The Art of Crafting...
+
+
+              -  -  -  -  -  -  -  -
+
+
+              Ingredients...
+
+              -------------------
+
+              * 10 canes of sugar'
+            - 'Fermenting...
+
+              -------------------
+
+              * 30 minutes
+
+
+              Distillation...
+
+              -------------------
+
+              * 8 runs
+
+
+              Ageing...
+
+              -------------------* 2 seasons
+
+              * oakwood barrel'
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - The Art of Crafting...
+            title: Palinka Recipe
+            author: Master Distiller of Suika
+            pages:
+            - 'Palinka
+
+              -------------------
+
+              The Art of Crafting...
+
+
+              -  -  -  -  -  -  -  -
+
+
+              Ingredients...
+
+              -------------------
+
+              * 1 pumpkin seed
+
+              * 5 ripe apples
+
+              * 2 fruit gourds'
+            - 'Fermenting...
+
+              -------------------
+
+              * 15 minutes
+
+
+              Distillation...
+
+              -------------------
+
+              * 10 runs
+
+
+              Ageing...
+
+              -------------------* 0 seasons
+
+              * oakwood barrel'
+'27':
+  name: Deckhand
+  world: Woodlands
+  x: 399
+  y: 64
+  z: 65
+  uuid: 4be40553-fff6-457f-b33c-2fb9a9f352a9
+  prof: 5
+  object: villager
+  type: admin
+  recipes: {}
+'28':
+  name: Farmer
+  world: Woodlands
+  x: 21
+  y: 72
+  z: 337
+  uuid: 9c465e8c-bfd6-4104-8c9c-b334402bc4ae
+  prof: 0
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WHEAT
+          amount: 5
+'29':
+  name: Apothecary
+  world: Woodlands
+  x: 300
+  y: 72
+  z: 69
+  uuid: 3f68ca55-9c08-4a47-ad65-371ce2a5ffe1
+  object: witch
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: FERMENTED_SPIDER_EYE
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BLAZE_POWDER
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: MAGMA_CREAM
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: ENDER_PEARL
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GHAST_TEAR
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: NETHER_STALK
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GLOWSTONE_DUST
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BONE
+'30':
+  name: Assistant
+  world: Woodlands
+  x: 295
+  y: 72
+  z: 70
+  uuid: b629f4f2-de76-455f-b83d-6a7eb18d1120
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SPIDER_EYE
+          amount: 4
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BLAZE_ROD
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: MAGMA_CREAM
+          amount: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: ENDER_PEARL
+          amount: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GHAST_TEAR
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GLOWSTONE_DUST
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: NETHER_STALK
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BONE
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+'31':
+  name: Master Winemaker
+  world: Woodlands
+  x: 384
+  y: 69
+  z: 164
+  uuid: 11c0a3b1-e6c8-435b-a211-4abfc7943936
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - The Art of Crafting...
+            title: Wine Recipe
+            author: Master Winemaker of Suika
+            pages:
+            - 'Wine
+
+              -------------------
+
+              The Art of Crafting...
+
+
+              -  -  -  -  -  -  -  -
+
+
+              Ingredients...
+
+              -------------------
+
+              * 6 fruit gourds'
+            - 'Fermenting...
+
+              -------------------
+
+              * 20 minutes
+
+
+              Distillation...
+
+              -------------------
+
+              * 0 runs
+
+
+              Ageing...
+
+              -------------------* 4 seasons
+
+              * oakwood barrel'
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - The Art of Crafting...
+            title: Herb Wine Recipe
+            author: Master Winemaker of Suika
+            pages:
+            - 'Herb Wine
+
+              -------------------
+
+              The Art of Crafting...
+
+
+              -  -  -  -  -  -  -  -
+
+
+              Ingredients...
+
+              -------------------
+
+              * 3 bundles of herbs
+
+              * 5 fruit gourds'
+            - 'Fermenting...
+
+              -------------------
+
+              * 20 minutes
+
+
+              Distillation...
+
+              -------------------
+
+              * 0 runs
+
+
+              Ageing...
+
+              -------------------* 4 seasons
+
+              * oakwood barrel'
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - The Art of Crafting...
+            title: Apple Wine Recipe
+            author: Master Winemaker of Suika
+            pages:
+            - 'Apple Wine
+
+              -------------------
+
+              The Art of Crafting...
+
+
+              -  -  -  -  -  -  -  -
+
+
+              Ingredients...
+
+              -------------------
+
+              * 4 ripe apples
+
+              * 5 fruit gourds'
+            - 'Fermenting...
+
+              -------------------
+
+              * 20 minutes
+
+
+              Distillation...
+
+              -------------------
+
+              * 0 runs
+
+
+              Ageing...
+
+              -------------------* 4 seasons
+
+              * oakwood barrel'
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - The Art of Crafting...
+            title: Dandelion Wine Recipe
+            author: Master Winemaker of Suika
+            pages:
+            - 'Dandelion Wine
+
+              -------------------
+
+              The Art of Crafting...
+
+
+              -  -  -  -  -  -  -  -
+
+
+              Ingredients...
+
+              -------------------
+
+              * 3 green dandelions
+
+              * 5 fruit gourds'
+            - 'Fermenting...
+
+              -------------------
+
+              * 20 minutes
+
+
+              Distillation...
+
+              -------------------
+
+              * 0 runs
+
+
+              Ageing...
+
+              -------------------* 4 seasons
+
+              * oakwood barrel'
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - The Art of Crafting...
+            title: Pumpkin Wine Recipe
+            author: Master Winemaker of Suika
+            pages:
+            - 'Pumpkin Wine
+
+              -------------------
+
+              The Art of Crafting...
+
+
+              -  -  -  -  -  -  -  -
+
+
+              Ingredients...
+
+              -------------------
+
+              * 2 harvest pumpkins
+
+              * 4 fruit gourds'
+            - 'Fermenting...
+
+              -------------------
+
+              * 20 minutes
+
+
+              Distillation...
+
+              -------------------
+
+              * 0 runs
+
+
+              Ageing...
+
+              -------------------* 4 seasons
+
+              * oakwood barrel'
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - The Art of Crafting...
+            title: Chardonnay Recipe
+            author: Master Winemaker of Suika
+            pages:
+            - 'Chardonnay
+
+              -------------------
+
+              The Art of Crafting...
+
+
+              -  -  -  -  -  -  -  -
+
+
+              Ingredients...
+
+              -------------------
+
+              * 2 hearth coke
+
+              * 5 fruit gourds'
+            - 'Fermenting...
+
+              -------------------
+
+              * 20 minutes
+
+
+              Distillation...
+
+              -------------------
+
+              * 0 runs
+
+
+              Ageing...
+
+              -------------------* 4 seasons
+
+              * pinewood barrel'
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - The Art of Crafting...
+            title: Cognac Recipe
+            author: Master Winemaker of Suika
+            pages:
+            - 'Cognac
+
+              -------------------
+
+              The Art of Crafting...
+
+
+              -  -  -  -  -  -  -  -
+
+
+              Ingredients...
+
+              -------------------
+
+              * 6 fruit gourds'
+            - 'Fermenting...
+
+              -------------------
+
+              * 20 minutes
+
+
+              Distillation...
+
+              -------------------
+
+              * 10 runs
+
+
+              Ageing...
+
+              -------------------* 4 seasons
+
+              * oakwood barrel'
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - The Art of Crafting...
+            title: Vermouth Recipe
+            author: Master Winemaker of Suika
+            pages:
+            - 'Vermouth
+
+              -------------------
+
+              The Art of Crafting...
+
+
+              -  -  -  -  -  -  -  -
+
+
+              Ingredients...
+
+              -------------------
+
+              * 1 wild seed
+
+              * 1 pumpkin seed
+
+              * 1 fruit gourd seed
+
+              * 1 bundle of herbs
+
+              * 7 fruit gourds'
+            - 'Fermenting...
+
+              -------------------
+
+              * 20 minutes
+
+
+              Distillation...
+
+              -------------------
+
+              * 8 runs
+
+
+              Ageing...
+
+              -------------------* 4 seasons
+
+              * oakwood barrel'
+'32':
+  name: Master Brewer
+  world: Woodlands
+  x: 385
+  y: 69
+  z: 160
+  uuid: 4895b76d-680f-476c-be60-71a459a0885b
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - The Art of Crafting...
+            title: Wheatbeer Recipe
+            author: Master Brewer of Suika
+            pages:
+            - 'Wheatbeer
+
+              -------------------
+
+              The Art of Crafting...
+
+
+              -  -  -  -  -  -  -  -
+
+
+              Ingredients...
+
+              -------------------
+
+              * 3 bundles of wheat'
+            - 'Fermenting...
+
+              -------------------
+
+              * 10 minutes
+
+
+              Distillation...
+
+              -------------------
+
+              * 0 runs
+
+
+              Ageing...
+
+              -------------------* 1 season
+
+              * oakwood barrel'
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - The Art of Crafting...
+            title: Barleywine Recipe
+            author: Master Brewer of Suika
+            pages:
+            - 'Barleywine
+
+              -------------------
+
+              The Art of Crafting...
+
+
+              -  -  -  -  -  -  -  -
+
+
+              Ingredients...
+
+              -------------------
+
+              * 6 bundles of wheat'
+            - 'Fermenting...
+
+              -------------------
+
+              * 10 minutes
+
+
+              Distillation...
+
+              -------------------
+
+              * 0 runs
+
+
+              Ageing...
+
+              -------------------* 1 season
+
+              * oakwood barrel'
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - The Art of Crafting...
+            title: Schwarzbier Recipe
+            author: Master Brewer of Suika
+            pages:
+            - 'Schwarzbier
+
+              -------------------
+
+              The Art of Crafting...
+
+
+              -  -  -  -  -  -  -  -
+
+
+              Ingredients...
+
+              -------------------
+
+              * 6 bundles of wheat'
+            - 'Fermenting...
+
+              -------------------
+
+              * 10 minutes
+
+
+              Distillation...
+
+              -------------------
+
+              * 0 runs
+
+
+              Ageing...
+
+              -------------------* 1 season
+
+              * pinewood barrel'
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - The Art of Crafting...
+            title: Cider Recipe
+            author: Master Brewer of Suika
+            pages:
+            - 'Cider
+
+              -------------------
+
+              The Art of Crafting...
+
+
+              -  -  -  -  -  -  -  -
+
+
+              Ingredients...
+
+              -------------------
+
+              * 10 ripe apples'
+            - 'Fermenting...
+
+              -------------------
+
+              * 15 minutes
+
+
+              Distillation...
+
+              -------------------
+
+              * 0 runs
+
+
+              Ageing...
+
+              -------------------* 2 seasons
+
+              * oakwood barrel'
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - The Art of Crafting...
+            title: Bitter Ale Recipe
+            author: Master Brewer of Suika
+            pages:
+            - 'Bitter Ale
+
+              -------------------
+
+              The Art of Crafting...
+
+
+              -  -  -  -  -  -  -  -
+
+
+              Ingredients...
+
+              -------------------
+
+              * 7 bundles of wheat
+
+              * 2 hearth coke'
+            - 'Fermenting...
+
+              -------------------
+
+              * 15 minutes
+
+
+              Distillation...
+
+              -------------------
+
+              * 0 runs
+
+
+              Ageing...
+
+              -------------------* 1 season
+
+              * oakwood barrel'
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - The Art of Crafting...
+            title: Rye Whiskey Recipe
+            author: Master Brewer of Suika
+            pages:
+            - 'Rye Whiskey
+
+              -------------------
+
+              The Art of Crafting...
+
+
+              -  -  -  -  -  -  -  -
+
+
+              Ingredients...
+
+              -------------------
+
+              * 1 wild seed
+
+              * 12 bundles of wheat
+
+              * 4 bundles of herbs'
+            - 'Fermenting...
+
+              -------------------
+
+              * 15 minutes
+
+
+              Distillation...
+
+              -------------------
+
+              * 10 runs
+
+
+              Ageing...
+
+              -------------------* 2 seasons
+
+              * oakwood barrel'
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - The Art of Crafting...
+            title: Mead Recipe
+            author: Master Brewer of Suika
+            pages:
+            - 'Mead
+
+              -------------------
+
+              The Art of Crafting...
+
+
+              -  -  -  -  -  -  -  -
+
+
+              Ingredients...
+
+              -------------------
+
+              * 6 canes of sugar'
+            - 'Fermenting...
+
+              -------------------
+
+              * 10 minutes
+
+
+              Distillation...
+
+              -------------------
+
+              * 0 runs
+
+
+              Ageing...
+
+              -------------------* 2 seasons
+
+              * oakwood barrel'
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WRITTEN_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            lore:
+            - The Art of Crafting...
+            title: Apple Mead Recipe
+            author: Master Winemaker of Suika
+            pages:
+            - 'Apple Mead
+
+              -------------------
+
+              The Art of Crafting...
+
+
+              -  -  -  -  -  -  -  -
+
+
+              Ingredients...
+
+              -------------------
+
+              * 2 ripe apples
+
+              * 6 canes of sugar'
+            - 'Fermenting...
+
+              -------------------
+
+              * 10 minutes
+
+
+              Distillation...
+
+              -------------------
+
+              * 0 runs
+
+
+              Ageing...
+
+              -------------------* 2 seasons
+
+              * oakwood barrel'
+'33':
+  name: Traveller
+  world: Woodlands
+  x: 296
+  y: 74
+  z: 82
+  uuid: 49d5ddaf-ab9f-4233-8c0a-0c455b34efdc
+  prof: 5
+  object: villager
+  type: admin
+  recipes: {}
+'34':
+  name: Villager
+  world: Woodlands
+  x: 384
+  y: 68
+  z: 127
+  uuid: a3a83b0a-b31f-4738-8443-254fb9002bd8
+  prof: 5
+  object: villager
+  type: admin
+  recipes: {}
+'35':
+  name: Villager
+  world: Woodlands
+  x: 397
+  y: 64
+  z: 117
+  uuid: d6cea58f-229e-4834-b6fa-6dd82b5c4a83
+  prof: 5
+  object: villager
+  type: admin
+  recipes: {}
+'36':
+  name: Traveller
+  world: Woodlands
+  x: 30
+  y: 72
+  z: 362
+  uuid: b07b3ac0-dff5-4779-96ea-85ccd064abc3
+  prof: 5
+  object: villager
+  type: admin
+  recipes: {}
+'37':
+  name: Vendor
+  world: Woodlands
+  x: 387
+  y: 64
+  z: 104
+  uuid: 5c32eccd-05c0-4af3-b5d0-fd7005e497c3
+  prof: 2
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Diamond
+            lore:
+            - 64 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PACKED_ICE
+          amount: 64
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GRAVEL
+          amount: 64
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SAND
+          amount: 64
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: CLAY
+          amount: 64
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Diamond
+            lore:
+            - 64 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GLOWSTONE
+          amount: 64
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Diamond
+            lore:
+            - 64 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SMOOTH_BRICK
+          damage: 1
+          amount: 64
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Diamond
+            lore:
+            - 64 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SMOOTH_BRICK
+          damage: 2
+          amount: 64
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Diamond
+            lore:
+            - 64 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SMOOTH_BRICK
+          damage: 3
+          amount: 64
+'38':
+  name: Vendor
+  world: Woodlands
+  x: 387
+  y: 64
+  z: 110
+  uuid: 58edfa47-6525-4ec8-ad00-cdad21c8b327
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: COAL_ORE
+          amount: 64
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LAPIS_ORE
+          amount: 64
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Diamond
+            lore:
+            - 64 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: REDSTONE_ORE
+          amount: 64
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Diamond
+            lore:
+            - 64 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: QUARTZ_ORE
+          amount: 64
+'39':
+  name: Villager
+  world: Woodlands
+  x: 384
+  y: 64
+  z: 101
+  uuid: 1e5a1e28-220a-4a1f-84aa-89e0b302ba69
+  prof: 5
+  object: villager
+  type: admin
+  recipes: {}
+'40':
+  name: Villager
+  world: Woodlands
+  x: 384
+  y: 64
+  z: 109
+  uuid: 77e8049c-8d37-46e1-bd13-508f63dc56a2
+  prof: 5
+  object: villager
+  type: admin
+  recipes: {}
+'41':
+  name: Vendor
+  world: Woodlands
+  x: 387
+  y: 64
+  z: 95
+  uuid: d074634d-544b-495a-a9dc-cd6a60ca0575
+  prof: 2
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: FISHING_ROD
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            enchants:
+              DURABILITY: 3
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: COMPASS
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WATCH
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SHEARS
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            enchants:
+              DURABILITY: 3
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_SPADE
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            enchants:
+              DURABILITY: 3
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_PICKAXE
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            enchants:
+              DURABILITY: 3
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_AXE
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            enchants:
+              DURABILITY: 3
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_HOE
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            enchants:
+              DURABILITY: 3
+'42':
+  name: Traveller
+  world: Woodlands
+  x: 438
+  y: 65
+  z: 47
+  uuid: b2adc920-0c2b-4b99-9253-2942118c891b
+  prof: 5
+  object: villager
+  type: admin
+  recipes: {}
+'43':
+  name: Drunkard
+  world: Woodlands
+  x: 408
+  y: 68
+  z: 170
+  uuid: 82947e60-de84-4bf1-b271-2f39e804eaac
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: STRING
+'44':
+  name: Traveller
+  world: Woodlands
+  x: -2
+  y: 73
+  z: 120
+  uuid: 07c56076-11c7-4c44-b66d-a67012eee4f3
+  prof: 5
+  object: villager
+  type: admin
+  recipes: {}
+'45':
+  name: Farmhand
+  world: Woodlands
+  x: 15
+  y: 73
+  z: 355
+  uuid: eb5c6c32-bf2d-4c89-8ad5-4f60affff994
+  prof: 0
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WHEAT
+          amount: 16
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SEEDS
+          amount: 64
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTATO_ITEM
+          amount: 32
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: CARROT_ITEM
+          amount: 32
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+'46':
+  name: Lost Drunkard
+  world: Woodlands
+  x: 15
+  y: 77
+  z: 2
+  uuid: 12d2e7d0-4d26-4c68-9fb4-e4b16f3271d3
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BOOK_AND_QUILL
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BOOK_AND_QUILL
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            pages:
+            - 'Hey... *hic*  You- do yoouu know ''e way to ''e co-cloisest meaad hall??!
+
+
+              I ssure could use a breww...'
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 46
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fFine Wheatbeer
+            lore:
+            - ''
+            - §772 Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -650
+              amplifier: 0
+              ambient: true
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+'47':
+  name: Oracle
+  world: Woodlands
+  x: 0
+  y: 79
+  z: 21
+  uuid: 6897dc8d-5653-44f7-8f94-858333ed4b66
+  object: witch
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BOOK_AND_QUILL
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BOOK_AND_QUILL
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            pages:
+            - 'A traveller from afar, perhaps...?
+
+
+              They say if you toss a flask of light down this old well, the spirits
+              of the land will grant you the ability to alter it to your liking...
+
+
+              ...If you can find me a ball of sparks and my favourite record...'
+            - '...then I might gift you what you seek...'
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: FIREWORK_CHARGE
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RECORD_11
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: EXP_BOTTLE
+'48':
+  name: Traveller
+  world: Woodlands
+  x: -8
+  y: 77
+  z: 6
+  uuid: 863d49f0-f40f-4240-910d-79dfffcfbe0e
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BOOK_AND_QUILL
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BOOK_AND_QUILL
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            pages:
+            - 'You''re new to these parts, aren''t you?
+
+
+              I can tell... I come through these woods quite often and you don''t
+              look like a person I am keen to see on known path.
+
+
+              Well, I suppose you need help of some sort?'
+            - I may not be the most adapt to remedy your situation, but I suggest you do talk to the local oracle.  You might not find your way out less you do so...
+'49':
+  name: Receptionist
+  world: Woodlands
+  x: 365
+  y: 64
+  z: 85
+  uuid: d6d96dd0-b6eb-4cb6-b5de-99d02c845140
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BOOK_AND_QUILL
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            display-name: Certificate of Residence
+            repair-cost: 2
+            pages:
+            - 'Hithe-upon-Wych
+
+              ------------------
+
+
+              Privilege to work and to purchase property in this locality is hereby
+              given to:
+
+              §n                           '
+'50':
+  name: Clerk
+  world: Woodlands
+  x: 364
+  y: 64
+  z: 92
+  uuid: 34771d48-c309-4f73-accc-b23e2aea6b07
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BOOK
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BOOK_AND_QUILL
+'51':
+  name: Clerk
+  world: Woodlands
+  x: 367
+  y: 68
+  z: 87
+  uuid: 80a0798e-399a-45d4-8a63-35bd141ea514
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BOOK
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BOOK_AND_QUILL
+'52':
+  name: Clerk
+  world: Woodlands
+  x: 364
+  y: 68
+  z: 92
+  uuid: 8b2d1064-a8f3-4ef6-a4c3-2fc96d609e5d
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BOOK
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BOOK_AND_QUILL
+'53':
+  name: Clerk
+  world: Woodlands
+  x: 362
+  y: 61
+  z: 86
+  uuid: f60858df-fba8-4d4d-b6aa-7410e5e212d6
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BOOK
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BOOK_AND_QUILL
+'54':
+  name: Vendor
+  world: Woodlands
+  x: 382
+  y: 64
+  z: 106
+  uuid: 0e9a1ece-7629-4401-8b48-9afe4046cb2d
+  prof: 2
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_SWORD
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            enchants:
+              DURABILITY: 3
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_SWORD
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            enchants:
+              DURABILITY: 3
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Diamond
+            lore:
+            - 64 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND_SWORD
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            enchants:
+              DURABILITY: 3
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BOW
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            enchants:
+              DURABILITY: 3
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: ARROW
+          amount: 16
+'55':
+  name: Villager
+  world: Woodlands
+  x: 373
+  y: 64
+  z: 98
+  uuid: ea6fc4f1-a083-4f90-b840-c5bf1a7596a5
+  prof: 5
+  object: villager
+  type: admin
+  recipes: {}
+'56':
+  name: Villager
+  world: Woodlands
+  x: 380
+  y: 64
+  z: 99
+  uuid: d074e878-c90a-43fc-865e-2d99641daada
+  prof: 5
+  object: villager
+  type: admin
+  recipes: {}
+'57':
+  name: Postman
+  world: Woodlands
+  x: 372
+  y: 64
+  z: 112
+  uuid: 8b4f2ec3-21a0-4bbe-82cd-bfb3c1cb182e
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BOOK
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BOOK_AND_QUILL
+'58':
+  name: Vendor
+  world: Woodlands
+  x: 382
+  y: 64
+  z: 114
+  uuid: 1cdf14a4-020b-4db2-a009-9415d5577a17
+  prof: 2
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_HELMET
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            enchants:
+              DURABILITY: 3
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_CHESTPLATE
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            enchants:
+              DURABILITY: 3
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_LEGGINGS
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            enchants:
+              DURABILITY: 3
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_BOOTS
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            enchants:
+              DURABILITY: 3
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: CHAINMAIL_HELMET
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            enchants:
+              DURABILITY: 3
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: CHAINMAIL_CHESTPLATE
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            enchants:
+              DURABILITY: 3
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: CHAINMAIL_LEGGINGS
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            enchants:
+              DURABILITY: 3
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: CHAINMAIL_BOOTS
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            enchants:
+              DURABILITY: 3
+'59':
+  name: Villager
+  world: Woodlands
+  x: 378
+  y: 64
+  z: 124
+  uuid: bca0fae8-d7a9-4966-91d8-21196e711aeb
+  prof: 5
+  object: villager
+  type: admin
+  recipes: {}
+'60':
+  name: Villager
+  world: Woodlands
+  x: 380
+  y: 65
+  z: 115
+  uuid: 21bc403a-d853-47eb-8c5a-ee417c3c8203
+  prof: 5
+  object: villager
+  type: admin
+  recipes: {}
+'61':
+  name: Travelling Merchant
+  world: Woodlands
+  x: 143
+  y: 71
+  z: 245
+  uuid: a27a93e2-64f7-4920-a564-3634d61aa650
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: FISHING_ROD
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            enchants:
+              DURABILITY: 3
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: APPLE
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 5
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 36
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fStrong Chartreuse
+            lore:
+            - ''
+            - §710-times Distilled
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -453
+              amplifier: 0
+              ambient: true
+            - ==: PotionEffect
+              effect: 19
+              duration: 0
+              amplifier: 0
+              ambient: true
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 46
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fFine Vermouth
+            lore:
+            - ''
+            - §78-times Distilled
+            - §7Hundreds of Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -454
+              amplifier: 0
+              ambient: true
+            - ==: PotionEffect
+              effect: 6
+              duration: 1
+              amplifier: 0
+              ambient: true
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Diamond
+            lore:
+            - 64 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: JUKEBOX
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: WATCH
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Diamond
+            lore:
+            - 64 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: NAME_TAG
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAINTING
+'62':
+  name: Lost Traveller
+  world: Woodlands
+  x: 356
+  y: 71
+  z: 140
+  uuid: 707390cd-7b44-404a-86cc-92f5ca7cbfe8
+  prof: 0
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BOOK_AND_QUILL
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BOOK_AND_QUILL
+          meta:
+            ==: ItemMeta
+            meta-type: BOOK
+            pages:
+            - 'Say, you seem to travel with a horseless saddle...
+
+
+              If you aren''t in need of it, you could have this explosive I took from
+              the firework vendor.
+
+
+              Come on, you don''t really need it, do you? I could use it... now...'
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SADDLE
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: FIREWORK_CHARGE
+'63':
+  name: Woodcutter
+  world: Woodlands
+  x: 284
+  y: 75
+  z: 96
+  uuid: ac9ebf2b-23d0-4824-ab1b-b8afca92474a
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEAVES
+          amount: 64
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEAVES
+          damage: 1
+          amount: 64
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEAVES
+          damage: 2
+          amount: 64
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEAVES
+          damage: 3
+          amount: 64
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEAVES_2
+          amount: 64
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LEAVES_2
+          damage: 1
+          amount: 64
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SHEARS
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            enchants:
+              DURABILITY: 3
+'64':
+  name: Woodcutter
+  world: Woodlands
+  x: 282
+  y: 76
+  z: 97
+  uuid: f452ec37-c485-4cdc-85ef-22924de9f957
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LOG
+          amount: 32
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LOG
+          damage: 1
+          amount: 32
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LOG
+          damage: 2
+          amount: 32
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LOG
+          damage: 3
+          amount: 32
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LOG_2
+          amount: 32
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LOG_2
+          damage: 1
+          amount: 32
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_AXE
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            enchants:
+              DURABILITY: 3
+'65':
+  name: Travelling Merchant
+  world: Woodlands
+  x: -3
+  y: 77
+  z: -12
+  uuid: d0c23fd9-77d5-4d17-b3a1-d5bd2ddd1125
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Diamond
+            lore:
+            - 64 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RECORD_4
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Diamond
+            lore:
+            - 64 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RECORD_6
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LOG
+          amount: 32
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 44
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fFine Herb Wine
+            lore:
+            - ''
+            - §7Hundreds of Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -447
+              amplifier: 0
+              ambient: true
+            - ==: PotionEffect
+              effect: 6
+              duration: 1
+              amplifier: 0
+              ambient: true
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 35
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fFine Pumpkin Wine
+            lore:
+            - ''
+            - §7Hundreds of Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -448
+              amplifier: 0
+              ambient: true
+            - ==: PotionEffect
+              effect: 6
+              duration: 1
+              amplifier: 0
+              ambient: true
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 35
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fGolden Apple Mead
+            lore:
+            - ''
+            - §7144 Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -449
+              amplifier: 0
+              ambient: true
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 46
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fFine Bitter Ale
+            lore:
+            - ''
+            - §772 Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -450
+              amplifier: 0
+              ambient: true
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 35
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fFine Barleywine
+            lore:
+            - ''
+            - §772 Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -451
+              amplifier: 0
+              ambient: true
+'66':
+  name: Environmentalist
+  world: Woodlands
+  x: 346
+  y: 68
+  z: 101
+  uuid: 3aa2dc06-3dbf-41fa-853d-024ee5a28c43
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GLASS_BOTTLE
+          amount: 16
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+'67':
+  name: Villager
+  world: Woodlands
+  x: 463
+  y: 65
+  z: 72
+  uuid: bcacdc28-fc9b-46c7-b120-4d43d1dc5788
+  prof: 5
+  object: villager
+  type: admin
+  recipes: {}
+'68':
+  name: Bandit
+  world: Woodlands
+  x: -56
+  y: 58
+  z: 141
+  uuid: b99b8a60-6b7f-4f11-b5e3-45b87526061e
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SULPHUR
+          amount: 4
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 6
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BLAZE_ROD
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+          amount: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 6
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: ENCHANTED_BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: ENCHANTED
+            stored-enchants:
+              LOOT_BONUS_BLOCKS: 3
+'69':
+  name: Farmer
+  world: Woodlands
+  x: 325
+  y: 77
+  z: 160
+  uuid: 7631b60d-8a9f-4aeb-aab6-d1713274d30c
+  prof: 0
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SEEDS
+          amount: 8
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PUMPKIN_SEEDS
+          amount: 4
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: MELON_SEEDS
+          amount: 4
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 3
+          amount: 2
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SUGAR_CANE
+          amount: 4
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: INK_SACK
+          damage: 15
+          amount: 2
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: APPLE
+'70':
+  name: Barkeep
+  world: Woodlands
+  x: 420
+  y: 66
+  z: 174
+  uuid: 97c4bbd7-bd0b-4a55-9ae1-bee3d0552cfc
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 46
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fFine Wheatbeer
+            lore:
+            - ''
+            - §772 Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -186
+              amplifier: 0
+              ambient: true
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 35
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fFine Barleywine
+            lore:
+            - ''
+            - §772 Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -194
+              amplifier: 0
+              ambient: true
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 40
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fFine Schwarzbier
+            lore:
+            - ''
+            - §772 Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -378
+              amplifier: 0
+              ambient: true
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 44
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fFine Cider
+            lore:
+            - ''
+            - §7144 Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -380
+              amplifier: 0
+              ambient: true
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 46
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fFine Bitter Ale
+            lore:
+            - ''
+            - §772 Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -387
+              amplifier: 0
+              ambient: true
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 37
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fFine Rye Whiskey
+            lore:
+            - ''
+            - §710-times Distilled
+            - §7144 Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -396
+              amplifier: 0
+              ambient: true
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 35
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fGolden Mead
+            lore:
+            - ''
+            - §7144 Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -404
+              amplifier: 0
+              ambient: true
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 35
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fGolden Apple Mead
+            lore:
+            - ''
+            - §7144 Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -405
+              amplifier: 0
+              ambient: true
+'71':
+  name: Barkeep
+  world: Woodlands
+  x: 422
+  y: 66
+  z: 174
+  uuid: b6eb481a-68fa-4d30-badc-1178c6d2122a
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 46
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fStrong Vodka
+            lore:
+            - ''
+            - §720-times Distilled
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -413
+              amplifier: 0
+              ambient: true
+            - ==: PotionEffect
+              effect: 19
+              duration: 0
+              amplifier: 0
+              ambient: true
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 36
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fStrong Absinthe
+            lore:
+            - ''
+            - §710-times Distilled
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -414
+              amplifier: 0
+              ambient: true
+            - ==: PotionEffect
+              effect: 19
+              duration: 0
+              amplifier: 0
+              ambient: true
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 36
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fStrong Chartreuse
+            lore:
+            - ''
+            - §710-times Distilled
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -99
+              amplifier: 0
+              ambient: true
+            - ==: PotionEffect
+              effect: 19
+              duration: 0
+              amplifier: 0
+              ambient: true
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 35
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fStrong Rakia
+            lore:
+            - ''
+            - §715-times Distilled
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -424
+              amplifier: 0
+              ambient: true
+            - ==: PotionEffect
+              effect: 19
+              duration: 0
+              amplifier: 0
+              ambient: true
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 34
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fStrong Poitin
+            lore:
+            - ''
+            - §715-times Distilled
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -117
+              amplifier: 0
+              ambient: true
+            - ==: PotionEffect
+              effect: 19
+              duration: 0
+              amplifier: 0
+              ambient: true
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 34
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fStrong Jenever
+            lore:
+            - ''
+            - §710-times Distilled
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -367
+              amplifier: 0
+              ambient: true
+            - ==: PotionEffect
+              effect: 19
+              duration: 0
+              amplifier: 0
+              ambient: true
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 37
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fStrong Rum
+            lore:
+            - ''
+            - §78-times Distilled
+            - §7144 Days Barrel aged
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -412
+              amplifier: 0
+              ambient: true
+            - ==: PotionEffect
+              effect: 19
+              duration: 0
+              amplifier: 0
+              ambient: true
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '1':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: POTION
+          damage: 35
+          meta:
+            ==: ItemMeta
+            meta-type: POTION
+            display-name: §fStrong Palinka
+            lore:
+            - ''
+            - §710-times Distilled
+            custom-effects:
+            - ==: PotionEffect
+              effect: 10
+              duration: -136
+              amplifier: 0
+              ambient: true
+            - ==: PotionEffect
+              effect: 19
+              duration: 0
+              amplifier: 0
+              ambient: true
+'72':
+  name: Drunkard
+  world: Woodlands
+  x: 419
+  y: 67
+  z: 170
+  uuid: 7323ced1-f9fc-427a-a34f-729648e42192
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BONE
+'73':
+  name: Forester
+  world: Woodlands
+  x: 228
+  y: 82
+  z: 106
+  uuid: 65e38f96-e8cd-45f0-9b0f-0316c20e229d
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SAPLING
+          amount: 8
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SAPLING
+          damage: 1
+          amount: 8
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SAPLING
+          damage: 2
+          amount: 8
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SAPLING
+          damage: 3
+          amount: 8
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SAPLING
+          damage: 4
+          amount: 8
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SAPLING
+          damage: 5
+          amount: 8
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LONG_GRASS
+          damage: 1
+          amount: 32
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DOUBLE_PLANT
+          damage: 2
+          amount: 16
+'74':
+  name: Drunkard
+  world: Woodlands
+  x: 9
+  y: 70
+  z: 417
+  uuid: 37143a3c-9010-4f0d-9d4e-c7f3f6c2f9d4
+  prof: 0
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: EGG
+'75':
+  name: Florist
+  world: Woodlands
+  x: 464
+  y: 64
+  z: 116
+  uuid: 0fe0c3cb-a09d-40d3-aa9d-a4ba3bc249d1
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RED_ROSE
+          damage: 4
+          amount: 16
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RED_ROSE
+          damage: 5
+          amount: 16
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RED_ROSE
+          damage: 6
+          amount: 16
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RED_ROSE
+          damage: 7
+          amount: 16
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LONG_GRASS
+          damage: 1
+          amount: 32
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LONG_GRASS
+          damage: 2
+          amount: 32
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: LONG_GRASS
+          amount: 32
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DEAD_BUSH
+          amount: 32
+'76':
+  name: Travelling Merchant
+  world: Woodlands
+  x: 10
+  y: 69
+  z: 450
+  uuid: 242e7140-9b46-46b9-8617-269b63b2c335
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: NOTE_BLOCK
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: EMERALD
+          amount: 10
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Emerald
+            lore:
+            - 512 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SKULL_ITEM
+          damage: 4
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 6
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: SADDLE
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BED
+    '4':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 5
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: ANVIL
+    '5':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BREWING_STAND_ITEM
+    '6':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Diamond
+            lore:
+            - 64 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RECORD_9
+    '7':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Diamond
+            lore:
+            - 64 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: RECORD_7
+'77':
+  name: Banker
+  world: Woodlands
+  x: 467
+  y: 64
+  z: 68
+  uuid: 09b4d6e8-0105-4c9d-8664-5623bb2e5478
+  prof: 1
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Diamond
+            lore:
+            - 64 Suikan Pounds
+            repair-cost: 2
+    '3':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: EMERALD
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: EMERALD
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Emerald
+            lore:
+            - 512 Suikan Pounds
+            repair-cost: 2
+'78':
+  name: Banker
+  world: Woodlands
+  x: 467
+  y: 64
+  z: 72
+  uuid: 7c0b8974-e2f8-48d3-9985-4ecb060c8e83
+  prof: 1
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: EMERALD
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Emerald
+            lore:
+            - 512 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+          amount: 8
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Diamond
+            lore:
+            - 64 Suikan Pounds
+            repair-cost: 2
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Diamond
+            lore:
+            - 64 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 8
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 8
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+'79':
+  name: Banker
+  world: Woodlands
+  x: 467
+  y: 64
+  z: 76
+  uuid: 12416f26-1246-4edf-94c1-25a52d47d752
+  prof: 1
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 8
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 8
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Diamond
+            lore:
+            - 64 Suikan Pounds
+            repair-cost: 2
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+          amount: 8
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Diamond
+            lore:
+            - 64 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: EMERALD
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Emerald
+            lore:
+            - 512 Suikan Pounds
+            repair-cost: 2
+'80':
+  name: Clerk
+  world: Woodlands
+  x: 470
+  y: 68
+  z: 74
+  uuid: 74eb2175-6da5-4ddf-acab-4557d3a3d2f3
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BOOK
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BOOK_AND_QUILL
+'81':
+  name: Clerk
+  world: Woodlands
+  x: 469
+  y: 68
+  z: 69
+  uuid: 51a28f9b-3103-42a7-8f1a-7f8455d53912
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: PAPER
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BOOK
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: BOOK_AND_QUILL
+'82':
+  name: Villager
+  world: Woodlands
+  x: 464
+  y: 65
+  z: 72
+  uuid: 950d91ce-3127-4db6-8f01-573993da505c
+  prof: 5
+  object: villager
+  type: admin
+  recipes: {}
+'83':
+  name: Villager
+  world: Woodlands
+  x: 464
+  y: 65
+  z: 76
+  uuid: 6c7bc7d1-a6ac-4e98-bfcb-f52145dee5c7
+  prof: 5
+  object: villager
+  type: admin
+  recipes: {}

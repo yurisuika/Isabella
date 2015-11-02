@@ -1,0 +1,30 @@
+cfg-version: 11
+message: '&cYou have reached the edge of this world.'
+round-border: false
+debug-mode: false
+whoosh-effect: false
+portal-redirection: true
+knock-back-dist: 3.0
+timer-delay-ticks: 5
+remount-delay-ticks: 0
+dynmap-border-enabled: false
+dynmap-border-message: The border of the world.
+player-killed-bad-spawn: false
+deny-enderpearl: true
+fill-autosave-frequency: 30
+fill-memory-tolerance: 500
+bypass-list-uuids: []
+prevent-block-place: false
+worlds:
+  Woodlands:
+    x: 0.5
+    z: 0.5
+    radiusX: 5120
+    radiusZ: 5120
+    wrapping: false
+  Suika:
+    x: 0.5
+    z: 0.5
+    radiusX: 5120
+    radiusZ: 5120
+    wrapping: false

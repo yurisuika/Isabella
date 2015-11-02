@@ -1,0 +1,33 @@
+use-permissions: true
+max-durability: 100
+min-durability: 0
+auto-update: true
+messages:
+  not-damaged-enough: Item is not damaged enough.
+  too-damaged: Item is too damaged.
+base-cost: 0
+cost-per-enchantment: 0
+enchantment-cost-per-level:
+  DURABILITY: 3
+  PROTECTION_ENVIRONMENTAL: 4
+  LOOT_BONUS_BLOCKS: 5
+  PROTECTION_FIRE: 3
+  DIG_SPEED: 3
+  PROTECTION_FALL: 4
+  SILK_TOUCH: 5
+  PROTECTION_EXPLOSIONS: 3
+  PROTECTION_PROJECTILE: 3
+  OXYGEN: 4
+  WATER_WORKER: 6
+  THORNS: 6
+  ARROW_INFINITE: 8
+  DAMAGE_UNDEAD: 3
+  ARROW_FIRE: 5
+  DAMAGE_ALL: 3
+  ARROW_KNOCKBACK: 6
+  KNOCKBACK: 4
+  ARROW_DAMAGE: 3
+  DAMAGE_ARTHROPODS: 3
+  LOOT_BONUS_MOBS: 5
+  FIRE_ASPECT: 5
+  DEPTH_STRIDER: 5

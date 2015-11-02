@@ -1,0 +1,15 @@
+spawns: 
+  default: 
+    world: Suika
+    x: 0.5
+    y: 77.0
+    z: 0.5
+    yaw: 45
+    pitch: 0
+  all: 
+    world: Suika
+    x: 0.5
+    y: 77.0
+    z: 0.5
+    yaw: 45
+    pitch: 0

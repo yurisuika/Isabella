@@ -1,0 +1,342 @@
+# config.yml
+# - This configuration file is responsible for configuring the plugin.
+# - Any values _not set_ in this file will be set to the configuration default.
+# - Any _invalid_ values will be reset to the configuration default.
+# - To rebuild this file stop your server, delete it and then restart.
+# values:
+# - logging:
+# -- This value specifies the LOG_LEVEL that the plugin should operate in. A value of ALL will also log SQL transactions made by the plugin.
+# -- Valid values: OFF, SEVERE, WARNING, INFO, CONFIG, FINE, FINER, FINEST, ALL.
+# -- Default: INFO
+# - automatic-updates.branch:
+# -- This value specifies which branch to check when checking for updates.
+# -- Valid values: STABLE (latest release), DEVELOPMENT (latest snapshot release).
+# -- Default: STABLE
+# - automatic-updates.method:
+# -- This value specifies the operating method of the automatic updater. Not all updaters support all values but they all support OFF.
+# -- Valid values: UPDATE (update automatically), NOTIFY (notify adminstrators that an update is available), OFF (disable update checking).
+# -- Default: NOTIFY
+# - send-anonymous-statistics:
+# -- This value specifies if the plugin will send anonynomous staticial information to mcstats.org.
+# -- Valid values: true or false
+# -- Default: true
+# - provide-lit-on-death:
+# -- This value specifies if we should give a kit to someone every time they respawn
+# -- Valid values: true or false
+# -- Default: true
+kit:
+  backpack:
+    ==: InventoryKit
+    '35':
+      ==: org.bukkit.inventory.ItemStack
+      type: BOOK
+      amount: 16
+    '17':
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_BARDING
+    '33':
+      ==: org.bukkit.inventory.ItemStack
+      type: INK_SACK
+      amount: 16
+    '34':
+      ==: org.bukkit.inventory.ItemStack
+      type: FEATHER
+      amount: 16
+    '16':
+      ==: org.bukkit.inventory.ItemStack
+      type: SADDLE
+    '27':
+      ==: org.bukkit.inventory.ItemStack
+      type: MELON
+      amount: 64
+    '28':
+      ==: org.bukkit.inventory.ItemStack
+      type: COOKED_FISH
+      amount: 4
+    '29':
+      ==: org.bukkit.inventory.ItemStack
+      type: GRILLED_PORK
+      amount: 2
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      type: STONE_AXE
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      type: STONE_SPADE
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      type: STONE_PICKAXE
+    '10':
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_INGOT
+      amount: 3
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: Suikan Pound Gold
+        lore:
+        - 8 Suikan Pounds
+        repair-cost: 2
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      type: STONE_SWORD
+    '30':
+      ==: org.bukkit.inventory.ItemStack
+      type: BREAD
+      amount: 3
+    '7':
+      ==: org.bukkit.inventory.ItemStack
+      type: BOOK_AND_QUILL
+      meta:
+        ==: ItemMeta
+        meta-type: BOOK
+        display-name: Journal
+        title: Journal
+        pages:
+        - |-
+          ...I... I don't recognise these woods...§0
+          §0
+          §0...So§0 far from home... I know not how many borders I have crossed... Nor do I know what lands I have come upon...
+        - |-
+          ...I've buried the remains of my steed...§0
+          §0
+          §0...Perhaps§0 I can trade my horse's tack for some goods or coin...§0
+          §0
+          §0...I fear I shall not be one to find my way back from whence I came...
+        - |-
+          ...Such§0 a forlorn place ought to be laden with dangers, so I best head off to the nearest village or town... I shall take to the roads, then!§0
+          §0
+          §0Hopefully the people of this land speak my tongue, else I must find a way to talk to them...
+        - At least there are roadsigns to guide my way through this land... Hithe-upon-Wych... Oakenthwaite... those sound somewhat familiar, and they are not far off!  I shall head there at once.  Perchance a fellow traveller might be of some help to me...
+    '5':
+      ==: org.bukkit.inventory.ItemStack
+      type: COMPASS
+    '31':
+      ==: org.bukkit.inventory.ItemStack
+      type: APPLE
+      amount: 5
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      type: STONE_HOE
+    '9':
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_INGOT
+      amount: 18
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: Suikan Pound Iron
+        lore:
+        - 1 Suikan Pound
+        repair-cost: 2
+    '8':
+      ==: org.bukkit.inventory.ItemStack
+      type: WRITTEN_BOOK
+      meta:
+        ==: ItemMeta
+        meta-type: BOOK_SIGNED
+        display-name: SuikaCraft Guidebook
+        lore:
+        - Guidelines for SuikaCraft
+        title: SuikaCraft Guidebook
+        author: SuikaCraft
+        pages:
+        - |-
+          Welcome to SuikaCraft!§0
+          §0
+          §0
+          §0As to maintain a pleasing environment, we have a few guidelines/rules to follow...
+        - |-
+          Contents...§0
+          §0
+          §003 ~ Guidelines§0
+          §011 ~ Plugins§0
+          §024 ~ Terrain§0
+          §030 ~ Resources
+        - |-
+          GUIDELINES§0
+          §0
+          §0~§0
+          §0
+          §0Aspects to consider.
+        - |-
+          Foliage ~§0
+          §0
+          §0The aesthetics of the landscape are very important to SuikaCraft.  If you need to chop down a tree, please fully fell it and replant when you can.  Try to not fell old growth trees unless they inhibit part of your building.
+        - |-
+          Griefing ~§0
+          §0
+          §0Do not raid other's bases without cause.  No griefing of other's buildings is allowed.  If a building is marked as abandoned, however, you may salvage it.
+        - |-
+          Excavating ~§0
+          §0
+          §0Avoid surface excavations and destroying natural features.  If you come across floating land, however, you may remove it at your discretion.
+        - |-
+          Pastures ~§0
+          §0
+          §0If you have coloured sheep, please keep them in a farm.  If you come across unnaturally coloured pasture sheep, please consider whitening them.
+        - |-
+          Architecture ~§0
+          §0
+          §0Architecture is aimed at contemporary and recent styles, such as Modernism, Organic, International, Bauhaus, Industrial, Brutalism, Constructivism, and Expressionism, as well as traditional European fachwerk and cottages.
+        - |-
+          Roads ~§0
+          §0
+          §0If you want to build a road to spawn, please use gravel and light it with torches on fences, as roads should contour and complement the landscape instead of cutting through it.
+        - |-
+          Landscape ~§0
+          §0
+          §0Try to work your building into the landscape that already exists.  Try your best to conserve the landscape.  Please refrain from taking surface ores, as they add a nice touch to the landscape.
+        - |-
+          PLUGINS§0
+          §0
+          §0~§0
+          §0
+          §0Various notable plugin features.
+        - |-
+          Seasons ~§0
+          §0
+          §0Spring, summer, autumn, and winter leave their impression on the land. Leaves change colour, weather takes form, and survival's odds are tossed. Watch as the seasons cycle every day as snow falls and grass withers.
+        - |-
+          Botany ~§0
+          §0
+          §0Plants will spread as time passes according to the season.  Warm months bring the most grasses, while flowering herbs and forbs vary by the season.  For the nativist, a charm.
+        - |-
+          Bookshelves ~§0
+          §0
+          §0Bookshelves may hold certain items.  Paper, maps, books, and records may be placed inside of them.  Bookshelves at spawn may contain maps or books to take for your own knowledge of the server, this guidebook included.
+        - |-
+          Brewing ~§0
+          §0
+          §0Kindle your knowledge of fermenting, distilling, and ageing of alcoholic beverages.  Develop a refined skill to make drinks of the highest quality, and enjoy the intended and unintended effects!
+        - |-
+          Salvaging ~§0
+          §0
+          §0Smelt down old armour and tools to regain raw material in a furnace and forge it once more.  Disenchant your prized gear to books with an anvil and transfer it anew.
+        - |-
+          Shops ~§0
+          §0
+          §0Visit a town at spawn and trade with the shopkeepers!  Visit the banks and exchange your currency.  Buy specialty items from vendors and sell your wares for some spending coin.
+        - |-
+          Chairs ~§0
+          §0
+          §0Sit down on a stair or a slab!  All types are useable, and you need not to type a command to do so.  Just be sure to not be sitting when the server restarts, else you may be in a bit of a jam!
+        - |-
+          Night Sensors ~§0
+          §0
+          §0Daylight sensors can be inverted to detect nighttime inherently.  Simply place and right-click to toggle and they will be added to the list.  Once broken, an inverted sensor will be reset.
+        - |-
+          The End ~§0
+          §0
+          §0Ender dragons respawn for you to have battles to fight whenever you are looking for a challenge. Not only can you fight a dragon more than once, you can fight more than one dragon at once!
+        - |-
+          Chimneys ~§0
+          §0
+          §0Have a chimney that could use a plume of smoke arising from the top?  Ask an admin to add one for you!  Smoke plumes are reset when the source block is broken.
+        - |-
+          Neutrality ~§0
+          §0
+          §0To keep an aesthetically pleasing terrain and preserve your wonderful work, features such as fire spread and mob explosion damage are disabled.  Creepers will no longer ruin your picturesque wooden cabin.
+        - |-
+          TERRAIN§0
+          §0
+          §0~§0
+          §0
+          §0Knowledge of the land.
+        - |-
+          Forests ~§0
+          §0
+          §0Forests are abundant and are high in iron.  Forest types are temperate broadleaf, temperate aspen, temperate and boreal coniferous.  Some are inhabited by cats.
+        - |-
+          Mountains ~§0
+          §0
+          §0Mountains occur in large boreal biomes.  High concentrations of gold may be found in their depths, as well as diamonds.  Mountains poke far above the clouds, and are suited as the home for wolves.
+        - |-
+          Clearings ~§0
+          §0
+          §0Various clearings of shrublands, meadows, and steppes form along valleys and plains.  Ranging in rarity and size, each has unique ore concentrations and may be dwelled by horses.
+        - |-
+          Wetlands ~§0
+          §0
+          §0Ranging from small to moderately sized, marshlands and swamplands form where water settles and cannot clear.  Often, cavernous cliffs and cragged holes make for a furrowed landscape.
+        - |-
+          Waterways ~§0
+          §0
+          §0Rivers and oceans bridge and isolate the lands.  Rivers wind along valleys and cut fjords through mountains.  Oceans contain sealife and get mysterious as they go deeper.
+        - |-
+          RESOURCES§0
+          §0
+          §0~§0
+          §0
+          §0Information to know.
+        - |-
+          Staff ~§0
+          §0
+          §0Owner:§0
+          §0yurisuika§0
+          §0
+          §0Admins:§0
+          §0mal_wilson§0
+          §0Charlavalamp§0
+          §0sirknight94
+        - |-
+          Borders ~§0
+          §0
+          §0World Border:§0
+          §05 km§0
+          §0
+          §0Spawn Border:§0
+          §01 km§0
+          §0
+          §0Spawn Location:§0
+          §00 x - 76 y - 0 z
+        - |-
+          Currency ~§0
+          §0
+          §0Iron is the base currency of SuikaCraft - the Suikan Pound.§0
+          §0
+          §08 Iron : 1 Gold§0
+          §0
+          §08 Gold : 1 Diamond§0
+          §0
+          §08 Diamond : 1 Emerald
+        - |-
+          Seasons ~§0
+          §0
+          §0Year:§0
+          §096 hours / 288 days§0
+          §0
+          §0Season:§0
+          §024 hours / 72 days§0
+          §0
+          §0Day:§0
+          §020 minutes / 1 day
+        - |-
+          Ranks ~§0
+          §0
+          §0Traveller§0
+          §0
+          §0Commoner§0
+          §0
+          §0Ambassador§0
+          §0
+          §0Official§0
+          §0
+          §0Founder
+        - |-
+          Communications ~§0
+          §0
+          §0Mumble:§0
+          §072.194.109.19:9987§0
+          §0voice.suikacraft.com§0
+          §0
+          §0Website:§0
+          §0suikacraft.com§0
+          §0
+          §0Dynmap:§0
+          §072.194.109.19:8123§0
+          §0map.suikacraft.com
+        - Enjoy your stay and live with the land~!
+  armour:
+    ==: ArmourKit
+automatic-updates: {}

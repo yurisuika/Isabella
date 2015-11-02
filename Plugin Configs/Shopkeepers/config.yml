@@ -1,0 +1,193 @@
+disable-other-villagers: true
+hire-other-villagers: false
+block-villager-spawns: false
+enable-spawn-verifier: true
+bypass-spawn-blocking: true
+enable-purchase-logging: false
+save-instantly: true
+file-encoding: UTF-8
+enable-world-guard-restrictions: false
+enable-towny-restrictions: false
+create-player-shop-with-command: false
+simulate-right-click-on-command: true
+require-chest-recently-placed: true
+protect-chests: true
+delete-shopkeeper-on-break-chest: false
+max-shops-per-player: 0
+max-shops-perm-options: 5,15,25
+max-chest-distance: 15
+player-shopkeeper-inactive-days: 0
+prevent-trading-with-own-shop: false
+tax-rate: 0
+tax-round-up: false
+shop-creation-item: 383
+shop-creation-item-data: 120
+shop-creation-item-name: ''
+prevent-shop-creation-item-regular-usage: false
+deleting-player-shop-returns-egg: false
+enable-villager-shops: true
+enable-sign-shops: true
+enable-witch-shops: true
+enable-creeper-shops: false
+sign-shop-first-line: Shop
+show-nameplates: true
+always-show-nameplates: true
+nameplate-prefix: '&f'
+name-regex: '[A-Za-z0-9 ]{3,25}'
+editor-title: Shopkeeper
+name-item: 145
+name-item-data: 0
+delete-item: 51
+delete-item-data: 0
+hire-item: 266
+hire-item-data: 0
+hire-other-villagers-costs: 8
+for-hire-title: For Hire
+currency-item: 265
+currency-item-data: 0
+zero-item: 341
+high-currency-item: 266
+high-currency-item-data: 0
+high-currency-value: 8
+high-currency-min-cost: 8
+high-zero-item: 341
+language: en
+msg-button-name: '&aSet Shop Name'
+msg-button-name-lore:
+- Let's you rename
+- your shopkeeper
+msg-button-type: '&aChoose Appearance'
+msg-button-type-lore:
+- Changes the look
+- of your shopkeeper
+msg-button-delete: '&4Delete'
+msg-button-delete-lore:
+- Closes and removes
+- this shopkeeper
+msg-button-hire: '&aHire'
+msg-button-hire-lore:
+- Buy this shopkeeper
+msg-selected-normal-shop: '&aNormal shopkeeper selected (sells items to players).'
+msg-selected-book-shop: '&aBook shopkeeper selected (sell books).'
+msg-selected-buy-shop: '&aBuying shopkeeper selected (buys items from players).'
+msg-selected-trade-shop: '&aTrading shopkeeper selected (trades items with players).'
+msg-selected-villager-shop: '&aVillager shop selected.'
+msg-selected-sign-shop: '&aSign shop selected.'
+msg-selected-witch-shop: '&aWitch shop selected.'
+msg-selected-creeper-shop: '&aCreeper shop selected.'
+msg-selected-chest: '&aChest selected! Right click a block to place your shopkeeper.'
+msg-must-select-chest: '&aYou must right-click a chest before placing your shopkeeper.'
+msg-chest-too-far: '&aThe shopkeeper''s chest is too far away!'
+msg-chest-not-placed: '&aYou must select a chest you have recently placed.'
+msg-shop-create-fail: '&aYou cannot create a shopkeeper there.'
+msg-too-many-shops: '&aYou have too many shops.'
+msg-cant-open-shop-with-spawn-egg: '&7You can''t open that shop while holding a spawn
+  egg in your hands.'
+msg-type-new-name: |-
+  &aPlease type the shop's name into the chat.
+    &aType a dash (-) to remove the name.
+msg-name-set: '&aThe shop''s name has been set!'
+msg-name-invalid: '&aThat name is not valid!'
+msg-unknown-shopkeeper: '&7No shopkeeper found with that name.'
+msg-unknown-player: '&7No player found with that name.'
+msg-must-target-chest: '&7You have to target a chest.'
+msg-unused-chest: '&7No shopkeeper is using this chest.'
+msg-not-owner: '&7You are not the owner of this shopkeeper.'
+msg-owner-set: '&aNew owner was set to &e{owner}'
+msg-must-hold-hire-item: '&7You have to hold the required hire item in your hand.'
+msg-set-for-hire: '&aThe Shopkeeper was set for hire.'
+msg-hired: '&aYou have hired this shopkeeper!'
+msg-cant-hire: '&aYou cannot afford to hire this shopkeeper.'
+msg-villager-for-hire: '&aThe villager offered his services as a shopkeeper in exchange
+  for &6{costs}x {hire-item}&a.'
+msg-player-shop-created: |
+  &aShopkeeper created!
+  &aAdd items you want to sell to your chest, then
+  &aright-click the shop while sneaking to modify costs.
+msg-book-shop-created: |
+  &aShopkeeper created!
+  &aAdd written books and blank books to your chest, then
+  &aright-click the shop while sneaking to modify costs.
+msg-buy-shop-created: |
+  &aShopkeeper created!
+  &aAdd one of each item you want to sell to your chest, then
+  &aright-click the shop while sneaking to modify costs.
+msg-trade-shop-created: |
+  &aShopkeeper created!
+  &aAdd items you want to sell to your chest, then
+  &aright-click the shop while sneaking to modify costs.
+msg-admin-shop-created: |
+  &aShopkeeper created!
+  &aRight-click the shop while sneaking to modify trades.
+debug: false
+bypass-shop-interaction-blocking: false
+prevent-trading-while-owner-is-online: false
+shop-creation-item-lore: []
+deleting-player-shop-returns-creation-item: false
+disabled-living-shops:
+- CREEPER
+- CHICKEN
+silence-living-shop-entities: true
+enable-citizen-shops: false
+allow-renaming-of-player-npc-shops: false
+hire-item-name: ''
+hire-item-lore: []
+currency-item-name: ''
+currency-item-lore: []
+zero-currency-item: SLIME_BALL
+zero-currency-item-data: 0
+zero-currency-item-name: ''
+zero-currency-item-lore: []
+high-currency-item-name: ''
+high-currency-item-lore: []
+high-zero-currency-item: SLIME_BALL
+high-zero-currency-item-data: 0
+high-zero-currency-item-name: ''
+high-zero-currency-item-lore: []
+msg-selected-living-shop: '&aYou selected: &f{type}'
+msg-selected-citizen-shop: '&aYou selected: &fcitizen npc shop'
+msg-unknow-shop-type: '&7Unknown shop type ''{type}''.'
+msg-shop-type-disabled: '&7The shop type ''{type}'' is disabled.'
+msg-unknow-shop-object-type: '&7Unknown shop object type ''{type}''.'
+msg-shop-object-type-disabled: '&7The shop object type ''{type}'' is disabled.'
+msg-cant-trade-while-owner-online: '&7You cannot trade while the owner of this shop
+  (''{owner}'') is online.'
+msg-list-admin-shops-header: '&9There are &e{shopsCount} &9admin shops: &e(Page {page})'
+msg-list-player-shops-header: '&9Player ''&e{player}&9'' has &e{shopsCount} &9shops:
+  &e(Page {page})'
+msg-list-shops-entry: '  &e{shopIndex}) &8{shopName}&r&7at &8({location})&7, type:
+  &8{shopType}&7, object type: &8{objectType}'
+msg-removed-admin-shops: '&e{shopsCount} &aadmin shops were removed.'
+msg-removed-player-shops: '&e{shopsCount} &ashops of player ''&e{player}&a'' were
+  removed.'
+msg-removed-all-player-shops: '&aAll &e{shopsCount} &aplayer shops were removed.'
+msg-confirm-remove-admin-shops: |-
+  &cYou are about to irrevocable remove all admin shops!
+  &7Please confirm this action by typing &6/shopkeepers confirm
+msg-confirm-remove-own-shops: |-
+  &cYou are about to irrevocable remove all your shops!
+  &7Please confirm this action by typing &6/shopkeepers confirm
+msg-confirm-remove-player-shops: |-
+  &cYou are about to irrevocable remove all shops of player &6{player}&c!
+  &7Please confirm this action by typing &6/shopkeepers confirm
+msg-confirm-remove-all-player-shops: |-
+  &cYou are about to irrevocable remove all player shops of all players!
+  &7Please confirm this action by typing &6/shopkeepers confirm
+msg-confirmation-expired: '&cConfirmation expired.'
+msg-nothing-to-confirm: '&cThere is nothing to confirm currently.'
+msg-no-permission: '&cYou don''t have the permission to do that.'
+msg-help-header: '&9***** &8[&6Shopkeepers Help&8] &9*****'
+msg-command-help: '&a/shopkeepers help &8- &7Shows this help page.'
+msg-command-reload: '&a/shopkeepers reload &8- &7Reloads this plugin.'
+msg-command-debug: '&a/shopkeepers debug &8- &7Toggles debug mode on and off.'
+msg-command-list: '&a/shopkeepers list [player|admin] [page] &8- &7Lists all shops
+  for the specified player, or all admin shops.'
+msg-command-remove: '&a/shopkeepers remove [player|all|admin] &8- &7Removes all shops
+  for the specified player, all players, or all admin shops.'
+msg-command-remote: '&a/shopkeepers remote <shopName> &8- &7Remotely opens a shop.'
+msg-command-transfer: '&a/shopkeepers transfer <newOwner> &8- &7Transfers the ownership
+  of a shop.'
+msg-command-setforhire: '&a/shopkeepers setForHire &8- &7Sets one of your shops for
+  sale.'
+msg-command-shopkeeper: '&a/shopkeepers [shop type] [object type] &8- &7Creates a
+  shop.'

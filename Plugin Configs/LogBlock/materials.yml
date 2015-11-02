@@ -1,0 +1,49 @@
+# Add block or item names you want to be overridden or also names for custom blocks
+'6':
+  '1': redwood sapling
+  '2': birch sapling
+'9': water
+'11': lava
+'17':
+  '1': redwood log
+  '2': birch log
+'18':
+  '1': redwood leaves
+  '2': birch leaves
+'31':
+  '0': dead long grass
+  '2': fern
+'35':
+  '0': white wool
+  '1': orange wool
+  '2': magenta wool
+  '3': light blue wool
+  '4': yellow wool
+  '5': lime wool
+  '6': pink wool
+  '7': gray wool
+  '8': silver wool
+  '9': cyan wool
+  '10': purple wool
+  '11': blue wool
+  '12': brown wool
+  '13': green wool
+  '14': red wool
+  '15': black wool
+'351':
+  '0': black dye
+  '1': red dye
+  '2': green dye
+  '3': brown dye
+  '4': blue dye
+  '5': purple dye
+  '6': cyan dye
+  '7': silver dye
+  '8': gray dye
+  '9': pink dye
+  '10': lime dye
+  '11': yellow dye
+  '12': light blue dye
+  '13': magenta dye
+  '14': orange dye
+  '15': white dye

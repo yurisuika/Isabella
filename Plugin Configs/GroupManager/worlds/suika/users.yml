@@ -1,0 +1,111 @@
+users:
+  04bc7ac9-86f3-4b8e-bcc0-d6f6a9f3d2e8:
+    lastname: _BSP
+    group: Citizen
+    subgroups: []
+    permissions: []
+  0595bc40-b800-4dd4-8b0f-43630e598300:
+    lastname: Cowburger
+    group: Citizen
+    subgroups: []
+    permissions: []
+  1313710f-c115-4b53-b8fb-8e39558ae609:
+    lastname: EnderPro44
+    group: Citizen
+    subgroups: []
+    permissions: []
+  3915cfba-439e-4222-88b9-0b3ca966029f:
+    lastname: TwinkieSamurai
+    group: Citizen
+    subgroups: []
+    permissions: []
+  675cfcfe-9687-42aa-b8f8-3d019ff6073d:
+    lastname: zobrux
+    group: Citizen
+    subgroups: []
+    permissions: []
+  7a7356ab-c548-48e4-9843-48aa99c669f1:
+    lastname: ThePieGuy35
+    group: Citizen
+    subgroups: []
+    permissions: []
+  7b387e27-ff20-42db-a72b-0c0ef73e5d2c:
+    lastname: Ardeshire
+    group: Citizen
+    subgroups: []
+    permissions: []
+  7d106f3c-7116-42ed-8d18-98aad10d91ef:
+    lastname: ralfsimson
+    group: Citizen
+    subgroups: []
+    permissions: []
+  7dcc34c3-d3bc-46e0-8fa7-bc48b5b86d84:
+    lastname: crafterFIN
+    group: Citizen
+    subgroups: []
+    permissions: []
+  a5330240-3607-4a49-9c44-b91e712d2960:
+    lastname: gobbldyg00k
+    group: Citizen
+    subgroups: []
+    permissions: []
+  b287ce2f-780e-4a38-b552-e5a1a19c5a86:
+    lastname: bilbolaggins
+    group: Citizen
+    subgroups: []
+    permissions: []
+  b5446d65-6c5c-4e34-9874-8bd4aeaef3f3:
+    lastname: Gildiarz
+    group: Citizen
+    subgroups: []
+    permissions: []
+  bba8cc90-f135-4e6e-b206-5dc00aa27b1d:
+    lastname: mal_wilson
+    group: Admin
+    subgroups: []
+    permissions: []
+  c8aca9cb-d7d4-47df-bab8-40046de6ffeb:
+    lastname: Zeldagar
+    group: Citizen
+    subgroups: []
+    permissions: []
+  c8ba7742-07c2-4615-a213-74e2da00c861:
+    lastname: yurisuika
+    group: Founder
+    subgroups: []
+    permissions: []
+  d1616ba2-d96e-417b-93db-ff62eadf678c:
+    lastname: Bloopsmee
+    group: Citizen
+    subgroups: []
+    permissions: []
+  ed900fa2-fc09-48ad-b648-c8bbc0a350e2:
+    lastname: HiImRaymond
+    group: Citizen
+    subgroups: []
+    permissions: []
+  ElgarL:
+    group: Wanderer
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  f579c50f-3a0c-4956-839b-8b2e4ecdee2f:
+    lastname: ninja_chick0228
+    group: Citizen
+    subgroups: []
+    permissions: []
+  fd01f10e-5d38-4af8-a5ee-7b7a71fc3792:
+    lastname: HeroJero
+    group: Citizen
+    subgroups: []
+    permissions: []
+  KHobbits:
+    group: Wanderer
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  snowleo:
+    group: Wanderer
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms

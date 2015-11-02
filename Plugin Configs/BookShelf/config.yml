@@ -1,0 +1,60 @@
+#+----------------------------------------------------------+
+#| Plugin: BookShelf                                        |
+#| Created by: MitchTalmadge                                |
+#| DevBukkit: http://dev.bukkit.org/server-mods/bookshelf/  |
+#+----------------------------------------------------------+
+
+rows: 2
+
+default_shelf_name: "BookShelf"
+default_shop_name: "BookShop - %$ each"
+default_openable: true
+top-bottom_access: false
+shelves_can_burn: true
+
+use_built_in_ownership: true
+
+shelf_only_items:
+    book: false
+    book_and_quill: false
+    signed: false
+    maps: false
+    enchanted_book: false
+    records: false
+    paper: false
+
+economy:
+    default_price: 10
+
+database:
+    mysql_enabled: false
+    hostname: localhost
+    port: 3306
+    database: minecraft
+    username: root
+    password: password
+    prefix: BookShelf
+
+permissions:
+    allow_book: true
+    allow_book_and_quill: true
+    allow_signed: true
+    allow_maps: true
+    allow_enchanted_book: true
+    allow_records: true
+    allow_paper: true
+    
+villager_trading:
+    allow_book: true
+    allow_book_and_quill: true
+    allow_signed: true
+    allow_paper: true
+ 
+towny_support:
+    enabled: false     
+    
+lwc_support:
+    enabled: false
+    
+worldguard_support:
+    enabled: false
