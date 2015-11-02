@@ -1,7 +1,0 @@
-#Enabled spawner pickup in worlds - Make sure you are using the EXACT world names!
-enabled_pickup_in_worlds:
-- world
-
-#Enabled spawner placement in worlds - Make sure you are using the EXACT world names!
-enabled_placement_in_worlds:
-- world

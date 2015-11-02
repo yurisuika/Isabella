@@ -1,9 +1,0 @@
-blocks: 100
-ticks: 20
-density: 100.0
-saplings: false
-cacti: false
-protect: false
-worlds:
-- world
-- Suika
