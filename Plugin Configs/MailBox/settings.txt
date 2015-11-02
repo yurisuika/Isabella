@@ -1,0 +1,12 @@
+cooldown_limit = 50
+delivery_fee = 0.0
+creating_fee = 0.0
+fee_per_1000m = 0.0
+foreign_fee = 0.0
+postman_profit = 0
+only_op = false
+disable_in_creative = false
+use_mysql = false
+mysql_database = jdbc:mysql://localhost:3306/mailbox
+mysql_user = yuri
+mysql_pass = akarin

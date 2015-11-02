@@ -1,0 +1,295 @@
+2014-01-14 00-23
+=============================== GM ERROR LOG ===============================
+= ERROR REPORT START - 2.0 (Dev2.13.80) (Phoenix) =
+
+java.lang.IllegalStateException: Unknown mirroring format for Woodlands
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.mirrorSetUp(WorldsHolder.java:242)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialLoad(WorldsHolder.java:102)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.resetWorldsHolder(WorldsHolder.java:92)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.<init>(WorldsHolder.java:59)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:169)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:93)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:250)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:350)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:384)
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.loadPlugin(CraftServer.java:298)
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.enablePlugins(CraftServer.java:280)
+	at net.minecraft.server.v1_7_R1.MinecraftServer.m(MinecraftServer.java:342)
+	at net.minecraft.server.v1_7_R1.MinecraftServer.g(MinecraftServer.java:319)
+	at net.minecraft.server.v1_7_R1.MinecraftServer.a(MinecraftServer.java:275)
+	at net.minecraft.server.v1_7_R1.DedicatedServer.init(DedicatedServer.java:175)
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:424)
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617)
+
+============================================================================
+
+2014-01-17 17-15
+=============================== GM ERROR LOG ===============================
+= ERROR REPORT START - 2.0 (2.12.1) (Phoenix) =
+
+java.lang.IllegalArgumentException: The following file couldn't pass on Parser.
+plugins\GroupManager\globalgroups.yml
+	at org.anjocaido.groupmanager.GlobalGroups.load(GlobalGroups.java:119)
+	at org.anjocaido.groupmanager.GlobalGroups.<init>(GlobalGroups.java:44)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:163)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:93)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:250)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:350)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:384)
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.loadPlugin(CraftServer.java:300)
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.enablePlugins(CraftServer.java:282)
+	at net.minecraft.server.v1_7_R1.MinecraftServer.m(MinecraftServer.java:342)
+	at net.minecraft.server.v1_7_R1.MinecraftServer.g(MinecraftServer.java:319)
+	at net.minecraft.server.v1_7_R1.MinecraftServer.a(MinecraftServer.java:275)
+	at net.minecraft.server.v1_7_R1.DedicatedServer.init(DedicatedServer.java:175)
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:424)
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617)
+Caused by: while scanning a simple key
+ in "<reader>", line 385, column 3:
+      g:antibuild_default
+      ^
+could not found expected ':'
+ in "<reader>", line 386, column 16:
+        permissions:
+                   ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.stalePossibleSimpleKeys(ScannerImpl.java:398)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.needMoreTokens(ScannerImpl.java:229)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:178)
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseIndentlessSequenceEntry.produce(ParserImpl.java:535)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:146)
+	at org.yaml.snakeyaml.composer.Composer.composeSequenceNode(Composer.java:203)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:158)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:123)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:106)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:121)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:480)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:423)
+	at org.anjocaido.groupmanager.GlobalGroups.load(GlobalGroups.java:116)
+	... 14 more
+
+============================================================================
+
+2014-01-17 17-16
+=============================== GM ERROR LOG ===============================
+= ERROR REPORT START - 2.0 (2.12.1) (Phoenix) =
+
+java.lang.IllegalArgumentException: The following file couldn't pass on Parser.
+plugins\GroupManager\globalgroups.yml
+	at org.anjocaido.groupmanager.GlobalGroups.load(GlobalGroups.java:119)
+	at org.anjocaido.groupmanager.GlobalGroups.<init>(GlobalGroups.java:44)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:163)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:93)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:250)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:350)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:384)
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.loadPlugin(CraftServer.java:300)
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.enablePlugins(CraftServer.java:282)
+	at net.minecraft.server.v1_7_R1.MinecraftServer.m(MinecraftServer.java:342)
+	at net.minecraft.server.v1_7_R1.MinecraftServer.g(MinecraftServer.java:319)
+	at net.minecraft.server.v1_7_R1.MinecraftServer.a(MinecraftServer.java:275)
+	at net.minecraft.server.v1_7_R1.DedicatedServer.init(DedicatedServer.java:175)
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:424)
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617)
+Caused by: while scanning a simple key
+ in "<reader>", line 385, column 3:
+      g:antibuild_default
+      ^
+could not found expected ':'
+ in "<reader>", line 386, column 16:
+        permissions:
+                   ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.stalePossibleSimpleKeys(ScannerImpl.java:398)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.needMoreTokens(ScannerImpl.java:229)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:178)
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseIndentlessSequenceEntry.produce(ParserImpl.java:535)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:146)
+	at org.yaml.snakeyaml.composer.Composer.composeSequenceNode(Composer.java:203)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:158)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:123)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:106)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:121)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:480)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:423)
+	at org.anjocaido.groupmanager.GlobalGroups.load(GlobalGroups.java:116)
+	... 14 more
+
+============================================================================
+
+2014-01-17 17-20
+=============================== GM ERROR LOG ===============================
+= ERROR REPORT START - 2.0 (2.12.1) (Phoenix) =
+
+java.lang.IllegalArgumentException: The following file couldn't pass on Parser.
+plugins\GroupManager\globalgroups.yml
+	at org.anjocaido.groupmanager.GlobalGroups.load(GlobalGroups.java:119)
+	at org.anjocaido.groupmanager.GlobalGroups.<init>(GlobalGroups.java:44)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:163)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:93)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:250)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:350)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:384)
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.loadPlugin(CraftServer.java:300)
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.enablePlugins(CraftServer.java:282)
+	at net.minecraft.server.v1_7_R1.MinecraftServer.m(MinecraftServer.java:342)
+	at net.minecraft.server.v1_7_R1.MinecraftServer.g(MinecraftServer.java:319)
+	at net.minecraft.server.v1_7_R1.MinecraftServer.a(MinecraftServer.java:275)
+	at net.minecraft.server.v1_7_R1.DedicatedServer.init(DedicatedServer.java:175)
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:424)
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617)
+Caused by: while scanning a simple key
+ in "<reader>", line 385, column 3:
+      g:antibuild_default
+      ^
+could not found expected ':'
+ in "<reader>", line 386, column 16:
+        permissions:
+                   ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.stalePossibleSimpleKeys(ScannerImpl.java:398)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.needMoreTokens(ScannerImpl.java:229)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:178)
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseIndentlessSequenceEntry.produce(ParserImpl.java:535)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:146)
+	at org.yaml.snakeyaml.composer.Composer.composeSequenceNode(Composer.java:203)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:158)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:123)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:106)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:121)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:480)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:423)
+	at org.anjocaido.groupmanager.GlobalGroups.load(GlobalGroups.java:116)
+	... 14 more
+
+============================================================================
+
+2014-01-17 17-25
+=============================== GM ERROR LOG ===============================
+= ERROR REPORT START - 2.0 (2.12.1) (Phoenix) =
+
+java.lang.IllegalArgumentException: The following file couldn't pass on Parser.
+plugins\GroupManager\globalgroups.yml
+	at org.anjocaido.groupmanager.GlobalGroups.load(GlobalGroups.java:119)
+	at org.anjocaido.groupmanager.GlobalGroups.<init>(GlobalGroups.java:44)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:163)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:93)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:250)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:350)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:384)
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.loadPlugin(CraftServer.java:300)
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.enablePlugins(CraftServer.java:282)
+	at net.minecraft.server.v1_7_R1.MinecraftServer.m(MinecraftServer.java:342)
+	at net.minecraft.server.v1_7_R1.MinecraftServer.g(MinecraftServer.java:319)
+	at net.minecraft.server.v1_7_R1.MinecraftServer.a(MinecraftServer.java:275)
+	at net.minecraft.server.v1_7_R1.DedicatedServer.init(DedicatedServer.java:175)
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:424)
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617)
+Caused by: while scanning a simple key
+ in "<reader>", line 385, column 3:
+      g:antibuild_default
+      ^
+could not found expected ':'
+ in "<reader>", line 386, column 16:
+        permissions:
+                   ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.stalePossibleSimpleKeys(ScannerImpl.java:398)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.needMoreTokens(ScannerImpl.java:229)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:178)
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseIndentlessSequenceEntry.produce(ParserImpl.java:535)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:146)
+	at org.yaml.snakeyaml.composer.Composer.composeSequenceNode(Composer.java:203)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:158)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:123)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:106)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:121)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:480)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:423)
+	at org.anjocaido.groupmanager.GlobalGroups.load(GlobalGroups.java:116)
+	... 14 more
+
+============================================================================
+
+2014-01-17 17-40
+=============================== GM ERROR LOG ===============================
+= ERROR REPORT START - 2.0 (2.12.1) (Phoenix) =
+
+java.lang.IllegalArgumentException: The following file couldn't pass on Parser.
+plugins\GroupManager\globalgroups.yml
+	at org.anjocaido.groupmanager.GlobalGroups.load(GlobalGroups.java:119)
+	at org.anjocaido.groupmanager.GlobalGroups.<init>(GlobalGroups.java:44)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:163)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:93)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:250)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:350)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:384)
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.loadPlugin(CraftServer.java:300)
+	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.enablePlugins(CraftServer.java:282)
+	at net.minecraft.server.v1_7_R1.MinecraftServer.m(MinecraftServer.java:342)
+	at net.minecraft.server.v1_7_R1.MinecraftServer.g(MinecraftServer.java:319)
+	at net.minecraft.server.v1_7_R1.MinecraftServer.a(MinecraftServer.java:275)
+	at net.minecraft.server.v1_7_R1.DedicatedServer.init(DedicatedServer.java:175)
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:424)
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617)
+Caused by: while scanning a simple key
+ in "<reader>", line 385, column 3:
+      g:antibuild_default
+      ^
+could not found expected ':'
+ in "<reader>", line 386, column 16:
+        permissions:
+                   ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.stalePossibleSimpleKeys(ScannerImpl.java:398)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.needMoreTokens(ScannerImpl.java:229)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:178)
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseIndentlessSequenceEntry.produce(ParserImpl.java:535)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:146)
+	at org.yaml.snakeyaml.composer.Composer.composeSequenceNode(Composer.java:203)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:158)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:123)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:106)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:121)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:480)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:423)
+	at org.anjocaido.groupmanager.GlobalGroups.load(GlobalGroups.java:116)
+	... 14 more
+
+============================================================================
+

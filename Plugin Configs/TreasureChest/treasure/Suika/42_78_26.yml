@@ -1,0 +1,187 @@
+location:
+  ==: com.mtihc.minecraft.treasurechest.v8.core.TreasureChest
+  container:
+    ==: com.mtihc.minecraft.treasurechest.v8.core.BlockInventory
+    world: Suika
+    coords:
+      ==: Vector
+      x: 42.0
+      y: 78.0
+      z: 26.0
+    type: CHEST
+    size: 27
+    contents:
+      item1:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      item2:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      item4:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      item7:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      item11:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+      item14:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Diamond
+            lore:
+            - 64 Suikan Pounds
+            repair-cost: 1
+      item15:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      item17:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 2
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      item18:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      item20:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      item22:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 3
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      item24:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 4
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Iron
+            lore:
+            - 1 Suikan Pound
+            repair-cost: 2
+      item25:
+        ==: com.mtihc.minecraft.treasurechest.v8.core.ItemStackWrapper
+        stack:
+          ==: org.bukkit.inventory.ItemStack
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: Suikan Pound Gold
+            lore:
+            - 8 Suikan Pounds
+            repair-cost: 2
+  messages:
+    FOUND: You have found treasure!
+    FOUND_ALREADY: You have already looted this treasure...
+    UNLIMITED: Take as much as you want!
+  ranks: []
+  unlimited: false
+  random: 0
+  forget-time: 604800000
+  ignore-protection: false
+  shared: false
+  rewards: {}

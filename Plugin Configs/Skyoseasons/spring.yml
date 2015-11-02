@@ -1,0 +1,29 @@
+# 
+#               Spring Configuration                    #
+#  See http://dev.bukkit.org/bukkit-plugins/skyoseasons #
+#               for more informations.                  #
+#                                                       #
+#              All times are in seconds !               #
+# ##################################################### #
+
+SeasonLength: 85500
+CanRain: true
+AlwaysRain: false
+DayLength: 600
+NightLength: 600
+Message: §dIt is spring, flowers grow on trees...
+DefaultBiome: JUNGLE
+Replacement:
+  MUSHROOM_SHORE: MUSHROOM_SHORE
+  MUSHROOM_ISLAND: MUSHROOM_ISLAND
+TimedMessages:
+  '12000': §dAnother spring night is coming...
+  '0': §dIt is a bright spring day...
+Spout:
+  StarFrequency: 100
+  MoonSizePercent: 100
+  SunSizePercent: 100
+  StarsVisible: true
+  CloudsVisible: true
+  MoonVisible: true
+  SunVisible: true

@@ -1,0 +1,95 @@
+                                                       # Group inheritance
+#
+# Any inherited groups prefixed with a g: are global groups
+# and are inherited from the GlobalGroups.yml.
+#
+# Groups without the g: prefix are groups local to this world
+# and are defined in the this groups.yml file.
+#
+# Local group inheritances define your promotion tree when using 'manpromote/mandemote'
+
+groups:
+  Traveller:
+    default: true
+    permissions:
+    - -bukkit.command.kill
+    - antibuild.dropitems
+    - antibuild.pickupitems
+    - antibuild.chest
+    - antibuild.anvil
+    - antibuild.brewing
+    - antibuild.enchanting
+    - antibuild.enderchest
+    - antibuild.furnace
+    - antibuild.hopper
+    - antibuild.workbench
+    - antibuild.beacon
+    - -bookshelf.towny
+    - -antifire.logview
+    - chairs.sit
+    inheritance:
+    - g:groupmanager_default
+    - g:bukkit_default
+    - g:essentials_default
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  Commoner:
+    default: false
+    permissions:
+    - antibuild.bypass
+    - -essentials.recipe
+    - frameProtect.place.*
+    - chestlock.lock
+    - chestlock.usekey
+    inheritance:
+    - Traveller
+    - g:essentials_builder
+    info:
+      prefix: ''
+      build: true
+      suffix: ''
+  Ambassador:
+    default: false
+    permissions:
+    - -essentials.spawner
+    - lagg.chunks
+    - lagg.unloadchinks
+    - lagg.clear
+    - lagg.count
+    - lagg.help
+    - lagg.area
+    inheritance:
+    - Commoner
+    - g:groupmanager_moderator
+    - g:bukkit_moderator
+    - g:essentials_moderator
+    info:
+      prefix: ''
+      build: true
+      suffix: ''
+  Official:
+    default: false
+    permissions:
+    inheritance:
+    - Ambassador
+    - g:groupmanager_admin
+    - g:bukkit_admin
+    - g:essentials_admin
+    - g:vanish_admin
+    info:
+      prefix: ''
+      build: true
+      suffix: ''
+  Founder:
+    default: false
+    permissions:
+    - '*'
+    - -vanish.*
+    inheritance:
+    - Official
+    info:
+      prefix: ''
+      build: true
+      suffix: ''

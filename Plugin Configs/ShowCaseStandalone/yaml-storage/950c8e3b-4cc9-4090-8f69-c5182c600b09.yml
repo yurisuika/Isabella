@@ -1,0 +1,18 @@
+version: 7
+shop:
+  ==: scs.display
+  owner: c8ba7742-07c2-4615-a213-74e2da00c861
+  amount: 0
+  world: 17f3ae91-4ae4-4a83-8093-e6b800f44c7b
+  price: 0.0
+  unlimited: false
+  members: []
+  location:
+  - -163.0
+  - 65.0
+  - -5.0
+  version: 1
+  uuid: 950c8e3b-4cc9-4090-8f69-c5182c600b09
+  itemstack:
+    ==: org.bukkit.inventory.ItemStack
+    type: RAW_FISH

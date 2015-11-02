@@ -1,0 +1,10 @@
+&cSUIKACRAFT ~&f Currently online : {PLAYERLIST}
+
+Join the Mumble server &cvoice.suikacraft.com&f.
+Vanilla snapshot server at &csmp.suikacraft.com&f!
+
+Saplings should work as follows...
+SPRING - Riparian, Meadow
+SUMMER - Temperate Forest
+AUTUMN - Redwood, Boreal
+WINTER - Scrub, Aspen

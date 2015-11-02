@@ -1,0 +1,62 @@
+# Configuration of the Chairs plugin for Craftbukkit
+# ------
+# A list of all compatible block and item names: http://bit.ly/AmJgMb.
+# ------
+# sit-blocks: Set the blocks you want to be able to sit down on and sitting height. Use material_name:sitting_height
+# valid-signs: Valid sign materials for sign check
+# auto-rotate: If set to true, you are automatically rotated to the descending face of the stairs-block when sitting down.
+# max-chair-width: Define how many blocks a chair can be long (set to number <= 0 for unlimited width).
+# sign-check: If set to true, you will only be able to sit down when there are signs on both of the ends of the chair.
+# distance: The maximum distance between the chair (the center of the block) and the player to be able to sit down (to prevent glitching through walls, etc.).
+# seat-occupied-check: Check if seat is already occupied.
+# ignore-if-item-in-hand: Set this true to disable sititng if player is holding an item in hand.
+# disabledWGRegions: Player won't be able to sit in those regions
+# ------
+sit-blocks:
+- WOOD_STAIRS:0.7
+- SPRUCE_WOOD_STAIRS:0.7
+- JUNGLE_WOOD_STAIRS:0.7
+- BIRCH_WOOD_STAIRS:0.7
+- SANDSTONE_STAIRS:0.7
+- COBBLESTONE_STAIRS:0.7
+- BRICK_STAIRS:0.7
+- SMOOTH_STAIRS:0.7
+- NETHER_BRICK_STAIRS:0.7
+- QUARTZ_STAIRS:0.7
+- ACACIA_STAIRS:0.7
+- DARK_OAK_STAIRS:0.7
+valid-signs:
+- SIGN
+- WALL_SIGN
+- SIGN_POST
+- ITEM_FRAME
+auto-rotate: true
+max-chair-width: 64
+sign-check: false
+distance: 2
+ignore-if-item-in-hand: false
+sit-effects:
+  healing:
+    enabled: false
+    interval: 20
+    amount: 1
+    max-percent: 100
+  itempickup:
+    enabled: true
+sit-restrictions:
+  commands:
+    all: false
+    list:
+    - /examplecommand
+notify-player: false
+messages:
+  sitting: '&7You are now sitting.'
+  standing: '&7You are no longer sitting.'
+  occupied: '&7This seat is occupied by &6%PLAYER%&7!'
+  reloaded: Chairs configuration reloaded.
+  no-permission: '&cYou do not have permission to do this!'
+  enabled: '&7You have enabled chairs for yourself!'
+  disabled: '&7You have disabled chairs for yourself!'
+  command-restricted: '&7You can''t issue this command while sitting'
+disabledWGRegions:
+- exampleregionname

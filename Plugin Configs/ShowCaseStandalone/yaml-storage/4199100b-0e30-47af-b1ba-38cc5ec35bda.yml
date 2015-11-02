@@ -1,0 +1,27 @@
+version: 7
+shop:
+  ==: scs.display
+  owner: c8ba7742-07c2-4615-a213-74e2da00c861
+  amount: 0
+  world: 17f3ae91-4ae4-4a83-8093-e6b800f44c7b
+  price: 0.0
+  unlimited: false
+  members: []
+  location:
+  - -83.0
+  - 69.0
+  - 26.0
+  version: 1
+  uuid: 4199100b-0e30-47af-b1ba-38cc5ec35bda
+  itemstack:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_SWORD
+    amount: 64
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DAMAGE_ALL: 10
+        KNOCKBACK: 10
+        FIRE_ASPECT: 10
+        LOOT_BONUS_MOBS: 10

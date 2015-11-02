@@ -1,0 +1,21 @@
+# ##################################################### #
+#               Skyoseasons Configuration               #
+#  See http://dev.bukkit.org/bukkit-plugins/skyoseasons #
+#               for more informations.                  #
+#                                                       #
+#              All times are in seconds !               #
+#                                                       #
+#      UseProtocolLibEffects is currently in Beta,      #
+#              use it at your own risks !                #
+# ##################################################### #
+
+WorldsToEnable:
+  Suika: false
+CurrentsSeasons:
+  Suika: AUTUMN
+SeasonMessage: We are in /season/.
+SnowmeltMultiplicator: 10
+EternalSnowY: 256
+TimeRefreshRate: 20
+CheckForUpdates: false
+UseSpoutEffects: false

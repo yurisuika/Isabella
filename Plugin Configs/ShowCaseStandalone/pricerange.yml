@@ -1,0 +1,5 @@
+pricerange:
+  global:
+    min: 0.0
+    max: 1.7976931348623157E308
+  list: []

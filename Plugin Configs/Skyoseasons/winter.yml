@@ -1,0 +1,29 @@
+# 
+#                Winter Configuration                   #
+#  See http://dev.bukkit.org/bukkit-plugins/skyoseasons #
+#               for more informations.                  #
+#                                                       #
+#              All times are in seconds !               #
+# ##################################################### #
+
+SeasonLength: 85500
+CanRain: true
+AlwaysRain: false
+DayLength: 600
+NightLength: 600
+Message: §fIt is winter, say welcome to the snow!
+DefaultBiome: ICE_PLAINS
+Replacement:
+  MUSHROOM_SHORE: MUSHROOM_SHORE
+  MUSHROOM_ISLAND: MUSHROOM_ISLAND
+TimedMessages:
+  '12000': §fAnother winter night is coming...
+  '0': §fIt is a cold winter morning...
+Spout:
+  StarFrequency: 100
+  MoonSizePercent: 100
+  SunSizePercent: 100
+  StarsVisible: true
+  CloudsVisible: true
+  MoonVisible: true
+  SunVisible: true

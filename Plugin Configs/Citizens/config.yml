@@ -1,0 +1,82 @@
+# Citizens Configuration
+
+npc:
+  chat:
+    options:
+      bystanders-hear-targeted-chat: true
+      max-number-of-targets-to-show: 2
+      multiple-targets-format: <target>|, <target>| & <target>| & others
+      range: 5
+      max-text-range: 500
+    format:
+      no-targets: '[<npc>]: <text>'
+      with-target-to-bystanders: '[<npc>] -> [<target>]: <text>'
+      to-target: '[<npc>] -> You: <text>'
+      with-targets-to-bystanders: '[<npc>] -> [<targets>]: <text>'
+  default:
+    look-close:
+      enabled: false
+      range: 5
+    pathfinding:
+      range: 25.0
+    random-talker: true
+    realistic-looking: false
+    stationary-ticks: -1
+    talk-close:
+      enabled: false
+      range: 5
+    text:
+      '0': Hi, I'm <npc>!
+  limits:
+    default-limit: 10
+    max-permission-checks: 100
+    max-speed: 100
+  chunks:
+    always-keep-loaded: false
+  skins:
+    max-retries: -1
+    retry-delay: 120
+  pathfinding:
+    new-finder-open-doors: false
+    attack-range: 3.0625
+    use-new-finder: false
+  packets:
+    update-delay: 30
+  selection:
+    quick-select: false
+    item: '280'
+    message: <b>You selected <a><npc><b>!
+  player:
+    remove-from-list: true
+  server-ownership: false
+  text:
+    max-talk-cooldown: 5
+    min-talk-cooldown: 10
+    talk-item: '340'
+  controllable:
+    use-boat-controls: true
+advanced:
+  check-minecraft-version: true
+storage:
+  database:
+    driver: ''
+    password: ''
+    url: ''
+    username: ''
+  save-task:
+    delay: 72000
+  file: saves.yml
+  type: yaml
+general:
+  debug-mode: false
+  debug-pathfinding: false
+  color-scheme:
+    message-highlight: <e>
+    message: <a>
+  translation:
+    locale: ''
+economy:
+  npc:
+    cost: 100.0
+subplugins:
+  folder: plugins

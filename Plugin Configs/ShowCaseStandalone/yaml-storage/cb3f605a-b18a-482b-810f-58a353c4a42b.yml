@@ -1,0 +1,18 @@
+version: 7
+shop:
+  ==: scs.display
+  owner: c8ba7742-07c2-4615-a213-74e2da00c861
+  amount: 0
+  world: 17f3ae91-4ae4-4a83-8093-e6b800f44c7b
+  price: 0.0
+  unlimited: false
+  members: []
+  location:
+  - -95.0
+  - 67.0
+  - 79.0
+  version: 1
+  uuid: cb3f605a-b18a-482b-810f-58a353c4a42b
+  itemstack:
+    ==: org.bukkit.inventory.ItemStack
+    type: BAKED_POTATO

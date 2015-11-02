@@ -1,0 +1,4 @@
+# Set to false to disable the auto updater
+autoUpdate: true
+testMode: false
+useSpigotHack: true
