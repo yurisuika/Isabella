@@ -12,11 +12,11 @@ SuikaCraft 1.7 `1.7 Legacy`
 
 SuikaCraft 1.8 `1.8 Legacy`
 
-SuikaCraft 1.9 `1.9  Latest Snapshot`
+SuikaCraft 1.9 `1.9 Release`
+
+SuikaCraft 1.10 `1.10 Latest Snapshot`
 
 SuikaCraft Models `Custom Models`
-
-SuikaCraft Server `1.8 Textures + Custom Models`
 
 ## Servers
 
@@ -29,7 +29,3 @@ SuikaCraft Server `1.8 Textures + Custom Models`
 ## Mumble
 
 `voice.suikacraft.com`
-
-## IRC
-
-`#suikacraft @ irc.rizon.net`
