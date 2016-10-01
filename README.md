@@ -26,6 +26,6 @@ SuikaCraft Models `Custom Models`
 
 `gensokyo.suikacraft.com` for the Gensokyo server
 
-## Mumble
+## Discord
 
-`voice.suikacraft.com`
+`https://discord.gg/0zdNEkQle7Qg9C1H`
