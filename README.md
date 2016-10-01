@@ -28,4 +28,4 @@ SuikaCraft Models `Custom Models`
 
 ## Discord
 
-`[Discord](https://discord.gg/0zdNEkQle7Qg9C1H)`
+[Discord](https://discord.gg/0zdNEkQle7Qg9C1H)
