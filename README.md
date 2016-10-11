@@ -16,6 +16,8 @@ SuikaCraft 1.9 `1.9 Legacy`
 
 SuikaCraft 1.10 `1.10 Release`
 
+SuikaCraft 1.11 `1.11 Snapshot`
+
 SuikaCraft Models `Custom Models`
 
 ## Servers
