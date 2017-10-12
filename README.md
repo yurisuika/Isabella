@@ -1,6 +1,6 @@
 # SuikaCraft
 
-[SuikaCraft](http://suikacraft.com) is a Minecraft server focused on architecture and realism.  Currently offline but it will return in time.
+[SuikaCraft](http://suikacraft.com) is a Minecraft server focused on architecture and realism.  Currently offline but it will return in time (once plugins catch up again).
 
 ## Files
 
@@ -27,8 +27,6 @@ SuikaCraft Models `Custom Models` **OUT OF DATE**
 `rp.suikacraft.com` for the Spigot server
 
 `smp.suikacraft.com` for the vanilla snapshot server
-
-`gensokyo.suikacraft.com` for the Gensokyo server
 
 ## Discord
 
