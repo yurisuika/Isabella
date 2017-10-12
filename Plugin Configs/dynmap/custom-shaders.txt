@@ -1,9 +1,0 @@
-# The user is free to add new and custom shaders here, including replacements for standard ones
-# Dynmap's install will not overwrite it
-shaders:
-  - class: org.dynmap.hdmap.TexturePackHDShader
-    name: SuikaCraft
-    texturepack: SuikaCraft.zip
-    biomeshaded: false
-    better-grass: true
-    grid-scale: 0

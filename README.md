@@ -4,7 +4,7 @@
 
 ## Files
 
-Server resourcepack files are included here, as well as some plugin configurations.
+Server resourcepack files are included here.
 
 The textures are a fork of the continuation of Isabella II.
 
