@@ -18,7 +18,7 @@ SuikaCraft 1.10 `1.10 Legacy`
 
 SuikaCraft 1.11 `1.11 Legacy`
 
-SuikaCraft 1.11 `1.12 Release`
+SuikaCraft 1.12 `1.12 Release`
 
 SuikaCraft Models `Custom Models` **OUT OF DATE**
 
