@@ -34,6 +34,6 @@ SuikaCraft Models `Custom Models` **OUT OF DATE**
 
 ## Forum Threads
 
-[Isabella II Status Thread](www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion/2745599)
+[Isabella II Status Thread](http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion/2745599)
 
 [Isabella II by bonemouse](http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1226573)
