@@ -1,6 +1,6 @@
 # SuikaCraft
 
-[SuikaCraft](http://suikacraft.com) is a Minecraft server focused on architecture and realism.  Currently offline but it will return in time (once plugins catch up again).
+[SuikaCraft](http://suikacraft.com) is a Minecraft server focused on architecture and realism.
 
 ## Files
 
@@ -20,7 +20,11 @@ SuikaCraft 1.11 `1.11 Legacy`
 
 SuikaCraft 1.12 `1.12 Release`
 
-SuikaCraft Models `Custom Models` **OUT OF DATE**
+SuikaCraft Models 1.9 `All 1.9 Models`
+
+SuikaCraft Models Lilypad 1.12 `Custom Lilypad Model`
+
+SuikaCraft Models Vine 1.12 `Custom Vine Model`
 
 ## Servers
 
