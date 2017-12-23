@@ -20,6 +20,8 @@ SuikaCraft 1.11 `1.11 Legacy`
 
 SuikaCraft 1.12 `1.12 Release`
 
+SuikaCraft 1.13 `1.13 Snapshot`
+
 SuikaCraft Models 1.9 `All 1.9 Models`
 
 SuikaCraft Models Lilypad 1.12 `Custom Lilypad Model`
