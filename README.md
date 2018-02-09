@@ -11,20 +11,29 @@ Server resourcepack files.  Available as an archive, RIGHT CLICK + SAVE!
 Originally a branch of the Isabella II Continuation, SuikaCraft's version has become the new continuation.  Most edits to the original textures have been reverted in the latest versions.
 
 LEGACY VERSIONS
+
 `S U I K A C R A F T 1.7`
+
 `S U I K A C R A F T 1.8`
+
 `S U I K A C R A F T 1.9`
+
 `S U I K A C R A F T 1.10`
+
 `S U I K A C R A F T 1.11`
 
 RELEASE VERSION
+
 `S U I K A C R A F T 1.12`
 
 SNAPSHOT VERSION
+
 `S U I K A C R A F T 1.13`
 
 CUSTOM MODELS
+
 `S U I K A C R A F T 1.9 M`
+
 `S U I K A C R A F T 1.12 M`
 
 ## Servers
