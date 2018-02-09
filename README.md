@@ -22,11 +22,9 @@ SuikaCraft 1.12 `1.12 Release`
 
 SuikaCraft 1.13 `1.13 Snapshot`
 
-SuikaCraft Models 1.9 `All 1.9 Models`
+SuikaCraft Models 1.9 `1.9 Custom Models`
 
-SuikaCraft Models Lilypad 1.12 `Custom Lilypad Model`
-
-SuikaCraft Models Vine 1.12 `Custom Vine Model`
+SuikaCraft Models 1.12 `1.12 Custom Models`
 
 ## Servers
 
