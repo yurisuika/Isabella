@@ -2,29 +2,30 @@
 
 [SuikaCraft](http://suikacraft.com) is a Minecraft server focused on architecture and realism.
 
-## Files
+## Resourcepacks
 
-Server resourcepack files are included here.  Legacy versions may have textures that are changed in later releases.
+Server resourcepack files.  Available as an archive, RIGHT CLICK + SAVE!
 
-The textures are a fork of the continuation of Isabella II.
+"My Dearest Isabella"
 
-SuikaCraft 1.7 `1.7 Legacy`
+Originally a branch of the Isabella II Continuation, SuikaCraft's version has become the new continuation.  Most edits to the original textures have been reverted in the latest versions.
 
-SuikaCraft 1.8 `1.8 Legacy`
+LEGACY VERSIONS
+`S U I K A C R A F T 1.7`
+`S U I K A C R A F T 1.8`
+`S U I K A C R A F T 1.9`
+`S U I K A C R A F T 1.10`
+`S U I K A C R A F T 1.11`
 
-SuikaCraft 1.9 `1.9 Legacy`
+RELEASE VERSION
+`S U I K A C R A F T 1.12`
 
-SuikaCraft 1.10 `1.10 Legacy`
+SNAPSHOT VERSION
+`S U I K A C R A F T 1.13`
 
-SuikaCraft 1.11 `1.11 Legacy`
-
-SuikaCraft 1.12 `1.12 Release`
-
-SuikaCraft 1.13 `1.13 Snapshot`
-
-SuikaCraft Models 1.9 `1.9 Custom Models`
-
-SuikaCraft Models 1.12 `1.12 Custom Models`
+CUSTOM MODELS
+`S U I K A C R A F T 1.9 M`
+`S U I K A C R A F T 1.12 M`
 
 ## Servers
 
@@ -34,7 +35,7 @@ SuikaCraft Models 1.12 `1.12 Custom Models`
 
 ## Discord
 
-[Discord](https://discord.gg/0zdNEkQle7Qg9C1H)
+[SuikaCraft Discord](https://discord.gg/0zdNEkQle7Qg9C1H)
 
 ## Forum Threads
 
