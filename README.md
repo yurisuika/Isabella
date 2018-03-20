@@ -40,7 +40,7 @@ CUSTOM MODELS
 
 ## Servers
 
-Join `play.suikacraft.com` for our 1.8 server
+Join `play.suikacraft.com` for the main SuikaCraft server.
 
 Join `smp.suikacraft.com` for our latest vanilla snapshot server.
 
