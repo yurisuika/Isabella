@@ -6,7 +6,7 @@ Our resourcepack is a branch of Isabella II.  However, Isabella had been put to 
 
 Come by and have an absinthe!
 
-- yurisuika
+‒ yurisuika
 
 ## Resourcepacks
 
