@@ -1,46 +1,48 @@
 # SuikaCraft
 
-[SuikaCraft](http://suikacraft.com) is a Minecraft server focused on architecture and realism.
+[SuikaCraft](http://suikacraft.com) is a Minecraft server focused on architecture and realism.  We have been moulding the vanilla blocks of Minecraft into a lovely landscape and refining the awkward features with just plugins since 1.7.  From realistic terrain to changing seasons to an item-based economy, we aim to give you an enhanced vanilla experience with no need for using commands!
+
+Our resourcepack is a branch of Isabella II.  However, Isabella had been put to rest by its artist Bonemouse after 1.5.  A continuation had been forged for 1.6 up until the snapshots of 1.8.  Meanwhile, we had still been adding to our textures, and eventually SuikaCraft's branch had become the new main branch of Isabella II.  Thus any changes to the original textures have been reverted in the latest versions.
+
+Come by and have an absinthe!
+
+- yurisuika
 
 ## Resourcepacks
 
-Server resourcepack files.  Available as an archive, RIGHT CLICK + SAVE!
-
-"My Dearest Isabella"
-
-Originally a branch of the Isabella II Continuation, SuikaCraft's version has become the new continuation.  Most edits to the original textures have been reverted in the latest versions.
+Server resourcepacks available as .ZIP archives, RIGHT CLICK + SAVE!
 
 LEGACY VERSIONS
 
-`S U I K A C R A F T 1.7`
+`Isabella II × SuikaCraft 1.7`
 
-`S U I K A C R A F T 1.8`
+`Isabella II × SuikaCraft 1.8`
 
-`S U I K A C R A F T 1.9`
+`Isabella II × SuikaCraft 1.9`
 
-`S U I K A C R A F T 1.10`
+`Isabella II × SuikaCraft 1.10`
 
-`S U I K A C R A F T 1.11`
+`Isabella II × SuikaCraft 1.11`
 
 RELEASE VERSION
 
-`S U I K A C R A F T 1.12`
+`Isabella II × SuikaCraft 1.12`
 
 SNAPSHOT VERSION
 
-`S U I K A C R A F T 1.13`
+`Isabella II × SuikaCraft 1.13`
 
 CUSTOM MODELS
 
-`S U I K A C R A F T 1.9 M`
+`Isabella II × SuikaCraft 1.9 M`
 
-`S U I K A C R A F T 1.12 M`
+`Isabella II × SuikaCraft 1.12 M`
 
 ## Servers
 
-`rp.suikacraft.com` for the Spigot server
+Join `play.suikacraft.com` for our 1.8 server
 
-`smp.suikacraft.com` for the vanilla snapshot server
+Join `smp.suikacraft.com` for our latest vanilla snapshot server.
 
 ## Discord
 

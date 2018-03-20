@@ -1,0 +1,42 @@
+{
+"__comment": "3D Mesh designed with BDcraft Cubik - Version PRO 0.71 Beta",
+"ambientocclusion": true,
+"randomOffsetX": true,
+"randomOffsetZ": true,
+"textures": {
+    "down": "blocks/waterlily_extra",
+    "north": "blocks/waterlily",
+    "particle": "blocks/waterlily"
+},
+"elements": [ 
+{
+    "from": [ 5, -8, 11 ],
+    "to": [ 13, 0, 11 ],
+    "rotation": { "origin": [ 5, -8, 11 ], "axis": "y", "angle": 45, "rescale": true },
+    "__comment": "PlaneZ",
+    "faces": {
+        "north": { "uv": [ 8, 8, 0, 16 ], "texture": "#down" },
+        "south": { "uv": [ 0, 8, 8, 16 ], "texture": "#down" }
+    }
+},
+{
+    "from": [ 5, -8, 5 ],
+    "to": [ 5, 0, 13 ],
+    "rotation": { "origin": [ 5, -8, 5 ], "axis": "y", "angle": 45, "rescale": true },
+    "__comment": "PlaneX",
+    "faces": {
+        "west":  { "uv": [ 8, 8, 16, 16 ], "texture": "#down" },
+        "east":  { "uv": [ 16, 8, 8, 16 ], "texture": "#down" }
+    }
+},
+{
+    "from": [ 0, -0, 0 ],
+    "to": [ 16, 0, 16 ],
+    "__comment": "PlaneY",
+    "faces": {
+        "down":  { "uv": [ 0, 16, 16, 0 ], "texture": "#north", "tintindex": 0 },
+        "up":    { "uv": [ 0, 0, 16, 16 ], "texture": "#north", "tintindex": 0 }
+    }
+}
+]
+}

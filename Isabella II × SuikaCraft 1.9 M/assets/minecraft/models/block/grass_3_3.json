@@ -1,0 +1,6 @@
+{
+    "parent": "block/grass_base_3",
+    "textures": {
+        "grass": "blocks/better_grass_3"
+    }
+} 

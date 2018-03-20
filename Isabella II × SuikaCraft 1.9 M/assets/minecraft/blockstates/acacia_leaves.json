@@ -1,0 +1,20 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "normal": [
+            { "model": "acacia_leaves" },
+            { "model": "acacia_leaves_1" },
+            { "model": "acacia_leaves_2" },
+            { "model": "acacia_leaves_3" },
+            { "model": "acacia_leaves_1", "y": 90 },
+            { "model": "acacia_leaves_2", "y": 90 },
+            { "model": "acacia_leaves_3", "y": 90 },
+            { "model": "acacia_leaves_1", "y": 180 },
+            { "model": "acacia_leaves_2", "y": 180 },
+            { "model": "acacia_leaves_3", "y": 180 },
+            { "model": "acacia_leaves_1", "y": 270 },
+            { "model": "acacia_leaves_2", "y": 270 },
+            { "model": "acacia_leaves_3", "y": 270 }
+        ]
+    }
+}

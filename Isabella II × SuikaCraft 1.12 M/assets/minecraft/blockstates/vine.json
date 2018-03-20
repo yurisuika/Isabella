@@ -1,0 +1,49 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "east=false,north=false,south=false,up=false,west=false": { "model": "vine_1" },
+        "east=false,north=false,south=true,up=false,west=false": [
+            { "model": "vine_1", "y": 180 },
+            { "model": "vine_1_2", "y": 180 }
+        ],
+        "east=false,north=false,south=false,up=false,west=true": [
+            { "model": "vine_1", "y": 270 },
+            { "model": "vine_1_2", "y": 270 }
+        ],
+        "east=false,north=true,south=false,up=false,west=false": [
+            { "model": "vine_1", "y": 0 },
+            { "model": "vine_1_2", "y": 0 }
+        ],
+        "east=true,north=false,south=false,up=false,west=false": [
+            { "model": "vine_1", "y": 90 },
+            { "model": "vine_1_2", "y": 90 }
+        ],
+        "east=true,north=true,south=false,up=false,west=false": { "model": "vine_2" },
+        "east=true,north=false,south=true,up=false,west=false": { "model": "vine_2", "y": 90 },
+        "east=false,north=false,south=true,up=false,west=true": { "model": "vine_2", "y": 180 },
+        "east=false,north=true,south=false,up=false,west=true": { "model": "vine_2", "y": 270 },
+        "east=true,north=false,south=false,up=false,west=true": { "model": "vine_2_opposite" },
+        "east=false,north=true,south=true,up=false,west=false": { "model": "vine_2_opposite", "y": 180 },
+        "east=true,north=true,south=true,up=false,west=false": { "model": "vine_3" },
+        "east=true,north=false,south=true,up=false,west=true": { "model": "vine_3", "y": 90 },
+        "east=false,north=true,south=true,up=false,west=true": { "model": "vine_3", "y": 180 },
+        "east=true,north=true,south=false,up=false,west=true": { "model": "vine_3", "y": 270 },
+        "east=true,north=true,south=true,up=false,west=true": { "model": "vine_4" },
+        "east=false,north=false,south=false,up=true,west=false": { "model": "vine_u" },
+        "east=false,north=false,south=true,up=true,west=false": { "model": "vine_1" },
+        "east=false,north=false,south=false,up=true,west=true": { "model": "vine_1", "y": 90 },
+        "east=false,north=true,south=false,up=true,west=false": { "model": "vine_1", "y": 180 },
+        "east=true,north=false,south=false,up=true,west=false": { "model": "vine_1", "y": 270 },
+        "east=true,north=true,south=false,up=true,west=false": { "model": "vine_2" },
+        "east=true,north=false,south=true,up=true,west=false": { "model": "vine_2", "y": 90 },
+        "east=false,north=false,south=true,up=true,west=true": { "model": "vine_2", "y": 180 },
+        "east=false,north=true,south=false,up=true,west=true": { "model": "vine_2", "y": 270 },
+        "east=true,north=false,south=false,up=true,west=true": { "model": "vine_2_opposite" },
+        "east=false,north=true,south=true,up=true,west=false": { "model": "vine_2_opposite", "y": 90 },
+        "east=true,north=true,south=true,up=true,west=false": { "model": "vine_3" },
+        "east=true,north=false,south=true,up=true,west=true": { "model": "vine_3", "y": 90 },
+        "east=false,north=true,south=true,up=true,west=true": { "model": "vine_3", "y": 180 },
+        "east=true,north=true,south=false,up=true,west=true": { "model": "vine_3", "y": 270 },
+        "east=true,north=true,south=true,up=true,west=true": { "model": "vine_4" }
+    }
+}
