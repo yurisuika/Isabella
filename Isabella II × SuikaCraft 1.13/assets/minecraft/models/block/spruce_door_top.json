@@ -1,7 +1,0 @@
-{
-    "parent": "block/door_top",
-    "textures": {
-        "bottom": "blocks/spruce_door_lower",
-        "top": "blocks/spruce_door_upper"
-    }
-}

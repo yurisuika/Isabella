@@ -1,8 +1,0 @@
-{
-    "parent": "block/slab",
-    "textures": {
-        "bottom": "blocks/birch_planks",
-        "top": "blocks/birch_planks",
-        "side": "blocks/birch_planks"
-    }
-}

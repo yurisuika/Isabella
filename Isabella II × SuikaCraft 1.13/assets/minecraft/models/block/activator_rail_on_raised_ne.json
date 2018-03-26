@@ -1,6 +1,0 @@
-{
-    "parent": "block/template_rail_raised_ne",
-    "textures": {
-        "rail": "blocks/activator_rail_on"
-    }
-}

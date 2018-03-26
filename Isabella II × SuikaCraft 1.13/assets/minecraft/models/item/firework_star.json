@@ -1,7 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "items/firework_star",
-        "layer1": "items/firework_star_overlay"
-    }
-}
