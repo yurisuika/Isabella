@@ -1,55 +1,73 @@
-# SuikaCraft
+# [SuikaCraft](http://suikacraft.com)
 
-[SuikaCraft](http://suikacraft.com) is a Minecraft server focused on architecture and realism.  We have been moulding the vanilla blocks of Minecraft into a lovely landscape and refining the awkward features with just plugins since 1.7.  From realistic terrain to changing seasons to an item-based economy, we aim to give you an enhanced vanilla experience with no need for using commands!
+SuikaCraft is a Minecraft server focused on architecture and realism.  We have been moulding the vanilla blocks of Minecraft into a lovely landscape and refining the awkward features with just plugins since 1.7.  From realistic terrain to changing seasons to an item-based economy, we aim to give you an enhanced vanilla experience with no need for using commands!
 
-Our resourcepack is a branch of Isabella II.  However, Isabella had been put to rest by its artist Bonemouse after 1.5.  A continuation had been forged for 1.6 up until the snapshots of 1.8.  Meanwhile, we had still been adding to our textures, and eventually SuikaCraft's branch had become the new main branch of Isabella II.  Thus any changes to the original textures have been reverted in the latest versions.
+Our resourcepack is a branch of Isabella II.  However, Isabella had been put to rest by its artist Bonemouse after 1.5.  A continuation had been forged for 1.6 up until the snapshots of 1.8.  Our server was going strong, but the pack updates had stopped coming out.  We had still been adding to our textures in wait, and eventually SuikaCraft's branch became the new main branch of Isabella II.  Thus all original textures that have had no changes have been restored to pristine condition back when Isabella II last came out for 1.5.  You can still find our server's seasons colourmaps in a separate pack below.
 
 Come by and have an absinthe!
 
 ‒ yurisuika
 
+![Isabella](https://raw.githubusercontent.com/yurisuika/SuikaCraft/master/Isabella%20II%20×%20SuikaCraft%201.13/pack.png)
+
 ## Resourcepacks
 
-Server resourcepacks available as .ZIP archives, RIGHT CLICK + SAVE!
+Resourcepacks available as .ZIP archives, RIGHT CLICK + SAVE!
 
-LEGACY VERSIONS
+Currently supports BetterFoliage and Optifine!  Check out the threads linked below for other mods, remixes, and the original packs!
 
-`Isabella II × SuikaCraft 1.7`
+Also check out our *[recommended shaderpack](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1293898-chocapic13s-shaders)*!
 
-`Isabella II × SuikaCraft 1.8`
+###### LEGACY VERSIONS
 
-`Isabella II × SuikaCraft 1.9`
+Packs from versions past!  Still kept up to date!  Good as new!
 
-`Isabella II × SuikaCraft 1.10`
+* [*`Isabella II × SuikaCraft 1.7`*](https://github.com/yurisuika/SuikaCraft/blob/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.7.zip)
 
-`Isabella II × SuikaCraft 1.11`
+* [*`Isabella II × SuikaCraft 1.8`*](https://github.com/yurisuika/SuikaCraft/blob/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.8.zip)
 
-RELEASE VERSION
+* [*`Isabella II × SuikaCraft 1.9`*](https://github.com/yurisuika/SuikaCraft/blob/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.9.zip)
 
-`Isabella II × SuikaCraft 1.12`
+* [*`Isabella II × SuikaCraft 1.10`*](https://github.com/yurisuika/SuikaCraft/blob/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.10.zip)
 
-SNAPSHOT VERSION
+* [*`Isabella II × SuikaCraft 1.11`*](https://github.com/yurisuika/SuikaCraft/blob/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.11.zip)
 
-`Isabella II × SuikaCraft 1.13`
+###### RELEASE VERSION
 
-CUSTOM MODELS
+The latest and greatest!  That is, until the next update comes along!
 
-`Isabella II × SuikaCraft 1.9 M`
+* [*`Isabella II × SuikaCraft 1.12`*](https://github.com/yurisuika/SuikaCraft/blob/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.12.zip)
 
-`Isabella II × SuikaCraft 1.12 M`
+###### SNAPSHOT VERSION
 
-## Servers
+Work in progress for a work in progress!  These textures may change at any moment!  Handle with care!
 
-Join `play.suikacraft.com` for the main SuikaCraft server.
+* [*`Isabella II × SuikaCraft 1.13`*](https://github.com/yurisuika/SuikaCraft/blob/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.13.zip)
 
-Join `smp.suikacraft.com` for our latest vanilla snapshot server.
+###### ALTERNATIVE COLOURMAPS
 
-## Discord
+Colourmaps originally included for the SuikaCraft server's seasons, now a separate pack!  Works for any version!
 
-[SuikaCraft Discord](https://discord.gg/0zdNEkQle7Qg9C1H)
+* [*`Isabella II × SuikaCraft Colour`*](https://github.com/yurisuika/SuikaCraft/blob/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%20Colour.zip)
 
-## Forum Threads
+## Links
 
-[Isabella II Status Thread](http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion/2745599)
+###### SERVERS
 
-[Isabella II by bonemouse](http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1226573)
+Join *`play.suikacraft.com`* for the main SuikaCraft server!
+
+Join *`smp.suikacraft.com`* for our latest vanilla snapshot server!
+
+###### DISCORD
+
+The one and only!  Join the *[SuikaCraft Discord](https://discord.gg/0zdNEkQle7Qg9C1H)* to find the latest discussion on the resourcepack and server or just to chat!
+
+###### FORUM THREADS
+
+Find past versions of Isabella II, remixes, and more!
+
+* *[Isabella II Status Thread](http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion/2745599)*
+
+* *[Isabella II Continuation by Shrugs](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1244972-16x-1-6-1-7-1-8beta-isabella-ii-unofficial-thread)*
+
+* *[Isabella II by Bonemouse](http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1226573)*
