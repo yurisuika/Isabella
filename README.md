@@ -12,9 +12,9 @@ Come by and have an absinthe!
 
 ## Resourcepacks
 
-Resourcepacks available as .ZIP archives, RIGHT CLICK + SAVE!
+Resourcepacks available as .ZIP archives ready to download!
 
-Currently supports BetterFoliage and Optifine!  Check out the threads linked below for other mods, remixes, and the original packs!
+Currently supports BetterFoliage and Optifine.  Check out the threads linked below for other mods, remixes, and the original packs!
 
 Also check out our *[recommended shaderpack](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1293898-chocapic13s-shaders)*!
 
