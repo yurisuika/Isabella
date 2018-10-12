@@ -1,8 +1,8 @@
 # [SuikaCraft](http://suikacraft.com)
 
-SuikaCraft is a Minecraft server focused on architecture and realism.  We have been moulding the vanilla blocks of Minecraft into a lovely landscape and refining the awkward features with just plugins since 1.7.  From realistic terrain to changing seasons to an item-based economy, we aim to give you an enhanced vanilla experience with no need for using commands!
+SuikaCraft is a Minecraft server focused on architecture and realism. We have been moulding the vanilla blocks of Minecraft into a lovely landscape and refining the awkward features with just plugins since 1.7. From realistic terrain to changing seasons to an item-based economy, we aim to give you an enhanced vanilla experience with no need for using commands!
 
-Our resourcepack is a branch of Isabella II.  However, Isabella had been put to rest by its artist Bonemouse after 1.5.  A continuation had been forged for 1.6 up until the snapshots of 1.8.  Our server was going strong, but the pack updates had stopped coming out.  We had still been adding to our textures in wait, and eventually SuikaCraft's branch became the new main branch of Isabella II.  Thus all original textures that have had no changes have been restored to pristine condition back when Isabella II last came out for 1.5.  You can still find our server's seasons colourmaps in a separate pack below.
+Our resourcepack is a branch of Isabella II. However, Isabella had been put to rest by its artist Bonemouse after 1.5. A continuation had been forged for 1.6 up until the snapshots of 1.8. Our server was going strong, but the pack updates had stopped coming out. We had still been adding to our textures in wait, and eventually SuikaCraft's branch became the new main branch of Isabella II. Thus all original textures that have had no changes have been restored to pristine condition back when Isabella II last came out for 1.5. You can still find our server's seasons colourmaps in a separate pack below.
 
 Come by and have an absinthe!
 
@@ -14,13 +14,13 @@ Come by and have an absinthe!
 
 Resourcepacks available as .ZIP archives ready to download!
 
-Currently supports BetterFoliage and Optifine.  Check out the threads linked below for other mods, remixes, and the original packs!
+Currently supports BetterFoliage and Optifine. Check out the threads linked below for other mods, remixes, and the original packs!
 
-Also check out our *[recommended shaderpack](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1293898-chocapic13s-shaders)*!
+Also check out our *[recommended shaderpack](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1291396-1-6-4-1-13-1-sildurs-shaders-pc-mac-intel-vibrant)*!
 
 ###### LEGACY VERSIONS
 
-Packs from versions past!  Still kept up to date!  Good as new!
+Packs from versions past! Still kept up to date! Good as new!
 
 * [*`Isabella II × SuikaCraft 1.7`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.7.zip)
 
@@ -32,21 +32,23 @@ Packs from versions past!  Still kept up to date!  Good as new!
 
 * [*`Isabella II × SuikaCraft 1.11`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.11.zip)
 
-###### RELEASE VERSION
-
-The latest and greatest!  That is, until the next update comes along!
-
 * [*`Isabella II × SuikaCraft 1.12`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.12.zip)
 
-###### SNAPSHOT VERSION
+###### RELEASE VERSION
 
-Work in progress for a work in progress!  These textures may change at any moment!  Handle with care!
+The latest and greatest! That is, until the next update comes along!
 
 * [*`Isabella II × SuikaCraft 1.13`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.13.zip)
 
+###### SNAPSHOT VERSION
+
+Work in progress for a work in progress! These textures may change at any moment! Handle with care!
+
+* *`NONE YET!`*
+
 ###### ALTERNATIVE COLOURMAPS
 
-Colourmaps originally included for the SuikaCraft server's seasons, now a separate pack!  Works for any version!
+Colourmaps originally included for the SuikaCraft server's seasons, now a separate pack! Works for any version!
 
 * [*`Isabella II × SuikaCraft Colour`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%20Colour.zip)
 
@@ -60,7 +62,7 @@ Join *`smp.suikacraft.com`* for our latest vanilla snapshot server!
 
 ###### DISCORD
 
-The one and only!  Join the *[SuikaCraft Discord](https://discord.gg/0zdNEkQle7Qg9C1H)* to find the latest discussion on the resourcepack and server or just to chat!
+The one and only! Join the *[SuikaCraft Discord](https://discord.gg/0zdNEkQle7Qg9C1H)* to find the latest discussion on the resourcepack and server or just to chat!
 
 ###### FORUM THREADS
 
