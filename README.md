@@ -2,7 +2,7 @@
 
 SuikaCraft is a Minecraft server focused on architecture and realism. We have been moulding the vanilla blocks of Minecraft into a lovely landscape and refining the awkward features with just plugins since 1.7. From realistic terrain to changing seasons to an item-based economy, we aim to give you an enhanced vanilla experience with no need for using commands!
 
-Our resourcepack is a branch of Isabella II. However, Isabella had been put to rest by its artist Bonemouse after 1.5. A continuation had been forged for 1.6 up until the snapshots of 1.8. Our server was going strong, but the pack updates had stopped coming out. We had still been adding to our textures in wait, and eventually SuikaCraft's branch became the new main branch of Isabella II. Thus all original textures that have had no changes have been restored to pristine condition back when Isabella II last came out for 1.5. You can still find our server's seasons colourmaps in a separate pack below.
+Our resourcepack is a branch of Isabella II. However, Isabella had been put to rest by its artist Bonemouse after 1.5. A continuation had been forged for 1.6 up until the snapshots of 1.8. Our server was going strong, but the pack updates had stopped coming out. We had still been adding to our textures in wait, and eventually SuikaCraft's branch became the new main branch of Isabella II. Thus all original textures that have had no changes have been restored to pristine condition back when Isabella II last came out for 1.5. You can find all of our releases since 1.7 kept up to date below.
 
 Come by and have an absinthe!
 
