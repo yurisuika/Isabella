@@ -1,7 +1,7 @@
 {
     "parent": "block/fence_side",
     "textures": {
-        "texture": "block/fence_birch",
-	"texture_rail": "block/fence_birch_rail"
+        "texture": "custom/fence_birch",
+	"texture_rail": "custom/fence_birch_rail"
     }
 }

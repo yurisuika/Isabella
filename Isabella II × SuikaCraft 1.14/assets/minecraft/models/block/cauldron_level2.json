@@ -6,7 +6,7 @@
         "bottom": "block/cauldron_bottom",
         "side": "block/cauldron_side",
         "inside": "block/cauldron_inner",
-        "water": "block/cauldron_water"
+        "water": "custom/cauldron_water"
     },
     "elements": [
         {   "from": [ 0, 3, 0 ],

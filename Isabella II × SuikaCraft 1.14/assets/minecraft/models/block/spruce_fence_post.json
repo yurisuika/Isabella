@@ -1,7 +1,7 @@
 {
     "parent": "block/fence_post",
     "textures": {
-        "texture": "block/fence_spruce",
-	"texture_top": "block/fence_spruce_top"
+        "texture": "custom/fence_spruce",
+	"texture_top": "custom/fence_spruce_top"
     }
 }
