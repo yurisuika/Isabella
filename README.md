@@ -22,6 +22,8 @@ Also check out our *[recommended shaderpack](https://www.minecraftforum.net/foru
 
 Packs from versions past! Still kept up to date! Good as new!
 
+* [*`Isabella II × SuikaCraft 1.6`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.6.zip)
+
 * [*`Isabella II × SuikaCraft 1.7`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.7.zip)
 
 * [*`Isabella II × SuikaCraft 1.8`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.8.zip)
