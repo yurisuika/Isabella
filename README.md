@@ -48,7 +48,7 @@ The latest and greatest! That is, until the next update comes along!
 
 Work in progress for a work in progress! These textures may change at any moment! Handle with care!
 
-* [*`Nothing yet!`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.14.zip)
+* [*`Isabella II × SuikaCraft 1.15`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.15.zip)
 
 ## Links
 
