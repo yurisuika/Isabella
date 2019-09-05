@@ -1,0 +1,7 @@
+{
+    "parent": "block/fence_post",
+    "textures": {
+        "texture": "custom/fence_dark_oak",
+	"texture_top": "custom/fence_dark_oak_top"
+    }
+}

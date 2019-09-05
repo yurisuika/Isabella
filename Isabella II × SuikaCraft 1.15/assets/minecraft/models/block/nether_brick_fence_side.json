@@ -1,0 +1,7 @@
+{
+    "parent": "block/fence_side",
+    "textures": {
+        "texture": "custom/fence_nether",
+				"texture_rail": "custom/fence_nether_rail"
+    }
+}
