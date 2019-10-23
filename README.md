@@ -16,27 +16,11 @@ Resourcepacks available as .ZIP archives ready to download!
 
 Currently supports BetterFoliage and Optifine. Check out the threads linked below for other mods, remixes, and the original packs!
 
-Also check out our *[recommended shaderpack](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1291396-1-6-4-1-13-1-sildurs-shaders-pc-mac-intel-vibrant)*!
+###### SNAPSHOT VERSION
 
-###### LEGACY VERSIONS
+Work in progress for a work in progress! These textures may change at any moment! Handle with care!
 
-Packs from versions past! Still kept up to date! Good as new!
-
-* [*`Isabella II × SuikaCraft 1.6`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.6.zip)
-
-* [*`Isabella II × SuikaCraft 1.7`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.7.zip)
-
-* [*`Isabella II × SuikaCraft 1.8`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.8.zip)
-
-* [*`Isabella II × SuikaCraft 1.9`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.9.zip)
-
-* [*`Isabella II × SuikaCraft 1.10`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.10.zip)
-
-* [*`Isabella II × SuikaCraft 1.11`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.11.zip)
-
-* [*`Isabella II × SuikaCraft 1.12`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.12.zip)
-
-* [*`Isabella II × SuikaCraft 1.13`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.13.zip)
+* [*`Isabella II × SuikaCraft 1.15`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.15.zip)
 
 ###### RELEASE VERSION
 
@@ -44,11 +28,31 @@ The latest and greatest! That is, until the next update comes along!
 
 * [*`Isabella II × SuikaCraft 1.14`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.14.zip)
 
-###### SNAPSHOT VERSION
+###### LEGACY VERSIONS
 
-Work in progress for a work in progress! These textures may change at any moment! Handle with care!
+Packs from versions past! Still kept up to date! Good as new!
 
-* [*`Isabella II × SuikaCraft 1.15`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.15.zip)
+* [*`Isabella II × SuikaCraft 1.13`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.13.zip)
+
+* [*`Isabella II × SuikaCraft 1.12`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.12.zip)
+
+* [*`Isabella II × SuikaCraft 1.11`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.11.zip)
+
+* [*`Isabella II × SuikaCraft 1.10`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.10.zip)
+
+* [*`Isabella II × SuikaCraft 1.9`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.9.zip)
+
+* [*`Isabella II × SuikaCraft 1.8`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.8.zip)
+
+* [*`Isabella II × SuikaCraft 1.7`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.7.zip)
+
+* [*`Isabella II × SuikaCraft 1.6`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.6.zip)
+
+###### BEDROCK VERSION
+
+For the special folk out there!
+
+* [*`Isabella II × Bedrock`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20Bedrock.mcpack)
 
 ## Links
 
