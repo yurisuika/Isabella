@@ -20,7 +20,7 @@ Currently supports BetterFoliage and Optifine. Check out the threads linked belo
 
 Work in progress for a work in progress! These textures may change at any moment! Handle with care!
 
-* [*`Nothing out yet!`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.15.zip)
+* [*`Isabella II × SuikaCraft 1.16`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20SuikaCraft%201.16.zip)
 
 ###### RELEASE VERSION
 
