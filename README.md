@@ -52,7 +52,7 @@ Packs from versions past! Still kept up to date! Good as new!
 
 ###### BEDROCK VERSION
 
-For the special folk out there!
+For the special folk out there! Updated to Bedrock 1.14!
 
 * [*`Isabella II × Bedrock`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20Bedrock.mcpack)
 
