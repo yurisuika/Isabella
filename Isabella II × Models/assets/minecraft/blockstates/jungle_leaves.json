@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "":  [
+            { "model": "block/jungle_leaves", "weight": 2 },
+            { "model": "block/jungle_leaves2", "weight": 1 },
+            { "model": "block/jungle_leaves2", "y": 90, "weight": 1 },
+            { "model": "block/jungle_leaves2", "y": 180, "weight": 1 },
+            { "model": "block/jungle_leaves2", "y": 270, "weight": 1 },
+            { "model": "block/jungle_leaves1", "weight": 3 },
+            { "model": "block/jungle_leaves1", "y": 90, "weight": 3 },
+            { "model": "block/jungle_leaves1", "y": 180, "weight": 3 },
+            { "model": "block/jungle_leaves1", "y": 270, "weight": 3 }
+        ]
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/fence_side",
+    "textures": {
+        "texture": "block/fence_acacia",
+	"texture_rail": "block/fence_acacia_rail"
+    }
+}
