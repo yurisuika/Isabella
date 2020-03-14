@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/activator_rail_raised_sw",
+  "textures": {
+    "activator_rail": "minecraft:block/activator_rail_on"
+  }
+}
