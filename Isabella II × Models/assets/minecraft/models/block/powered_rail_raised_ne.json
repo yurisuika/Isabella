@@ -1,4 +1,5 @@
 {
+	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
 		"rail_bottom": "block/rail_bottom",
@@ -11,7 +12,7 @@
 			"name": "rail_0",
 			"from": [2, 8, 0],
 			"to": [4, 10, 16],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 8, 8], "rescale": true},
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9, 8], "rescale": true},
 			"faces": {
 				"north": {"uv": [4, 0, 2, 2], "texture": "#powered_rail"},
 				"east": {"uv": [2, 0, 4, 16], "rotation": 90, "texture": "#powered_rail"},
@@ -25,7 +26,7 @@
 			"name": "rail_1",
 			"from": [12, 8, 0],
 			"to": [14, 10, 16],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 8, 8], "rescale": true},
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9, 8], "rescale": true},
 			"faces": {
 				"north": {"uv": [14, 0, 12, 2], "texture": "#powered_rail"},
 				"east": {"uv": [12, 0, 14, 16], "rotation": 90, "texture": "#powered_rail"},
@@ -39,7 +40,7 @@
 			"name": "rail_2",
 			"from": [1, 8, 1],
 			"to": [2, 9, 4],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 8, 8], "rescale": true},
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9, 8], "rescale": true},
 			"faces": {
 				"north": {"uv": [2, 1, 1, 2], "texture": "#powered_rail"},
 				"south": {"uv": [1, 3, 2, 4], "texture": "#powered_rail"},
@@ -52,7 +53,7 @@
 			"name": "rail_3",
 			"from": [4, 8, 1],
 			"to": [12, 9, 4],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 8, 8], "rescale": true},
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9, 8], "rescale": true},
 			"faces": {
 				"north": {"uv": [12, 1, 4, 2], "texture": "#powered_rail"},
 				"south": {"uv": [4, 3, 12, 4], "texture": "#rail"},
@@ -64,7 +65,7 @@
 			"name": "rail_4",
 			"from": [14, 8, 1],
 			"to": [15, 9, 4],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 8, 8], "rescale": true},
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9, 8], "rescale": true},
 			"faces": {
 				"north": {"uv": [15, 1, 14, 2], "texture": "#powered_rail"},
 				"east": {"uv": [14, 1, 15, 4], "rotation": 90, "texture": "#powered_rail"},
@@ -77,7 +78,7 @@
 			"name": "rail_5",
 			"from": [1, 8, 5],
 			"to": [2, 9, 8],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 8, 8], "rescale": true},
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9, 8], "rescale": true},
 			"faces": {
 				"north": {"uv": [2, 5, 1, 6], "texture": "#powered_rail"},
 				"south": {"uv": [1, 7, 2, 8], "texture": "#powered_rail"},
@@ -90,7 +91,7 @@
 			"name": "rail_6",
 			"from": [4, 8, 5],
 			"to": [12, 9, 8],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 8, 8], "rescale": true},
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9, 8], "rescale": true},
 			"faces": {
 				"north": {"uv": [12, 5, 4, 6], "texture": "#rail"},
 				"south": {"uv": [4, 7, 12, 8], "texture": "#rail"},
@@ -102,7 +103,7 @@
 			"name": "rail_7",
 			"from": [14, 8, 5],
 			"to": [15, 9, 8],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 8, 8], "rescale": true},
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9, 8], "rescale": true},
 			"faces": {
 				"north": {"uv": [15, 5, 14, 6], "texture": "#powered_rail"},
 				"east": {"uv": [14, 5, 15, 8], "rotation": 90, "texture": "#powered_rail"},
@@ -115,7 +116,7 @@
 			"name": "rail_8",
 			"from": [1, 8, 9],
 			"to": [2, 9, 12],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 8, 8], "rescale": true},
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9, 8], "rescale": true},
 			"faces": {
 				"north": {"uv": [2, 9, 1, 10], "texture": "#powered_rail"},
 				"south": {"uv": [1, 11, 2, 12], "texture": "#powered_rail"},
@@ -128,7 +129,7 @@
 			"name": "rail_9",
 			"from": [4, 8, 9],
 			"to": [12, 9, 12],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 8, 8], "rescale": true},
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9, 8], "rescale": true},
 			"faces": {
 				"north": {"uv": [12, 9, 4, 10], "texture": "#rail"},
 				"south": {"uv": [4, 11, 12, 12], "texture": "#rail"},
@@ -140,7 +141,7 @@
 			"name": "rail_10",
 			"from": [14, 8, 9],
 			"to": [15, 9, 12],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 8, 8], "rescale": true},
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9, 8], "rescale": true},
 			"faces": {
 				"north": {"uv": [15, 9, 14, 10], "texture": "#powered_rail"},
 				"east": {"uv": [14, 9, 15, 12], "rotation": 90, "texture": "#powered_rail"},
@@ -153,7 +154,7 @@
 			"name": "rail_11",
 			"from": [1, 8, 13],
 			"to": [2, 9, 16],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 8, 8], "rescale": true},
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9, 8], "rescale": true},
 			"faces": {
 				"north": {"uv": [2, 13, 1, 14], "texture": "#powered_rail"},
 				"south": {"uv": [1, 15, 2, 16], "texture": "#powered_rail"},
@@ -166,7 +167,7 @@
 			"name": "rail_12",
 			"from": [4, 8, 13],
 			"to": [12, 9, 16],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 8, 8], "rescale": true},
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9, 8], "rescale": true},
 			"faces": {
 				"north": {"uv": [12, 13, 4, 14], "texture": "#rail"},
 				"south": {"uv": [4, 15, 12, 16], "texture": "#powered_rail"},
@@ -178,7 +179,7 @@
 			"name": "rail_13",
 			"from": [14, 8, 13],
 			"to": [15, 9, 16],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 8, 8], "rescale": true},
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9, 8], "rescale": true},
 			"faces": {
 				"north": {"uv": [15, 13, 14, 14], "texture": "#powered_rail"},
 				"east": {"uv": [14, 13, 15, 16], "rotation": 90, "texture": "#powered_rail"},
@@ -190,7 +191,7 @@
 		{
 			"from": [6, 9, 14],
 			"to": [10, 10, 15],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 8, 8], "rescale": true},
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9, 8], "rescale": true},
 			"faces": {
 				"north": {"uv": [6, 14, 10, 15], "texture": "#powered_rail"},
 				"east": {"uv": [9, 14, 10, 15], "rotation": 90, "texture": "#powered_rail"},
@@ -202,7 +203,7 @@
 		{
 			"from": [6, 9, 12],
 			"to": [10, 10, 13],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 8, 8], "rescale": true},
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9, 8], "rescale": true},
 			"faces": {
 				"north": {"uv": [6, 12, 10, 13], "texture": "#powered_rail"},
 				"east": {"uv": [9, 12, 10, 13], "rotation": 90, "texture": "#powered_rail"},
@@ -215,7 +216,7 @@
 		{
 			"from": [6, 9, 10],
 			"to": [10, 10, 11],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 8, 8], "rescale": true},
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9, 8], "rescale": true},
 			"faces": {
 				"north": {"uv": [6, 10, 10, 11], "texture": "#powered_rail"},
 				"east": {"uv": [9, 10, 10, 11], "rotation": 90, "texture": "#powered_rail"},
@@ -227,7 +228,7 @@
 		{
 			"from": [6, 9, 8],
 			"to": [10, 10, 9],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 8, 8], "rescale": true},
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9, 8], "rescale": true},
 			"faces": {
 				"north": {"uv": [6, 8, 10, 9], "texture": "#powered_rail"},
 				"east": {"uv": [9, 8, 10, 9], "rotation": 90, "texture": "#powered_rail"},
@@ -240,7 +241,7 @@
 		{
 			"from": [6, 9, 6],
 			"to": [10, 10, 7],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 8, 8], "rescale": true},
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9, 8], "rescale": true},
 			"faces": {
 				"north": {"uv": [6, 6, 10, 7], "texture": "#powered_rail"},
 				"east": {"uv": [9, 6, 10, 7], "rotation": 90, "texture": "#powered_rail"},
@@ -252,7 +253,7 @@
 		{
 			"from": [6, 9, 4],
 			"to": [10, 10, 5],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 8, 8], "rescale": true},
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9, 8], "rescale": true},
 			"faces": {
 				"north": {"uv": [6, 4, 10, 5], "texture": "#powered_rail"},
 				"east": {"uv": [9, 4, 10, 5], "rotation": 90, "texture": "#powered_rail"},
@@ -265,7 +266,7 @@
 		{
 			"from": [6, 9, 2],
 			"to": [10, 10, 3],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 8, 8], "rescale": true},
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9, 8], "rescale": true},
 			"faces": {
 				"north": {"uv": [6, 2, 10, 3], "texture": "#powered_rail"},
 				"east": {"uv": [9, 2, 10, 3], "rotation": 90, "texture": "#powered_rail"},
