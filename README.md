@@ -20,47 +20,47 @@ Currently supports BetterFoliage and Optifine. Check out the threads linked belo
 
 Work in progress for a work in progress! These textures may change at any moment! Handle with care!
 
-* [*`Isabella II × 1.16`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97Isabella%20II%20%C3%97%201.16.zip)
+* [*`Isabella II × 1.16`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20×%201.16.zip)
 
 ###### RELEASE VERSION
 
 The latest and greatest! That is, until the next update comes along!
 
-* [*`Isabella II × 1.15`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97Isabella%20II%20%C3%97%201.15.zip)
+* [*`Isabella II × 1.15`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20×%201.15.zip)
 
 ###### LEGACY VERSIONS
 
 Packs from versions past! Still kept up to date! Good as new!
 
-* [*`Isabella II × 1.14`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97Isabella%20II%20%C3%97%201.14.zip)
+* [*`Isabella II × 1.14`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20×%201.14.zip)
 
-* [*`Isabella II × 1.13`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97Isabella%20II%20%C3%97%201.13.zip)
+* [*`Isabella II × 1.13`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20×%201.13.zip)
 
-* [*`Isabella II × 1.12`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97Isabella%20II%20%C3%97%201.12.zip)
+* [*`Isabella II × 1.12`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20×%201.12.zip)
 
-* [*`Isabella II × 1.11`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97Isabella%20II%20%C3%97%201.11.zip)
+* [*`Isabella II × 1.11`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20×%201.11.zip)
 
-* [*`Isabella II × 1.10`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97Isabella%20II%20%C3%97%201.10.zip)
+* [*`Isabella II × 1.10`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20×%201.10.zip)
 
-* [*`Isabella II × 1.9`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97Isabella%20II%20%C3%97%201.9.zip)
+* [*`Isabella II × 1.9`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20×%201.9.zip)
 
-* [*`Isabella II × 1.8`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97Isabella%20II%20%C3%97%201.8.zip)
+* [*`Isabella II × 1.8`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20×%201.8.zip)
 
-* [*`Isabella II × 1.7`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97Isabella%20II%20%C3%97%201.7.zip)
+* [*`Isabella II × 1.7`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20×%201.7.zip)
 
-* [*`Isabella II × 1.6`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97Isabella%20II%20%C3%97%201.6.zip)
+* [*`Isabella II × 1.6`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20×%201.6.zip)
 
 ###### BEDROCK VERSION
 
 For the special folk out there! Updated to Bedrock 1.14!
 
-* [*`Isabella II × Bedrock`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20Bedrock.mcpack)
+* [*`Isabella II × Bedrock`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20×%20Bedrock.mcpack)
 
 ###### CUSTOM MODELS
 
 Improved block models tailored just for Isabella II! For 1.13 up!
 
-* [*`Isabella II × Models`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20Models.zip)
+* [*`Isabella II × Models`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20×%20Models.zip)
 
 ###### CUSTOM MAPS
 
