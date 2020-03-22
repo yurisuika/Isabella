@@ -66,7 +66,7 @@ Improved block models tailored just for Isabella II! For 1.13 up!
 
 An unfinished assortment of parallax depth normal maps! For 1.13 up!
 
-* [*`Isabella II × Maps`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20%C3%97%20Maps.zip)
+* [*`Isabella II × Maps`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20×%20Maps.zip)
 
 ## Links
 
