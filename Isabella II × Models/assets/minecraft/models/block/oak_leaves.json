@@ -19,7 +19,6 @@
     }
 },
 {
-    "__comment": "bl1_1",
     "from": [ -8, -8, 8 ],
     "to": [ 8, 8, 8 ],
     "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 45, "rescale": false },
@@ -29,7 +28,6 @@
     }
 },
 {
-    "__comment": "bl1_2",
     "from": [ -8, 8, 8.002 ],
     "to": [ 8, 24, 8.002 ],
     "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 45, "rescale": false },
@@ -39,7 +37,6 @@
     }
 },
 {
-    "__comment": "bl1_3",
     "from": [ 8, -8, 7.998 ],
     "to": [ 24, 8, 7.998 ],
     "rotation": { "origin": [ 8.0, 10.0, 8.0 ], "axis": "y", "angle": 45, "rescale": false },
@@ -49,7 +46,6 @@
     }
 },
 {
-    "__comment": "bl1_4",
     "from": [ 8, 8, 8.004 ],
     "to": [ 24, 24, 8.004 ],
     "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": 45, "rescale": false },
@@ -59,7 +55,6 @@
     }
 },
 {
-    "__comment": "bl2_1",
     "from": [ -8, -8, 8.001 ],
     "to": [ 8, 8, 8.001 ],
     "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": -45, "rescale": false },
@@ -69,7 +64,6 @@
     }
 },
 {
-    "__comment": "bl2_2",
     "from": [ -8, 8, 8.003 ],
     "to": [ 8, 24, 8.003 ],
     "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": -45, "rescale": false },
@@ -79,7 +73,6 @@
     }
 },
 {
-    "__comment": "bl2_3",
     "from": [ 8, -8, 7.999 ],
     "to": [ 24, 8, 7.999 ],
     "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": -45, "rescale": false },
@@ -89,7 +82,6 @@
     }
 },
 {
-    "__comment": "bl2_4",
     "from": [ 8, 8, 7.997 ],
     "to": [ 24, 24, 7.997 ],
     "rotation": { "origin": [ 8.0, 8.0, 8.0 ], "axis": "y", "angle": -45, "rescale": false },
