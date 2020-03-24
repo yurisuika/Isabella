@@ -68,6 +68,12 @@ An unfinished assortment of parallax depth normal maps! For 1.13 up!
 
 * [*`Isabella II × Maps`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20×%20Maps.zip)
 
+###### MOD TEXTURES
+
+Mod textures for 1.15+ Biomes O' Plenty, Serene Seasons, and Spice of Life. Requires the Custom Models pack currently.
+
+* [*`Isabella II × Mods`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20×%20Mods.zip)
+
 ## Links
 
 ###### SERVERS

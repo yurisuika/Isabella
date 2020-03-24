@@ -1,0 +1,7 @@
+{
+    "parent": "block/fence_side",
+    "textures": {
+        "texture": "biomesoplenty:block/fence_jacaranda",
+	"texture_rail": "biomesoplenty:block/fence_jacaranda_rail"
+    }
+}

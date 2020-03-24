@@ -1,0 +1,8 @@
+{
+    "parent": "block/oak_leaves2",
+    "textures": {
+        "particle": "biomesoplenty:block/white_cherry_leaves",
+        "leaves_extra": "biomesoplenty:block/white_cherry_leaves_extra",
+        "block": "biomesoplenty:block/white_cherry_leaves"
+    }
+}

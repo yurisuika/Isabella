@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "":  [
+            { "model": "biomesoplenty:block/umbran_leaves" },
+            { "model": "biomesoplenty:block/umbran_leaves2" },
+            { "model": "biomesoplenty:block/umbran_leaves2", "y": 90 },
+            { "model": "biomesoplenty:block/umbran_leaves2", "y": 180 },
+            { "model": "biomesoplenty:block/umbran_leaves2", "y": 270 },
+            { "model": "biomesoplenty:block/umbran_leaves1" },
+            { "model": "biomesoplenty:block/umbran_leaves1", "y": 90 },
+            { "model": "biomesoplenty:block/umbran_leaves1", "y": 180 },
+            { "model": "biomesoplenty:block/umbran_leaves1", "y": 270 }
+        ]
+    }
+}
