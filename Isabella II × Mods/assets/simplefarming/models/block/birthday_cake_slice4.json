@@ -1,0 +1,23 @@
+{
+	"textures": {
+		"bottom": "simplefarming:block/birthday_cake_bottom",
+		"top": "simplefarming:block/birthday_cake_top",
+		"particle": "simplefarming:block/birthday_cake_side",
+		"side": "simplefarming:block/birthday_cake_side",
+		"inside": "simplefarming:block/birthday_cake_inner"
+	},
+	"elements": [
+		{
+			"from": [9, 0, 1],
+			"to": [15, 8, 15],
+			"faces": {
+				"north": {"uv": [1, 8, 7, 16], "texture": "#side"},
+				"east": {"uv": [1, 8, 15, 16], "texture": "#side"},
+				"south": {"uv": [9, 8, 15, 16], "texture": "#side"},
+				"west": {"uv": [1, 8, 15, 16], "texture": "#inside"},
+				"up": {"uv": [9, 1, 15, 15], "texture": "#top"},
+				"down": {"uv": [9, 1, 15, 15], "texture": "#bottom", "cullface": "down"}
+			}
+		}
+	]
+}

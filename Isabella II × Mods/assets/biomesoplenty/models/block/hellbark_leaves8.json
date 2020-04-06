@@ -1,0 +1,8 @@
+{
+    "parent": "biomesoplenty:block/origin_leaves8",
+    "textures": {
+        "particle": "biomesoplenty:block/hellbark_leaves",
+        "leaves_extra": "biomesoplenty:block/hellbark_leaves_extra",
+        "block": "biomesoplenty:block/hellbark_leaves"
+    }
+}

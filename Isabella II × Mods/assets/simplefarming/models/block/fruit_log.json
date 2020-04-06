@@ -1,0 +1,48 @@
+{
+	"textures": {
+		"particle": "simplefarming:block/fruit_log",
+		"fruit_log": "simplefarming:block/fruit_log",
+		"fruit_log_top": "simplefarming:block/fruit_log_top"
+	},
+	"elements": [
+		{
+			"name": "bot",
+			"from": [4, 0, 4],
+			"to": [12, 16, 12],
+			"faces": {
+				"north": {"uv": [4, 0, 12, 16], "texture": "#fruit_log", "cullface": "north"},
+				"east": {"uv": [4, 0, 12, 16], "texture": "#fruit_log", "cullface": "east"},
+				"south": {"uv": [4, 0, 12, 16], "texture": "#fruit_log", "cullface": "south"},
+				"west": {"uv": [4, 0, 12, 16], "texture": "#fruit_log", "cullface": "west"},
+				"up": {"uv": [4, 4, 12, 12], "texture": "#fruit_log_top", "cullface": "up"},
+				"down": {"uv": [4, 4, 12, 12], "texture": "#fruit_log_top", "cullface": "down"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 315, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 315, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, 45, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"head": {
+			"rotation": [0, 180, 0]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}
