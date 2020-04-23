@@ -1,0 +1,9 @@
+{
+    "parent": "block/door_bottom_rh",
+    "textures": {
+        "bottom": "suikacraft:block/fir_door_bottom",
+        "bottom_side": "suikacraft:block/fir_door_bottom_side",
+        "top": "suikacraft:block/fir_door_top",
+        "top_side": "suikacraft:block/fir_door_top_side"
+    }
+}

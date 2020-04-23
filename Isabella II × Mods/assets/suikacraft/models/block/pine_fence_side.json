@@ -1,0 +1,7 @@
+{
+    "parent": "block/fence_side",
+    "textures": {
+        "texture": "suikacraft:block/fence_pine",
+	"texture_rail": "suikacraft:block/fence_pine_rail"
+    }
+}
