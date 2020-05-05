@@ -70,9 +70,16 @@ An unfinished assortment of parallax depth normal maps! For 1.13 up!
 
 ###### MOD TEXTURES
 
-Textures for various mods for 1.15 up! Requires the Custom Models pack currently!
+Textures for various mods which I worked on at some point in time! Dangerously unsupported!
 
 * [*`Isabella II × Mods`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20×%20Mods.zip)
+
+###### SUIKACRAFT TEXTURES
+
+A custom model extension for the SuikaCraft mod (TBA)! Dependent on the custom model pack!
+
+* [*`Isabella II × SuikaCraft`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/Isabella%20II%20×%20SuikaCraft.zip)
+
 
 ## Links
 

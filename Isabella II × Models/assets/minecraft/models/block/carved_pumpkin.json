@@ -3,7 +3,7 @@
 	"textures": {
 		"bottom": "block/pumpkin_bottom",
 		"top": "block/pumpkin_top",
-		"front": "block/carved_pumpkin",
+		"front": "block/carved_pumpkin0",
 		"particle": "block/pumpkin_side",
 		"side": "block/pumpkin_side"
 	},

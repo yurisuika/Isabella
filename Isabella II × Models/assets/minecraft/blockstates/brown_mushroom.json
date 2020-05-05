@@ -1,0 +1,27 @@
+{
+"variants": {
+    "":  [
+        { "model": "block/brown_mushroom", "weight": 1 },
+        { "model": "block/brown_mushroom1", "weight": 1 },
+        { "model": "block/brown_mushroom1", "y": 90, "weight": 1 },
+        { "model": "block/brown_mushroom1", "y": 180, "weight": 1 },
+        { "model": "block/brown_mushroom1", "y": 270, "weight": 1 },
+        { "model": "block/brown_mushroom2", "weight": 1 },
+        { "model": "block/brown_mushroom2", "y": 90, "weight": 1 },
+        { "model": "block/brown_mushroom2", "y": 180, "weight": 1 },
+        { "model": "block/brown_mushroom2", "y": 270, "weight": 1 },
+        { "model": "block/brown_mushroom3", "weight": 1 },
+        { "model": "block/brown_mushroom3", "y": 90, "weight": 1 },
+        { "model": "block/brown_mushroom3", "y": 180, "weight": 1 },
+        { "model": "block/brown_mushroom3", "y": 270, "weight": 1 },
+        { "model": "block/brown_mushroom4", "weight": 1 },
+        { "model": "block/brown_mushroom4", "y": 90, "weight": 1 },
+        { "model": "block/brown_mushroom4", "y": 180, "weight": 1 },
+        { "model": "block/brown_mushroom4", "y": 270, "weight": 1 },
+        { "model": "block/brown_mushroom5", "weight": 1 },
+        { "model": "block/brown_mushroom5", "y": 90, "weight": 1 },
+        { "model": "block/brown_mushroom5", "y": 180, "weight": 1 },
+        { "model": "block/brown_mushroom5", "y": 270, "weight": 1 }
+      ]
+  }
+}

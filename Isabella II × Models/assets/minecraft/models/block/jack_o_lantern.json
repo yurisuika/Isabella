@@ -4,10 +4,10 @@
 		"torch": "block/torch",
 		"binside": "block/pumpkin_bottom_inside",
 		"sinside": "block/pumpkin_side_inside",
-		"jinside": "block/jack_o_lantern_inside",
+		"jinside": "block/jack_o_lantern_inside0",
 		"bottom": "block/pumpkin_bottom",
 		"top": "block/pumpkin_top",
-		"front": "block/jack_o_lantern",
+		"front": "block/jack_o_lantern0",
 		"particle": "block/pumpkin_side",
 		"side": "block/pumpkin_side"
 	},
