@@ -1,0 +1,12 @@
+{
+"variants": {
+    "":  [
+        { "model": "block/potted_cactus", "weight": 1 },
+        { "model": "block/potted_cactus1", "weight": 1 },
+        { "model": "block/potted_cactus2", "weight": 1 },
+        { "model": "block/potted_cactus3", "weight": 1 },
+        { "model": "block/potted_cactus4", "weight": 1 },
+        { "model": "block/potted_cactus5", "weight": 1 }
+      ]
+  }
+}
