@@ -4,5 +4,5 @@
 		"rail": "block/fence_warped_rail",
 		"top": "block/fence_warped_top",
 		"texture": "block/fence_warped"
-	},
+	}
 }
