@@ -1,7 +1,0 @@
-{
-    "parent": "block/fence_post",
-    "textures": {
-        "texture": "suikacraft:block/fence_redwood",
-	"texture_top": "suikacraft:block/fence_redwood_top"
-    }
-}

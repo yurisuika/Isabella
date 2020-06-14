@@ -1,9 +1,0 @@
-{
-    "parent": "block/door_top",
-    "textures": {
-        "bottom": "suikacraft:block/dark_ash_door_bottom",
-        "bottom_side": "suikacraft:block/dark_ash_door_bottom_side",
-        "top": "suikacraft:block/dark_ash_door_top",
-        "top_side": "suikacraft:block/dark_ash_door_top_side"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "parent": "minecraft:block/oak_leaves11",
-    "textures": {
-        "particle": "suikacraft:block/ash_leaves",
-        "leaves_extra": "suikacraft:block/ash_leaves_extra",
-        "block": "suikacraft:block/ash_leaves"
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "parent": "block/fence_side",
-    "textures": {
-        "texture": "suikacraft:block/fence_aspen",
-	"texture_rail": "suikacraft:block/fence_aspen_rail"
-    }
-}

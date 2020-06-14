@@ -76,7 +76,7 @@ Textures for various mods which I worked on at some point in time! Dangerously u
 
 ###### SUIKACRAFT TEXTURES
 
-A custom model extension for the SuikaCraft mod (TBA)! Dependent on the custom model pack!
+A custom model extension for SuikaCraft's own mods, including the Sap mod! Dependent on the custom model pack!
 
 * [*`Isabella II × SuikaCraft`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20SuikaCraft.zip)
 

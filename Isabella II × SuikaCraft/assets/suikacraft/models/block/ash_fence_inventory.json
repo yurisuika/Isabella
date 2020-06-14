@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/fence_inventory",
-  "textures": {
-		"rail": "suikacraft:block/fence_ash_rail",
-		"top": "suikacraft:block/fence_ash_top",
-		"texture": "suikacraft:block/fence_ash"
-	}
-}

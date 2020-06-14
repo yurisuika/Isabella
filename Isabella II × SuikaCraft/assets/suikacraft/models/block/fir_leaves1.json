@@ -1,8 +1,0 @@
-{
-    "parent": "suikacraft:block/unmapped_leaves1",
-    "textures": {
-        "particle": "suikacraft:block/fir_leaves",
-        "leaves_extra": "suikacraft:block/fir_leaves_extra",
-        "block": "suikacraft:block/fir_leaves"
-    }
-}
