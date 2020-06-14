@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves_hand",
+  "textures": {
+    "all": "suikacraft:block/willow_leaves"
+  }
+}
