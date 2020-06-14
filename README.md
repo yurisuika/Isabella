@@ -14,7 +14,7 @@ Come by and have an absinthe!
 
 Resourcepacks available as .ZIP archives ready to download!
 
-Currently supports BetterFoliage and Optifine. Check out the threads linked below for other mods, remixes, and the original packs!
+All versions come stock with Optifine support. Check out the threads linked below for other mods, remixes, and the original packs!
 
 ###### SNAPSHOT VERSION
 
