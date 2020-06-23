@@ -20,17 +20,19 @@ All versions come stock with Optifine support. Check out the threads linked belo
 
 Work in progress for a work in progress! These textures may change at any moment! Handle with care!
 
-* [*`Isabella II × 1.16`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.16.zip)
+* [*`Isabella II × 1.17`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.17.zip)
 
 ###### RELEASE VERSION
 
 The latest and greatest! That is, until the next update comes along!
 
-* [*`Isabella II × 1.15`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.15.zip)
+* [*`Isabella II × 1.16`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.16.zip)
 
 ###### LEGACY VERSIONS
 
 Packs from versions past! Still kept up to date! Good as new!
+
+* [*`Isabella II × 1.15`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.15.zip)
 
 * [*`Isabella II × 1.14`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.14.zip)
 
@@ -52,7 +54,7 @@ Packs from versions past! Still kept up to date! Good as new!
 
 ###### BEDROCK VERSION
 
-For the special folk out there! Updated to Bedrock 1.14!
+For the special folk out there! Updated to Bedrock 1.16!
 
 * [*`Isabella II × Bedrock`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Bedrock.mcpack)
 
