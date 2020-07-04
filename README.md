@@ -1,101 +1,94 @@
 # [Isabella](http://suikacraft.com)
 
-SuikaCraft is a Minecraft server focused on architecture and realism. We have been moulding the vanilla blocks of Minecraft into a lovely landscape since 1.7. From realistic terrain to changing seasons to an item-based economy, we aim to give you an enhanced vanilla experience with no need for using commands!
-
-Our resourcepack is a branch of Isabella II. However, Isabella had been put to rest by its artist Bonemouse after 1.5. A continuation had been forged for 1.6 up until the snapshots of 1.8. Our server was going strong, but the pack updates had stopped coming out. We had still been adding to our textures in wait, and eventually SuikaCraft's branch became the new main branch of Isabella II. Thus all original textures that have had no changes have been restored to pristine condition back when Isabella II last came out for 1.5. You can find all of our releases since 1.7 kept up to date below.
-
-Come by and have an absinthe!
-
-‒ yurisuika
+SuikaCraft is a Minecraft server focused on architecture and realism. Our resource pack is a branch of Isabella II. However, Isabella had been put to rest by its artist Bonemouse after 1.5. A continuation had been forged for 1.6 up until the snapshots of 1.8. Our server was going strong, but the pack updates had stopped coming out. We had still been adding to our textures in wait, and eventually SuikaCraft's branch became the new main branch of Isabella II. Thus all original textures that have had no changes have been restored to pristine condition back when Isabella II last came out for 1.5. You can find all of our releases since 1.7 kept up to date below.
 
 ![Isabella](https://raw.githubusercontent.com/yurisuika/Isabella/master/Isabella%20II%20×%201.13/pack.png)
 
-## Resourcepacks
+## RESOURCE PACKS
 
-Resourcepacks available as .ZIP archives ready to download!
+Resource packs available as .ZIP archives ready to download!
 
-All versions come stock with Optifine support. Check out the threads linked below for other mods, remixes, and the original packs!
+All versions come stock with OptiFine support. Check out the threads linked below for other modded versions, remixes, and the original packs!
 
-###### SNAPSHOT VERSION
+#### Snapshot Version
 
 Work in progress for a work in progress! These textures may change at any moment! Handle with care!
 
-* [*`Isabella II × 1.17`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.17.zip)
+##### 1.16 - [*`Isabella II × 1.16`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.17.zip)
 
-###### RELEASE VERSION
+#### Release Version
 
 The latest and greatest! That is, until the next update comes along!
 
-* [*`Isabella II × 1.16`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.16.zip)
+##### 1.16 - [*`Isabella II × 1.16`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.16.zip)
 
-###### LEGACY VERSIONS
+#### Legacy Versions
 
 Packs from versions past! Still kept up to date! Good as new!
 
-* [*`Isabella II × 1.15`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.15.zip)
+##### 1.15 - [*`Isabella II × 1.15`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.15.zip)
 
-* [*`Isabella II × 1.14`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.14.zip)
+##### 1.14 - [*`Isabella II × 1.14`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.14.zip)
 
-* [*`Isabella II × 1.13`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.13.zip)
+##### 1.13 - [*`Isabella II × 1.13`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.13.zip)
 
-* [*`Isabella II × 1.12`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.12.zip)
+##### 1.12 - [*`Isabella II × 1.12`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.12.zip)
 
-* [*`Isabella II × 1.11`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.11.zip)
+##### 1.11 - [*`Isabella II × 1.11`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.11.zip)
 
-* [*`Isabella II × 1.10`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.10.zip)
+##### 1.10 - [*`Isabella II × 1.10`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.10.zip)
 
-* [*`Isabella II × 1.9`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.9.zip)
+##### 1.9 - [*`Isabella II × 1.9`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.9.zip)
 
-* [*`Isabella II × 1.8`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.8.zip)
+##### 1.8 - [*`Isabella II × 1.8`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.8.zip)
 
-* [*`Isabella II × 1.7`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.7.zip)
+##### 1.7 - [*`Isabella II × 1.7`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.7.zip)
 
-* [*`Isabella II × 1.6`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.6.zip)
+##### 1.6 - [*`Isabella II × 1.6`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.6.zip)
 
-###### BEDROCK VERSION
+#### Bedrock Version
 
 For the special folk out there! Updated to Bedrock 1.16!
 
-* [*`Isabella II × Bedrock`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Bedrock.mcpack)
+##### 1.16 - [*`Isabella II × Bedrock`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Bedrock.mcpack)
 
-###### CUSTOM MODELS
+#### Custom Models
 
-Improved block models tailored just for Isabella II! For 1.13 up!
+Improved block models tailored just for Isabella II!
 
-* [*`Isabella II × Models`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Models.zip)
+##### 1.16 - [*`Isabella II × Models`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Models.zip)
 
-###### CUSTOM MAPS
+#### Custom Maps
 
-An unfinished assortment of parallax depth normal maps! For 1.13 up!
+An unfinished assortment of parallax depth normal maps!
 
-* [*`Isabella II × Maps`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Maps.zip)
+##### 1.14 - [*`Isabella II × Maps`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Maps.zip)
 
-###### MOD TEXTURES
+#### Mod Support
 
-Textures for various mods which I worked on at some point in time! Dangerously unsupported!
+Textures and models for various mods which I worked on at some point in time! Dangerously unsupported!
 
-* [*`Isabella II × Mods`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Mods.zip)
+##### 1.15 - [*`Isabella II × Mods`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Mods.zip)
 
-###### SUIKACRAFT TEXTURES
+#### SuikaCraft Mods
 
-A custom model extension for SuikaCraft's own mods, including the Sap mod! Dependent on the custom model pack!
+A custom model extension for SuikaCraft's own mods, including the Sap mod! Requires the custom models pack!
 
-* [*`Isabella II × SuikaCraft`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20SuikaCraft.zip)
+##### 1.15 - [*`Isabella II × SuikaCraft`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20SuikaCraft.zip)
 
+## LINKS
 
-## Links
+Get all the hot tips and tricks here!
 
-###### SERVERS
+#### SERVERS
 
-Join *`play.suikacraft.com`* for the main SuikaCraft server!
+Join *`play.suikacraft.com`* to play on SuikaCraft today!
 
-Join *`smp.suikacraft.com`* for our latest vanilla snapshot server!
+#### DISCORD
 
-###### DISCORD
+The one and only! Join the *[SuikaCraft Discord](https://discord.gg/0zdNEkQle7Qg9C1H)* to find the latest discussion on the resource pack and server or just to chat!
 
-The one and only! Join the *[SuikaCraft Discord](https://discord.gg/0zdNEkQle7Qg9C1H)* to find the latest discussion on the resourcepack and server or just to chat!
-
-###### FORUM THREADS
+#### FORUM THREADS
 
 Find past versions of Isabella II, remixes, and more!
 
