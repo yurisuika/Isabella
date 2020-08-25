@@ -1,0 +1,26 @@
+{
+	"textures": {
+		"1": "block/composter_side",
+		"particle": "block/composter_compost",
+		"inside": "block/composter_compost"
+	},
+	"elements": [
+		{
+			"from": [1, 0, 1],
+			"to": [15, 11, 15],
+			"faces": {
+				"north": {"uv": [1, 5, 15, 16], "texture": "#1"},
+				"east": {"uv": [1, 5, 15, 16], "texture": "#1"},
+				"south": {"uv": [1, 5, 15, 16], "texture": "#1"},
+				"west": {"uv": [1, 5, 15, 16], "texture": "#1"}
+			}
+		},
+		{
+			"from": [2, 11, 2],
+			"to": [14, 11, 14],
+			"faces": {
+				"up": {"uv": [2, 2, 14, 14], "texture": "#inside", "cullface": "up"}
+			}
+		}
+	]
+}
