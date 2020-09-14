@@ -1,13 +1,15 @@
 {
 	"parent": "furnace",
+	"ambientocclusion": false,
 	"textures": {
-		"0": "block/furnace_front",
+		"0": "block/furnace_front_on",
 		"3": "block/furnace_top",
 		"4": "block/furnace_inside_side",
 		"5": "block/furnace_inside_top",
 		"6": "block/lit_coal_block",
 		"7": "block/furnace_side",
-		"particle": "block/furnace_front"
+		"particle": "block/fire_0",
+		"fire": "block/fire_0"
 	},
 	"elements": [
 		{
@@ -55,7 +57,7 @@
 			"to": [4, 14, 2],
 			"faces": {
 				"north": {"uv": [12, 2, 14, 14], "texture": "#0"},
-				"east": {"uv": [12, 2, 14, 14], "texture": "#0"},
+				"east": {"uv": [11, 2, 13, 14], "texture": "#0"},
 				"south": {"uv": [2, 2, 4, 14], "texture": "#4"}
 			}
 		},
@@ -65,7 +67,7 @@
 			"faces": {
 				"north": {"uv": [2, 2, 4, 14], "texture": "#0"},
 				"south": {"uv": [12, 2, 14, 14], "texture": "#4"},
-				"west": {"uv": [2, 2, 4, 14], "texture": "#0"}
+				"west": {"uv": [3, 2, 5, 14], "texture": "#0"}
 			}
 		},
 		{
@@ -74,7 +76,7 @@
 			"faces": {
 				"north": {"uv": [4, 2, 12, 6], "texture": "#0"},
 				"south": {"uv": [4, 2, 12, 6], "texture": "#4"},
-				"down": {"uv": [4, 5, 12, 3], "texture": "#0"}
+				"down": {"uv": [4, 7, 12, 5], "texture": "#0"}
 			}
 		},
 		{
@@ -82,9 +84,9 @@
 			"to": [6, 10, 2],
 			"faces": {
 				"north": {"uv": [10, 6, 12, 7], "texture": "#0"},
-				"east": {"uv": [10, 6, 12, 7], "texture": "#0"},
+				"east": {"uv": [8, 6, 10, 7], "texture": "#0"},
 				"south": {"uv": [4, 6, 6, 7], "texture": "#4"},
-				"down": {"uv": [10, 6, 12, 7], "texture": "#0"}
+				"down": {"uv": [9, 6, 11, 7], "texture": "#0"}
 			}
 		},
 		{
@@ -93,8 +95,8 @@
 			"faces": {
 				"north": {"uv": [4, 6, 6, 7], "texture": "#0"},
 				"south": {"uv": [10, 6, 12, 7], "texture": "#4"},
-				"west": {"uv": [4, 6, 6, 7], "texture": "#0"},
-				"down": {"uv": [4, 6, 6, 7], "texture": "#0"}
+				"west": {"uv": [5, 6, 7, 7], "texture": "#0"},
+				"down": {"uv": [5, 6, 7, 7], "texture": "#0"}
 			}
 		},
 		{
@@ -103,8 +105,8 @@
 			"faces": {
 				"north": {"uv": [4, 7, 5, 8], "texture": "#0"},
 				"south": {"uv": [11, 7, 12, 8], "texture": "#4"},
-				"west": {"uv": [3, 7, 5, 8], "texture": "#0"},
-				"down": {"uv": [3, 7, 5, 8], "texture": "#0"}
+				"west": {"uv": [4, 7, 6, 8], "texture": "#0"},
+				"down": {"uv": [4, 7, 6, 8], "rotation": 270, "texture": "#0"}
 			}
 		},
 		{
@@ -112,9 +114,9 @@
 			"to": [5, 9, 2],
 			"faces": {
 				"north": {"uv": [11, 7, 12, 8], "texture": "#0"},
-				"east": {"uv": [11, 7, 13, 8], "texture": "#0"},
+				"east": {"uv": [10, 7, 12, 8], "texture": "#0"},
 				"south": {"uv": [4, 7, 5, 8], "texture": "#4"},
-				"down": {"uv": [11, 7, 13, 8], "texture": "#0"}
+				"down": {"uv": [9, 7, 11, 8], "rotation": 270, "texture": "#0"}
 			}
 		},
 		{
@@ -464,6 +466,32 @@
 				"west": {"uv": [9, 6, 11, 8], "texture": "#6"},
 				"up": {"uv": [7, 7, 9, 9], "texture": "#6"}
 			}
+		},
+		{
+			"from": [0, 0, 10],
+			"to": [16, 16, 10],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 10]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#fire"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#fire"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [8, 0, 2],
+			"to": [8, 16, 18],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 10]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#fire"},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#fire"},
+				"up": {"uv": [0, 0, 16, 0], "rotation": 90, "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "rotation": 270, "texture": "#missing"}
+			}
 		}
 	],
 	"display": {
@@ -513,6 +541,11 @@
 					"children": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47]
 				}
 			]
+		},
+		{
+			"name": "fire",
+			"origin": [8, 8, 8],
+			"children": [48, 49]
 		}
 	]
 }

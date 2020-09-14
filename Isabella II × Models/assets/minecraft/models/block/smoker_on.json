@@ -1,16 +1,16 @@
 {
 	"parent": "furnace",
 	"textures": {
-		"0": "block/smoker_front",
+		"0": "block/smoker_front_on",
 		"3": "block/smoker_top",
 		"4": "block/furnace_inside_side",
 		"5": "block/furnace_inside_top",
 		"6": "block/lit_coal_block",
 		"7": "block/smoker_bottom",
 		"8": "block/furnace_front",
-		"9": "block/smoker_front_on",
 		"10": "block/smoker_side",
-		"particle": "block/smoker_front"
+		"11": "block/fire_0",
+		"particle": "block/smoker_front_on"
 	},
 	"elements": [
 		{
@@ -544,8 +544,8 @@
 			"from": [2, 7, 1],
 			"to": [14, 13, 2],
 			"faces": {
-				"north": {"uv": [2, 3, 14, 9], "texture": "#9"},
-				"south": {"uv": [14, 3, 2, 9], "texture": "#9"}
+				"north": {"uv": [2, 3, 14, 9], "texture": "#0"},
+				"south": {"uv": [14, 3, 2, 9], "texture": "#0"}
 			}
 		},
 		{
@@ -582,6 +582,32 @@
 				"south": {"uv": [2, 7, 14, 8], "texture": "#4"},
 				"up": {"uv": [2, 9, 14, 14], "texture": "#5"},
 				"down": {"uv": [2, 9, 14, 14], "texture": "#5"}
+			}
+		},
+		{
+			"from": [0, 0, 10],
+			"to": [16, 16, 10],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 10]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#11"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#11"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#11"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#11"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [8, 0, 2],
+			"to": [8, 16, 18],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 10]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 16], "texture": "#11"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#11"},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#11"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#11"},
+				"up": {"uv": [0, 0, 16, 0], "rotation": 90, "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "rotation": 270, "texture": "#missing"}
 			}
 		}
 	],
@@ -637,6 +663,11 @@
 			"name": "door",
 			"origin": [8, 8, 8],
 			"children": [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60]
+		},
+		{
+			"name": "fire",
+			"origin": [8, 8, 8],
+			"children": [61, 62]
 		}
 	]
 }
