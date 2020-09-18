@@ -1,0 +1,8 @@
+{
+	"parent": "item/template_glass_pane",
+	"textures": {
+		"edge": "block/glass_pane_top",
+		"pane": "block/glass",
+		"particle": "block/glass_pane_top"
+	}
+}
