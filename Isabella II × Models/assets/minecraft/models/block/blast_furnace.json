@@ -7,7 +7,8 @@
 		"4": "block/furnace_inside_side",
 		"5": "block/furnace_inside_top",
 		"6": "block/coal_block",
-		"7": "block/blast_furnace_side"
+		"7": "block/blast_furnace_side",
+		"particle": "block/blast_furnace_front"
 	},
 	"elements": [
 		{

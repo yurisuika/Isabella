@@ -9,7 +9,7 @@
 		"6": "block/lit_coal_block",
 		"7": "block/blast_furnace_side",
 		"8": "block/fire_0",
-		"particle": "block/fire_0"
+		"particle": "block/blast_furnace_front_on"
 	},
 	"elements": [
 		{
