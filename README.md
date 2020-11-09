@@ -14,7 +14,7 @@ All versions come stock with OptiFine support. Check out the threads linked belo
 
 Work in progress for a work in progress! These textures may change at any moment! Handle with care!
 
-##### 1.16 - [*`Isabella II × 1.16`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.17.zip)
+##### 1.17 - [*`Isabella II × 1.17`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%201.17.zip)
 
 #### Release Version
 
