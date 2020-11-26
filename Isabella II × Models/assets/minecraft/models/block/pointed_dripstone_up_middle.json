@@ -1,0 +1,72 @@
+{
+	"ambientocclusion": true,
+	"parent": "minecraft:block/pointed_dripstone",
+	"textures": {
+		"particle": "block/dripstone_block",
+		"end": "block/dripstone_block",
+		"side": "block/dripstone_block"
+	},
+	"elements": [
+		{
+			"from": [2, 14, 2],
+			"to": [14, 16, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10, 22, 10]},
+			"faces": {
+				"north": {"uv": [2, 0, 14, 2], "texture": "#side"},
+				"east": {"uv": [2, 0, 14, 2], "texture": "#side"},
+				"south": {"uv": [2, 0, 14, 2], "texture": "#side"},
+				"west": {"uv": [2, 0, 14, 2], "texture": "#side"},
+				"up": {"uv": [2, 2, 14, 14], "texture": "#end"},
+				"down": {"uv": [2, 2, 14, 14], "texture": "#end"}
+			}
+		},
+		{
+			"from": [3, 11, 3],
+			"to": [14, 14, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11, 19, 11]},
+			"faces": {
+				"north": {"uv": [3, 2, 14, 5], "texture": "#side"},
+				"east": {"uv": [3, 2, 14, 5], "texture": "#side"},
+				"south": {"uv": [3, 2, 14, 5], "texture": "#side"},
+				"west": {"uv": [3, 2, 14, 5], "texture": "#side"}
+			}
+		},
+		{
+			"from": [2, 7, 2],
+			"to": [14, 11, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10, 15, 10]},
+			"faces": {
+				"north": {"uv": [2, 5, 14, 9], "texture": "#side"},
+				"east": {"uv": [2, 5, 14, 9], "texture": "#side"},
+				"south": {"uv": [2, 5, 14, 9], "texture": "#side"},
+				"west": {"uv": [2, 5, 14, 9], "texture": "#side"},
+				"up": {"uv": [2, 2, 14, 14], "texture": "#end"},
+				"down": {"uv": [2, 2, 14, 14], "texture": "#end"}
+			}
+		},
+		{
+			"from": [2, 4, 2],
+			"to": [13, 7, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10, 12, 10]},
+			"faces": {
+				"north": {"uv": [2, 9, 13, 12], "texture": "#side"},
+				"east": {"uv": [2, 9, 13, 12], "texture": "#side"},
+				"south": {"uv": [2, 9, 13, 12], "texture": "#side"},
+				"west": {"uv": [2, 9, 13, 12], "texture": "#side"}
+			}
+		},
+		{
+			"from": [2, 0, 2],
+			"to": [14, 4, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10, 8, 10]},
+			"faces": {
+				"north": {"uv": [2, 12, 14, 16], "texture": "#side"},
+				"east": {"uv": [2, 12, 14, 16], "texture": "#side"},
+				"south": {"uv": [2, 12, 14, 16], "texture": "#side"},
+				"west": {"uv": [2, 12, 14, 16], "texture": "#side"},
+				"up": {"uv": [2, 2, 14, 14], "texture": "#end"},
+				"down": {"uv": [2, 2, 14, 14], "texture": "#end"}
+			}
+		}
+	]
+}
