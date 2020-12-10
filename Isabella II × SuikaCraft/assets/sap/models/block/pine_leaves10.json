@@ -1,5 +1,5 @@
 {
-    "parent": "sap:block/unmapped_leaves10",
+    "parent": "minecraft:block/oak_leaves10",
     "textures": {
         "particle": "sap:block/pine_leaves",
         "leaves_extra": "sap:block/pine_leaves_extra",

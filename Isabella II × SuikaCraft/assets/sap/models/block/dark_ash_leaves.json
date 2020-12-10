@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/leaves_hand",
-  "textures": {
-    "all": "sap:block/dark_ash_leaves"
-  }
-}

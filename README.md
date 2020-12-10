@@ -1,6 +1,6 @@
 # [Isabella](http://suikacraft.com)
 
-SuikaCraft is a Minecraft server focused on architecture and realism. Our resource pack is a branch of Isabella II. However, Isabella had been put to rest by its artist Bonemouse after 1.5. A continuation had been forged for 1.6 up until the snapshots of 1.8. Our server was going strong, but the pack updates had stopped coming out. We had still been adding to our textures in wait, and eventually SuikaCraft's branch became the new main branch of Isabella II. Thus all original textures that have had no changes have been restored to pristine condition back when Isabella II last came out for 1.5. You can find all of our releases since 1.7 kept up to date below.
+SuikaCraft is a Minecraft server focused on architecture and realism. Our resource pack is a branch of Isabella II. However, Isabella had been put to rest by its artist Bonemouse after 1.5. A continuation had been forged for 1.6 up until the snapshots of 1.8. Our server was going strong, but the pack updates had stopped coming out. We had still been adding to our textures in wait, and eventually SuikaCraft's branch became the new main branch of Isabella II. Thus all original textures that have had no changes have been restored to pristine condition back when Isabella II last came out for 1.5. You can find all of our releases from 1.6 and up kept up to date below.
 
 ![Isabella](https://raw.githubusercontent.com/yurisuika/Isabella/master/Isabella%20II%20×%201.13/pack.png)
 
@@ -58,23 +58,23 @@ Improved block models tailored just for Isabella II!
 
 ##### 1.16 - [*`Isabella II × Models`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Models.zip)
 
-#### Custom Maps
-
-An unfinished assortment of parallax depth normal maps!
-
-##### 1.14 - [*`Isabella II × Maps`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Maps.zip)
-
-#### Mod Support
-
-Textures and models for various mods which I worked on at some point in time! Dangerously unsupported!
-
-##### 1.15 - [*`Isabella II × Mods`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Mods.zip)
-
 #### SuikaCraft Mods
 
 A custom model extension for SuikaCraft's own mods, including the Sap mod! Requires the custom models pack!
 
 ##### 1.15 - [*`Isabella II × SuikaCraft`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20SuikaCraft.zip)
+
+#### Archived Mods
+
+Textures and models for various mods which I worked on at some point in time! Dangerously unsupported!
+
+##### 1.15 - [*`Isabella II × Mods`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Mods.zip)
+
+#### Custom Maps
+
+An unfinished assortment of parallax depth normal maps!
+
+##### 1.14 - [*`Isabella II × Maps`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Maps.zip)
 
 ## LINKS
 

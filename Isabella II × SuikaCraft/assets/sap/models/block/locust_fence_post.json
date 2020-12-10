@@ -1,0 +1,7 @@
+{
+    "parent": "block/fence_post",
+    "textures": {
+        "texture": "sap:block/fence_locust",
+	"texture_top": "sap:block/fence_locust_top"
+    }
+}

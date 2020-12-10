@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "sap:block/mesquite_wood",
+        "side": "sap:block/mesquite_log"
+    }
+}
