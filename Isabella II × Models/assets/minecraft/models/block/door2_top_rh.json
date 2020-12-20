@@ -1,9 +1,8 @@
 {
-	"ambientocclusion": "false",
 	"textures": {
+		"particle": "block/iron_door_top",
 		"top": "block/iron_door_top",
-		"top_side": "block/iron_door_top_side",
-		"particle": "block/iron_door_top"
+		"top_side": "block/iron_door_top_side"
 	},
 	"elements": [
 		{
@@ -40,9 +39,7 @@
 				"north": {"uv": [4, 5, 7, 8], "texture": "#top_side"},
 				"east": {"uv": [12, 5, 16, 8], "texture": "#top"},
 				"south": {"uv": [8, 5, 11, 8], "rotation": 270, "texture": "#top_side"},
-				"west": {"uv": [16, 5, 12, 8], "texture": "#top"},
-				"up": {"uv": [0, 0, 3, 3], "rotation": 90, "texture": "#missing"},
-				"down": {"uv": [0, 0, 3, 3], "rotation": 270, "texture": "#missing"}
+				"west": {"uv": [16, 5, 12, 8], "texture": "#top"}
 			}
 		},
 		{
@@ -53,9 +50,7 @@
 				"north": {"uv": [8, 5, 11, 8], "rotation": 90, "texture": "#top_side"},
 				"east": {"uv": [0, 5, 5, 8], "texture": "#top"},
 				"south": {"uv": [0, 5, 3, 8], "texture": "#top_side"},
-				"west": {"uv": [5, 5, 0, 8], "texture": "#top"},
-				"up": {"uv": [0, 0, 3, 3], "rotation": 90, "texture": "#missing"},
-				"down": {"uv": [0, 0, 3, 3], "rotation": 270, "texture": "#missing"}
+				"west": {"uv": [5, 5, 0, 8], "texture": "#top"}
 			}
 		}
 	],

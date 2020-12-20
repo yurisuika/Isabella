@@ -2,6 +2,6 @@
   "parent": "minecraft:block/template_glass_pane_noside_alt",
   "textures": {
     "pane": "minecraft:block/green_stained_glass",
-    "edge": "minecraft:block/green_stained_glass_pane_top
+    "edge": "minecraft:block/green_stained_glass_pane_top"
   }
 }

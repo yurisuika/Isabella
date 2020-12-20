@@ -1,5 +1,4 @@
 {
-	"parent": "furnace",
 	"textures": {
 		"0": "block/dispenser_front_vertical",
 		"3": "block/furnace_top",
