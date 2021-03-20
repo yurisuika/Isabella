@@ -1,8 +1,0 @@
-{
-    "parent": "biomesoplenty:block/origin_leaves4",
-    "textures": {
-        "particle": "biomesoplenty:block/maple_leaves",
-        "leaves_extra": "biomesoplenty:block/maple_leaves_extra",
-        "block": "biomesoplenty:block/maple_leaves"
-    }
-}

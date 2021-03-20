@@ -1,8 +1,0 @@
-{
-    "parent": "block/oak_leaves7",
-    "textures": {
-        "particle": "biomesoplenty:block/mahogany_leaves",
-        "leaves_extra": "biomesoplenty:block/mahogany_leaves_extra",
-        "block": "biomesoplenty:block/mahogany_leaves"
-    }
-}

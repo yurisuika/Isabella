@@ -1,9 +1,0 @@
-{
-    "parent": "block/door_bottom_rh",
-    "textures": {
-        "bottom": "sap:block/lime_door_bottom",
-        "bottom_side": "sap:block/lime_door_bottom_side",
-        "top": "sap:block/lime_door_top",
-        "top_side": "sap:block/lime_door_top_side"
-    }
-}

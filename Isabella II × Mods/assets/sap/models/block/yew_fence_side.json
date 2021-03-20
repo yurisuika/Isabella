@@ -1,0 +1,7 @@
+{
+    "parent": "block/fence_side",
+    "textures": {
+        "texture": "sap:block/fence_yew",
+	"texture_rail": "sap:block/fence_yew_rail"
+    }
+}

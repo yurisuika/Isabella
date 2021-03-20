@@ -1,8 +1,0 @@
-{
-    "parent": "biomesoplenty:block/origin_leaves1",
-    "textures": {
-        "particle": "biomesoplenty:block/jacaranda_leaves",
-        "leaves_extra": "biomesoplenty:block/jacaranda_leaves_extra",
-        "block": "biomesoplenty:block/jacaranda_leaves"
-    }
-}

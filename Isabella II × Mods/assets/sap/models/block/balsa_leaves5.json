@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/oak_leaves5",
+    "textures": {
+        "particle": "sap:block/balsa_leaves",
+        "leaves_extra": "sap:block/balsa_leaves_extra",
+        "block": "sap:block/balsa_leaves"
+    }
+}

@@ -1,8 +1,0 @@
-{
-    "parent": "biomesoplenty:block/origin_leaves10",
-    "textures": {
-        "particle": "biomesoplenty:block/orange_autumn_leaves",
-        "leaves_extra": "biomesoplenty:block/orange_autumn_leaves_extra",
-        "block": "biomesoplenty:block/orange_autumn_leaves"
-    }
-}

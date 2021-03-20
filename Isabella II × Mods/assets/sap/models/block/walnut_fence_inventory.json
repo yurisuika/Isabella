@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/fence_inventory",
+  "textures": {
+		"rail": "sap:block/fence_walnut_rail",
+		"top": "sap:block/fence_walnut_top",
+		"texture": "sap:block/fence_walnut"
+	}
+}

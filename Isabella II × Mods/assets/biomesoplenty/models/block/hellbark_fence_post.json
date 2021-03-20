@@ -1,7 +1,0 @@
-{
-    "parent": "block/fence_post",
-    "textures": {
-        "texture": "biomesoplenty:block/fence_hellbark",
-	"texture_top": "biomesoplenty:block/fence_hellbark_top"
-    }
-}

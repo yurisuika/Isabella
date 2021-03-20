@@ -1,7 +1,0 @@
-{
-    "parent": "block/cube_column",
-    "textures": {
-        "end": "simplefarming:block/rice_hay_block_top",
-        "side": "simplefarming:block/rice_hay_block_side"
-    }
-}

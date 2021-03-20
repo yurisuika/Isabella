@@ -52,25 +52,19 @@ For the special folk out there! Updated to Bedrock 1.16!
 
 ##### 1.16 - [*`Isabella II × Bedrock`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Bedrock.mcpack)
 
-#### Custom Models
+#### Enhanced Block Models
 
 Improved block models tailored just for Isabella II!
 
-##### 1.16 - [*`Isabella II × Models`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Models.zip)
+##### 1.17 - [*`Isabella II × Models`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Models.zip)
 
-#### SuikaCraft Mods
+#### Enhanced Mod Models
 
 A custom model extension for SuikaCraft's own mods, including the Sap mod! Requires the custom models pack!
 
-##### 1.15 - [*`Isabella II × SuikaCraft`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20SuikaCraft.zip)
+##### 1.16 - [*`Isabella II × Mods`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Mods.zip)
 
-#### Archived Mods
-
-Textures and models for various mods which I worked on at some point in time! Dangerously unsupported!
-
-##### 1.15 - [*`Isabella II × Mods`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Mods.zip)
-
-#### Custom Maps
+#### Parallax Occlusion Maps
 
 An unfinished assortment of parallax depth normal maps!
 

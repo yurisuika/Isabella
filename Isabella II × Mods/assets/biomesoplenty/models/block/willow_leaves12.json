@@ -1,8 +1,0 @@
-{
-    "parent": "block/oak_leaves12",
-    "textures": {
-        "particle": "biomesoplenty:block/willow_leaves",
-        "leaves_extra": "biomesoplenty:block/willow_leaves_extra",
-        "block": "biomesoplenty:block/willow_leaves"
-    }
-}
