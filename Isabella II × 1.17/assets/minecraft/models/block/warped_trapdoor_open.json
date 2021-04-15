@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/template_wooden_trapdoor_open",
+	"textures": {
+		"side": "block/warped_door_top_side",
+		"texture": "block/warped_trapdoor"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/template_wooden_trapdoor_open",
+	"textures": {
+		"side": "block/jungle_door_top_side",
+		"texture": "block/jungle_trapdoor"
+	}
+}

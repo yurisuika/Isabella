@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_fence_inventory",
+  "textures": {
+		"rail": "block/warped_fence_rail",
+		"top": "block/warped_fence_top",
+		"texture": "block/warped_fence"
+	}
+}

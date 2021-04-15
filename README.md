@@ -8,6 +8,8 @@ SuikaCraft is a Minecraft server focused on architecture and realism. Our resour
 
 Resource packs available as .ZIP archives ready to download!
 
+Java packs for 1.8 and up (when JSON model support was added) now have some model improvements that were previously relegated to the custom model pack! These include adding additional textures for certain block faces, models based on what was previously just transparency, and models that turn flat blocks into full 3D!
+
 All versions come stock with OptiFine support. Check out the threads linked below for other modded versions, remixes, and the original packs!
 
 #### Snapshot Version
@@ -52,23 +54,31 @@ For the special folk out there! Updated to Bedrock 1.16!
 
 ##### 1.16 - [*`Isabella II × Bedrock`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Bedrock.mcpack)
 
-#### Enhanced Block Models
+#### Enhanced Models
 
 Improved block models tailored just for Isabella II!
 
 ##### 1.17 - [*`Isabella II × Models`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Models.zip)
 
-#### Enhanced Mod Models
 
-A custom model extension for SuikaCraft's own mods, including the Sap mod! Requires the custom models pack!
+#### Enhanced Leaves
 
-##### 1.16 - [*`Isabella II × Mods`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Mods.zip)
+Non-cubic leaves designed for use with shaders! You will encounter z-fighting otherwise.
 
-#### Parallax Occlusion Maps
+##### 1.17 - [*`Isabella II × Leaves`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Leaves.zip)
 
-An unfinished assortment of parallax depth normal maps!
+
+#### Shader Maps
+
+An unfinished assortment of parallax depth normal maps! (OUT OF DATE)
 
 ##### 1.14 - [*`Isabella II × Maps`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Maps.zip)
+
+#### Enhanced Mod Models
+
+A custom model extension for SuikaCraft's own mods! Requires the custom models pack! (OUT OF DATE)
+
+##### 1.16 - [*`Isabella II × Mods`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Mods.zip)
 
 ## LINKS
 

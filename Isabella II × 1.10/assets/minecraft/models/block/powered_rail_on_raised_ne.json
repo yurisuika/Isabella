@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/rail_golden_raised_ne",
+  "textures": {
+    "rail_powered": "minecraft:block/rail_golden_powered"
+  }
+}

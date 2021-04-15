@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves_hand",
+  "textures": {
+    "all": "minecraft:blocks/spruce_leaves_inventory"
+  }
+}

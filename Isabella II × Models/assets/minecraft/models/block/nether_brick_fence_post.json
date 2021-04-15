@@ -1,7 +1,0 @@
-{
-    "parent": "block/fence_post",
-    "textures": {
-        "texture": "block/fence_nether",
-				"texture_top": "block/fence_nether_top"
-    }
-}
