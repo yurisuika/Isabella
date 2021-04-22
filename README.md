@@ -63,20 +63,20 @@ Improved block models tailored just for Isabella II!
 
 #### Enhanced Leaves
 
-Non-cubic leaves designed for use with shaders! You will encounter z-fighting otherwise.
+Advanced leaves designed for use with shaders (you will encounter z-fighting otherwise)! Includes Sap leaves!
 
 ##### 1.17 - [*`Isabella II × Leaves`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Leaves.zip)
 
 
-#### Shader Maps
+#### Parallax Depth Maps
 
-An unfinished assortment of parallax depth normal maps! (OUT OF DATE)
+An unfinished assortment of parallax depth normal maps for shaders!
 
 ##### 1.14 - [*`Isabella II × Maps`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Maps.zip)
 
-#### Enhanced Mod Models
+#### Server Mods
 
-A custom model extension for SuikaCraft's own mods! Requires the custom models pack! (OUT OF DATE)
+Textures and models for SuikaCraft's current mods! Includes Optifine CTM + colormap support for Sap!
 
 ##### 1.16 - [*`Isabella II × Mods`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20II%20×%20Mods.zip)
 

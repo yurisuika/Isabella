@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/fence_inventory",
-  "textures": {
-		"rail": "sap:block/fence_mahogany_rail",
-		"top": "sap:block/fence_mahogany_top",
-		"texture": "sap:block/fence_mahogany"
-	}
-}

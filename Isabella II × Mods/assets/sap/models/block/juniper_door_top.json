@@ -1,9 +1,0 @@
-{
-    "parent": "block/door_top",
-    "textures": {
-        "bottom": "sap:block/juniper_door_bottom",
-        "bottom_side": "sap:block/juniper_door_bottom_side",
-        "top": "sap:block/juniper_door_top",
-        "top_side": "sap:block/juniper_door_top_side"
-    }
-}

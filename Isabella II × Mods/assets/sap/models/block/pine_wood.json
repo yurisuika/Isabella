@@ -1,7 +1,0 @@
-{
-    "parent": "block/cube_column",
-    "textures": {
-        "end": "sap:block/pine_wood",
-        "side": "sap:block/pine_log"
-    }
-}
