@@ -1,0 +1,37 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "block/spore_blossom",
+		"flower": "block/spore_blossom",
+		"base": "block/spore_blossom_base"
+	},
+	"elements": [
+		{
+			"from": [1, 15.9, 1],
+			"to": [15, 15.9, 15],
+			"shade": true,
+			"faces": {
+				"up": {"uv": [1, 1, 15, 15], "texture": "#base"},
+				"down": {"uv": [1, 1, 15, 15], "texture": "#base"}
+			}
+		},
+		{
+			"from": [8, 0, 0],
+			"to": [8, 16, 16],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#flower"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#flower"}
+			}
+		},
+		{
+			"from": [8, 0, 0],
+			"to": [8, 16, 16],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#flower"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#flower"}
+			}
+		}
+	]
+}
