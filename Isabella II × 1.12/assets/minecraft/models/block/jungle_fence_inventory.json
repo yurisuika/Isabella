@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/template_fence_inventory",
-  "textures": {
-		"rail": "blocks/fence_jungle_rail",
-		"top": "blocks/fence_jungle_top",
-		"texture": "blocks/fence_jungle"
-	}
-}

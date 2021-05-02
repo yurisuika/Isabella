@@ -1,0 +1,132 @@
+{
+  "variants": {
+    "facing=east": [
+      {
+        "model": "minecraft:block/carved_pumpkin",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin1",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin2",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin3",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin4",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin5",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin6",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin7",
+        "y": 90
+      }
+    ],
+    "facing=north": [
+      {
+        "model": "minecraft:block/carved_pumpkin"
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin1"
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin2"
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin3"
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin4"
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin5"
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin6"
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin7"
+      }
+    ],
+    "facing=south": [
+      {
+        "model": "minecraft:block/carved_pumpkin",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin1",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin2",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin3",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin4",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin5",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin6",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin7",
+        "y": 180
+      }
+    ],
+    "facing=west": [
+      {
+        "model": "minecraft:block/carved_pumpkin",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin1",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin2",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin3",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin4",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin5",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin6",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/carved_pumpkin7",
+        "y": 270
+      }
+    ]
+  }
+}

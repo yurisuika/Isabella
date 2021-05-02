@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/emerald_ore"
+      },
+      {
+        "model": "minecraft:block/emerald_ore1"
+      },
+      {
+        "model": "minecraft:block/emerald_ore2"
+      },
+      {
+        "model": "minecraft:block/emerald_ore3"
+      },
+      {
+        "model": "minecraft:block/emerald_ore4"
+      },
+      {
+        "model": "minecraft:block/emerald_ore5"
+      },
+      {
+        "model": "minecraft:block/emerald_ore6"
+      },
+      {
+        "model": "minecraft:block/emerald_ore7"
+      }
+    ]
+  }
+}

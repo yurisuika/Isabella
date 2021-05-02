@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/activator_rail",
-  "textures": {
-    "rail_activator": "minecraft:block/activator_rail_powered"
-  }
-}

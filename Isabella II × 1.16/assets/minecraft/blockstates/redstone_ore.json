@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/redstone_ore"
+      },
+      {
+        "model": "minecraft:block/redstone_ore1"
+      },
+      {
+        "model": "minecraft:block/redstone_ore2"
+      },
+      {
+        "model": "minecraft:block/redstone_ore3"
+      },
+      {
+        "model": "minecraft:block/redstone_ore4"
+      },
+      {
+        "model": "minecraft:block/redstone_ore5"
+      },
+      {
+        "model": "minecraft:block/redstone_ore6"
+      },
+      {
+        "model": "minecraft:block/redstone_ore7"
+      }
+    ]
+  }
+}

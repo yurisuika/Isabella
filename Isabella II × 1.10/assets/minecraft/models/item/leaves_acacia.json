@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/leaves_hand",
-  "textures": {
-    "all": "minecraft:blocks/acacia_leaves_inventory"
-  }
-}

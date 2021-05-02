@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/template_fence_post",
-  "textures": {
-		"top": "blocks/fence_birch_top",
-		"texture": "blocks/birch_fence"
-	}
-}

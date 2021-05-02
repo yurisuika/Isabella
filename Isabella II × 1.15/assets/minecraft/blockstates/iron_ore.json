@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/iron_ore"
+      },
+      {
+        "model": "minecraft:block/iron_ore1"
+      },
+      {
+        "model": "minecraft:block/iron_ore2"
+      },
+      {
+        "model": "minecraft:block/iron_ore3"
+      },
+      {
+        "model": "minecraft:block/iron_ore4"
+      },
+      {
+        "model": "minecraft:block/iron_ore5"
+      },
+      {
+        "model": "minecraft:block/iron_ore6"
+      },
+      {
+        "model": "minecraft:block/iron_ore7"
+      }
+    ]
+  }
+}
