@@ -1,0 +1,9 @@
+{
+    "parent": "block/door_iron_top",
+    "textures": {
+        "bottom": "blocks/door_iron_lower",
+        "bottom_side": "blocks/door_iron_lower_side",
+        "top": "blocks/door_iron_upper",
+        "top_side": "blocks/door_iron_upper_side"
+    }
+}

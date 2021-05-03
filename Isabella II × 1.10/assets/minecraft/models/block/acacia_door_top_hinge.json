@@ -1,0 +1,9 @@
+{
+    "parent": "block/door_top_rh",
+    "textures": {
+        "bottom": "blocks/door_acacia_lower",
+        "bottom_side": "blocks/door_acacia_lower_side",
+        "top": "blocks/door_acacia_upper",
+        "top_side": "blocks/door_acacia_upper_side"
+    }
+}
