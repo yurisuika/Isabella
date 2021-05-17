@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "quartz_ore"
+      },
+      {
+        "model": "quartz_ore1"
+      },
+      {
+        "model": "quartz_ore2"
+      },
+      {
+        "model": "quartz_ore3"
+      },
+      {
+        "model": "quartz_ore4"
+      },
+      {
+        "model": "quartz_ore5"
+      },
+      {
+        "model": "quartz_ore6"
+      },
+      {
+        "model": "quartz_ore7"
+      }
+    ]
+  }
+}
