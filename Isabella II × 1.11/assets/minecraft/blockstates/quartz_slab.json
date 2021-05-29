@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom": {
+      "model": "quartz_slab"
+    },
+    "half=top": {
+      "model": "quartz_slab_top"
+    }
+  }
+}
