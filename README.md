@@ -18,17 +18,19 @@ All versions come stock with OptiFine support. Check out the threads linked belo
 
 Work in progress for a work in progress! These textures may change at any moment! Handle with care!
 
-##### 1.17 - [*`Isabella × 1.17`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%201.17.zip)
+##### Nothing yet!
 
 #### Release Version
 
 The latest and greatest! That is, until the next update comes along!
 
-##### 1.16 - [*`Isabella × 1.16`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%201.16.zip)
+##### 1.17 - [*`Isabella × 1.17`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%201.17.zip)
 
 #### Legacy Versions
 
 Packs from versions past! Still kept up to date! Good as new!
+
+##### 1.16 - [*`Isabella × 1.16`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%201.16.zip)
 
 ##### 1.15 - [*`Isabella × 1.15`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%201.15.zip)
 
