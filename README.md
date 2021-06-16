@@ -56,7 +56,7 @@ Packs from versions past! Still kept up to date! Good as new!
 
 For the special folk out there! Updated to Bedrock 1.16!
 
-##### 1.16 - [*`Isabella × Bedrock`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%20Bedrock.mcpack)
+##### 1.17 - [*`Isabella × Bedrock`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%20Bedrock.mcpack)
 
 #### Enhanced Models
 
