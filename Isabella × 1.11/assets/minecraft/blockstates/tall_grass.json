@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "tall_grass"
+      },
+      {
+        "model": "tall_grass1"
+      },
+      {
+        "model": "tall_grass2"
+      },
+      {
+        "model": "tall_grass3"
+      },
+      {
+        "model": "tall_grass4"
+      },
+      {
+        "model": "tall_grass5"
+      },
+      {
+        "model": "tall_grass6"
+      },
+      {
+        "model": "tall_grass7"
+      }
+    ]
+  }
+}
