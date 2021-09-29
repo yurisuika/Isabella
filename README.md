@@ -24,11 +24,13 @@ Work in progress for a work in progress! These textures may change at any moment
 
 The latest and greatest! That is, until the next update comes along!
 
-##### 1.17 - [*`Isabella × 1.17`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%201.17.zip)
+##### 1.18 - [*`Isabella × 1.18`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%201.18.zip)
 
 #### Legacy Versions
 
 Packs from versions past! Still kept up to date! Good as new!
+
+##### 1.17 - [*`Isabella × 1.17`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%201.17.zip)
 
 ##### 1.16 - [*`Isabella × 1.16`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%201.16.zip)
 
@@ -58,12 +60,11 @@ For the special folk out there! Updated to Bedrock 1.16!
 
 ##### 1.17 - [*`Isabella × Bedrock`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%20Bedrock.mcpack)
 
-#### Enhanced Models
+#### Enhanced Models (Obsolete, See Above)
 
 Improved block models tailored just for Isabella!
 
 ##### 1.17 - [*`Isabella × Models`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%20Models.zip)
-
 
 #### Enhanced Leaves
 
@@ -71,14 +72,13 @@ Advanced leaves designed for use with shaders (you will encounter z-fighting oth
 
 ##### 1.17 - [*`Isabella × Leaves`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%20Leaves.zip)
 
-
-#### Parallax Depth Maps
+#### Parallax Depth Maps (Legacy)
 
 An unfinished assortment of parallax depth normal maps for shaders!
 
 ##### 1.14 - [*`Isabella × Maps`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%20Maps.zip)
 
-#### Server Mods
+#### Server Mods (Legacy)
 
 Textures and models for SuikaCraft's current mods! Includes Optifine CTM + colormap support for Sap!
 
