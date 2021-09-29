@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_fence_inventory",
+  "textures": {
+		"rail": "block/nether_brick_fence_rail",
+		"top": "block/nether_brick_fence_top",
+		"texture": "block/nether_brick_fence"
+	}
+}

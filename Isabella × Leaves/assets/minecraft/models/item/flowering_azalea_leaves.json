@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves_hand",
+  "textures": {
+    "all": "minecraft:block/flowering_azalea_leaves"
+  }
+}

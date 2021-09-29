@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/deepslate_iron_ore"
+      },
+      {
+        "model": "minecraft:block/deepslate_iron_ore1"
+      },
+      {
+        "model": "minecraft:block/deepslate_iron_ore2"
+      },
+      {
+        "model": "minecraft:block/deepslate_iron_ore3"
+      },
+      {
+        "model": "minecraft:block/deepslate_iron_ore4"
+      },
+      {
+        "model": "minecraft:block/deepslate_iron_ore5"
+      },
+      {
+        "model": "minecraft:block/deepslate_iron_ore6"
+      },
+      {
+        "model": "minecraft:block/deepslate_iron_ore7"
+      }
+    ]
+  }
+}

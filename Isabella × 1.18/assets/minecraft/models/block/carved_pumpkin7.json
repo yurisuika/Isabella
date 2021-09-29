@@ -1,0 +1,6 @@
+{
+	"parent": "block/carved_pumpkin",
+	"textures": {
+		"front": "block/carved_pumpkin7"
+	}
+}

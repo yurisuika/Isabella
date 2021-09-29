@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_horse_armor",
+        "layer1": "item/leather_horse_armor_overlay"
+    }
+}
