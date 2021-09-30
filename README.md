@@ -70,7 +70,7 @@ Improved block models tailored just for Isabella!
 
 Advanced leaves designed for use with shaders (you will encounter z-fighting otherwise)! Includes Sap leaves!
 
-##### 1.17 - [*`Isabella × Leaves`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%20Leaves.zip)
+##### 1.18 - [*`Isabella × Leaves`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%20Leaves.zip)
 
 #### Parallax Depth Maps (Legacy)
 
