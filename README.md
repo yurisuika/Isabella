@@ -14,6 +14,8 @@ Java packs for 1.8 and up (when JSON model support was added) now have some mode
 
 All versions come stock with OptiFine support. Check out the threads linked below for other modded versions, remixes, and the original packs!
 
+1.17 and up come with support for Simple Voice Chat and Fabric Seasons!
+
 #### Snapshot Version
 
 Work in progress for a work in progress! These textures may change at any moment! Handle with care!
@@ -80,7 +82,7 @@ An unfinished assortment of parallax depth normal maps for shaders!
 
 #### Server Mods (Legacy)
 
-Textures and models for SuikaCraft's current mods! Includes Optifine CTM + colormap support for Sap!
+Textures and models for SuikaCraft's Forge mod Sap! Includes Optifine CTM + colormap support for Sap!
 
 ##### 1.16 - [*`Isabella × Mods`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%20Mods.zip)
 

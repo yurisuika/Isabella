@@ -1,0 +1,17 @@
+{
+	"item.seasons.season_calendar": "Сезонный календарь",
+	"block.seasons.season_detector": "Сезонный детектор",
+	"block.seasons.greenhouse_glass": "Стекло для теплиц",
+	"tooltip.seasons.spring": "§aВесна",
+	"tooltip.seasons.summer": "§6Лето",
+	"tooltip.seasons.fall": "§4Осень",
+	"tooltip.seasons.winter": "§bЗима",
+	"tooltip.seasons.calendar_info_1": "§9Текущий сезон: ",
+	"tooltip.seasons.calendar_info_2": " §7дней осталось до ",
+	"tooltip.seasons.faster_grow": "§aВ этом сезоне рост этой культуры будет ускорен",
+	"tooltip.seasons.normal_grow": "§9В этом сезоне эта культура будет расти с нормальной скоростью",
+	"tooltip.seasons.slowed_grow": "§6В этом сезоне рост этой культуры будет немного дольше",
+	"tooltip.seasons.not_grow": "§cВ этом сезоне эта культура не будет расти",
+	"tooltip.seasons.show_more": "§7Нажмите §9{KEY} §7чтобы показать больше",
+	"tooltip.seasons.crop_multipliers": "§7Влияние сезонов на рост этих культур:"
+}

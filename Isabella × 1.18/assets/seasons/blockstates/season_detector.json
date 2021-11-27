@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "season=spring,inverted=false": {
+      "model": "seasons:block/season_detector_spring"
+    },
+    "season=spring,inverted=true": {
+      "model": "seasons:block/season_detector_spring_inverted"
+    },
+    "season=summer,inverted=false": {
+      "model": "seasons:block/season_detector_summer"
+    },
+    "season=summer,inverted=true": {
+      "model": "seasons:block/season_detector_summer_inverted"
+    },
+    "season=fall,inverted=false": {
+      "model": "seasons:block/season_detector_fall"
+    },
+    "season=fall,inverted=true": {
+      "model": "seasons:block/season_detector_fall_inverted"
+    },
+    "season=winter,inverted=false": {
+      "model": "seasons:block/season_detector_winter"
+    },
+    "season=winter,inverted=true": {
+      "model": "seasons:block/season_detector_winter_inverted"
+    }
+  }
+}
