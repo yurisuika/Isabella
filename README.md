@@ -12,9 +12,9 @@ Resource packs available as .ZIP archives ready to download!
 
 Java packs for 1.8 and up (when JSON model support was added) now have some model improvements that were previously relegated to the custom model pack! These include adding additional textures for certain block faces, models based on what was previously just transparency, and models that turn flat blocks into full 3D!
 
-All versions come stock with OptiFine support. Check out the threads linked below for other modded versions, remixes, and the original packs!
+All versions come stock with OptiFine support. Check out the threads linked below for other modded versions, remixes, and the original packs! 1.17 and up come with support for Simple Voice Chat and Fabric Seasons!
 
-1.17 and up come with support for Simple Voice Chat and Fabric Seasons!
+Be sure to check out [*Catherine*](https://github.com/yurisuika/Catherine/), a Fabric mod that adds custom color support and more for Isabella! Available for 1.17 and up!
 
 #### Snapshot Version
 
@@ -58,29 +58,11 @@ Packs from versions past! Still kept up to date! Good as new!
 
 ##### 1.6 - [*`Isabella × 1.6`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%201.6.zip)
 
-#### Bedrock Version
-
-For the special folk out there! Updated to Bedrock 1.16!
-
-##### 1.17 - [*`Isabella × Bedrock`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%20Bedrock.mcpack)
-
-#### Enhanced Models (Obsolete, See Above)
-
-Improved block models tailored just for Isabella!
-
-##### 1.17 - [*`Isabella × Models`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%20Models.zip)
-
 #### Enhanced Leaves
 
 Advanced leaves designed for use with shaders (you will encounter z-fighting otherwise)! Includes Sap leaves!
 
 ##### 1.18 - [*`Isabella × Leaves`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%20Leaves.zip)
-
-#### Parallax Depth Maps (Legacy)
-
-An unfinished assortment of parallax depth normal maps for shaders!
-
-##### 1.14 - [*`Isabella × Maps`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%20Maps.zip)
 
 #### Server Mods (Legacy)
 
@@ -94,13 +76,11 @@ Get all the hot tips and tricks here!
 
 #### SERVERS
 
-Join *`play.suikacraft.com`* to play on SuikaCraft today!
+Join *`play.suikacraft.com`* to play on SuikaCraft today! Join the Discord to get whitelisted!
 
 #### COMMUNITY
 
 The one and only! Join the *[SuikaCraft Discord](https://discord.gg/0zdNEkQle7Qg9C1H)* to find the latest discussion on the resource pack and server or just to chat!
-
-We've set up a *[SuikaCraft Guilded](https://www.guilded.gg/i/Z2yNYwAk)* server as well! Come join the chat of the future!
 
 #### FORUM THREADS
 
