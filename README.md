@@ -1,6 +1,6 @@
-# [Isabella](http://suikacraft.com)
+# Isabella
 
-Our SuikaCraft server has used Isabella since 2013, at times with some tweaks. However, Isabella had been put to rest by its artist Bonemouse after 1.5. A continuation had been forged for 1.6 up until the snapshots of 1.8. Our server was going strong, but the pack updates had stopped coming out. We had still been adding to our textures in wait, but the other branches perished, so SuikaCraft's branch naturally became the new trunk of Isabella. Thus all original textures that have had no changes or fixes have been restored to pristine condition back when Isabella last came out for 1.5. You can find all of our releases from 1.6 and up kept up to date below.
+Our SuikaCraft server has used Isabella since 2013, at times with some tweaks. However, Isabella had been put to rest by its artist Bonemouse after 1.5. A continuation had been forged for 1.6 up until the snapshots of 1.8. Our server was going strong, but the pack updates had stopped coming out. We had still been adding to our textures in wait, but the other branches perished, so SuikaCraft's branch naturally became the new trunk of Isabella. Thus all original textures that have had no changes or fixes have been restored to pristine condition back when Isabella last came out for 1.5. You can find all of our releases from 1.6 and up kept up to date below, as well as the original pack!
 
 Isabella is a continuation of Isabella II, not Isabella Classic (in other words, Isabella I). We've just renamed it for simplicity sake!
 
@@ -10,11 +10,17 @@ Isabella is a continuation of Isabella II, not Isabella Classic (in other words,
 
 Resource packs available as .ZIP archives ready to download!
 
-Java packs for 1.8 and up (when JSON model support was added) now have some model improvements that were previously relegated to the custom model pack! These include adding additional textures for certain block faces, models based on what was previously just transparency, and models that turn flat blocks into full 3D!
+Packs for 1.8 and up (when JSON model support was added) now have some model improvements that were previously relegated to the custom model pack! These include adding additional textures for certain block faces, models based on what was previously just transparency, and models that turn flat blocks into full 3D!
 
-All versions come stock with OptiFine support. Check out the threads linked below for other modded versions, remixes, and the original packs! 1.17 and up come with support for Simple Voice Chat and Fabric Seasons!
+1.6 and up come with Forge and expanded OptiFine support!
 
-Be sure to check out [*Catherine*](https://github.com/yurisuika/Catherine/), a Fabric mod that adds custom color support and more for Isabella! Available for 1.17 and up!
+1.14 and up come with Fabric API and Lambda Better Grass support!
+
+1.16 and up come with Plasmo Voice support!
+
+1.17 and up come with Simple Voice Chat and Seasons support!
+
+Check out the threads linked below for other modded versions, remixes, and the original packs! Be sure to check out [*Catherine*](https://github.com/yurisuika/Catherine/), a Fabric mod that adds custom color support and more for Isabella! Available for 1.17 and up!
 
 #### Snapshot Version
 
@@ -86,8 +92,8 @@ The one and only! Join the *[SuikaCraft Discord](https://discord.gg/0zdNEkQle7Qg
 
 Find past versions of Isabella, remixes, and more!
 
-* *[Isabella II Status Thread](http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion/2745599)*
+* *[Isabella II Status Thread](http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion/2745599)* - The new landing thread for Isabella pilgrims!
 
-* *[Isabella II Continuation by Shrugs](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1244972-16x-1-6-1-7-1-8beta-isabella-ii-unofficial-thread)*
+* *[Isabella II Continuation by Shrugs](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1244972-16x-1-6-1-7-1-8beta-isabella-ii-unofficial-thread)* - The original continuation, last updated for 1.8 snapshots!
 
-* *[Isabella II by Bonemouse](http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1226573)*
+* *[Isabella II by Bonemouse](http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1226573)* - The original pack, last updated for 1.5!
