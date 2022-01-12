@@ -1,12 +1,16 @@
-# Isabella
+<p align="center"><img src="https://github.com/yurisuika/Isabella/blob/master/Isabella%20%C3%97%201.13/pack.png?raw=true" width="256" height="256"></p>
+
+# <p align="center">ISABELLA</p>
 
 Our SuikaCraft server has used Isabella since 2013, at times with some tweaks. However, Isabella had been put to rest by its artist Bonemouse after 1.5. A continuation had been forged for 1.6 up until the snapshots of 1.8. Our server was going strong, but the pack updates had stopped coming out. We had still been adding to our textures in wait, but the other branches perished, so SuikaCraft's branch naturally became the new trunk of Isabella. Thus all original textures that have had no changes or fixes have been restored to pristine condition back when Isabella last came out for 1.5. You can find all of our releases from 1.6 and up kept up to date below, as well as the original pack!
 
 Isabella is a continuation of Isabella II, not Isabella Classic (in other words, Isabella I). We've just renamed it for simplicity sake!
 
-![Isabella](https://raw.githubusercontent.com/yurisuika/Isabella/master/Isabella%20×%201.13/pack.png)
+---
 
-## RESOURCE PACKS
+## <p align="center">DOWNLOADS</p>
+
+### Resource Packs
 
 Resource packs available as .ZIP archives ready to download!
 
@@ -76,19 +80,21 @@ Textures and models for SuikaCraft's Forge mod Sap! Includes Optifine CTM + colo
 
 ##### 1.16 - [*`Isabella × Mods`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%20Mods.zip)
 
-## LINKS
+---
+
+## <p align="center">LINKS</p>
 
 Get all the hot tips and tricks here!
 
-#### SERVERS
+#### Servers
 
 Join *`play.suikacraft.com`* to play on SuikaCraft today! Join the Discord to get whitelisted!
 
-#### COMMUNITY
+#### Community
 
 The one and only! Join the *[SuikaCraft Discord](https://discord.gg/0zdNEkQle7Qg9C1H)* to find the latest discussion on the resource pack and server or just to chat!
 
-#### FORUM THREADS
+#### Forum Threads
 
 Find past versions of Isabella, remixes, and more!
 
