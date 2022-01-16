@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/oak_leaves6",
+    "textures": {
+        "particle": "lush:block/locust_leaves",
+        "leaves_extra": "lush:block/locust_leaves_extra",
+        "block": "lush:block/locust_leaves"
+    }
+}

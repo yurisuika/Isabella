@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "lush:block/cottonwood_leaves"
+  }
+}

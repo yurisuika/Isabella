@@ -70,7 +70,7 @@ Packs from versions past! Still kept up to date! Good as new!
 
 #### Luscious Leaves
 
-Advanced leaves designed for use with shaders (you will encounter z-fighting otherwise)! Includes Sap leaves!
+Advanced leaves designed for use with shaders (you will encounter z-fighting otherwise)! Includes Lush leaves!
 
 ##### 1.18 - [*`Isabella × Leaves`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%20Leaves.zip)
 
