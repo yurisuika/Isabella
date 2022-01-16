@@ -1,0 +1,7 @@
+{
+	"parent": "block/template_wooden_trapdoor_top",
+	"textures": {
+		"side": "lush:block/fir_door_top_side",
+		"texture": "lush:block/fir_trapdoor"
+	}
+}

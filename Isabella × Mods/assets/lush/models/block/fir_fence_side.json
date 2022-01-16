@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_fence_side",
+  "textures": {
+		"rail": "lush:block/fir_fence_rail",
+		"texture": "lush:block/fir_fence"
+	}
+}

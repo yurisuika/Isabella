@@ -68,23 +68,27 @@ Packs from versions past! Still kept up to date! Good as new!
 
 ##### 1.6 - [*`Isabella × 1.6`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%201.6.zip)
 
-#### Enhanced Leaves
+#### Luscious Leaves
 
 Advanced leaves designed for use with shaders (you will encounter z-fighting otherwise)! Includes Sap leaves!
 
 ##### 1.18 - [*`Isabella × Leaves`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%20Leaves.zip)
 
-#### Server Mods (Legacy)
+#### Melancholy Mods
 
-Textures and models for SuikaCraft's Forge mod Sap! Includes Optifine CTM + colormap support for Sap!
+Textures and models for our Fabric mod Lush! Includes Optifine CTM + colormap support!
 
-##### 1.16 - [*`Isabella × Mods`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%20Mods.zip)
+##### 1.18 - [*`Isabella × Mods`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%20Mods.zip)
 
 ---
 
 ## <p align="center">LINKS</p>
 
 Get all the hot tips and tricks here!
+
+#### Mods
+
+Install [*Catherine*](https://github.com/yurisuika/Catherine/) for Fabric to add Isabella colors! No longer be chained to OptiFine for getting that foggy Isabella sky, bleak water, somber leaves, and more!
 
 #### Servers
 

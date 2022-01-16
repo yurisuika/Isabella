@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_fence_post",
+  "textures": {
+		"top": "lush:block/fir_fence_top",
+		"texture": "lush:block/fir_fence"
+	}
+}
