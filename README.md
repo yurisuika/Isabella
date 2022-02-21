@@ -90,10 +90,6 @@ Get all the hot tips and tricks here!
 
 Install [*Catherine*](https://github.com/yurisuika/Catherine/) for Fabric to add Isabella colors! No longer be chained to OptiFine for getting that foggy Isabella sky, bleak water, somber leaves, and more!
 
-#### Servers
-
-Join *`play.suikacraft.com`* to play on SuikaCraft today! Join the Discord to get whitelisted!
-
 #### Community
 
 The one and only! Join the *[SuikaCraft Discord](https://discord.gg/0zdNEkQle7Qg9C1H)* to find the latest discussion on the resource pack and server or just to chat!
