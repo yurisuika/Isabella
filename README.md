@@ -16,13 +16,13 @@ Resource packs available as .ZIP archives ready to download!
 
 Packs for 1.8 and up (when JSON model support was added) now have some model improvements that were previously relegated to the custom model pack! These include adding additional textures for certain block faces, models based on what was previously just transparency, and models that turn flat blocks into full 3D!
 
-1.6 and up come with Forge and expanded OptiFine support!
+1.6 and up come with Forge/FML and OptiFine support!
 
-1.14 and up come with Fabric API and Lambda Better Grass support!
+1.14 and up come with Fabric API, Mod Menu, Cloth Config, and Lambda Better Grass support!
 
 1.16 and up come with Plasmo Voice support!
 
-1.17 and up come with Simple Voice Chat and Seasons support!
+1.17 and up come with Simple Voice Chat and Seasons/Seasonal support!
 
 Check out the threads linked below for other modded versions, remixes, and the original packs! Be sure to check out [*Catherine*](https://github.com/yurisuika/Catherine/), a Fabric mod that adds custom color support and more for Isabella! Available for 1.17 and up!
 
