@@ -24,7 +24,7 @@ Check out the threads linked below for other modded versions, remixes, and the o
 
 Work in progress for a work in progress! These textures may change at any moment! Handle with care!
 
-###### 1.19 - *`Nothing yet!`*
+###### 1.19 - [*`Isabella × 1.19`*](https://github.com/yurisuika/Isabella/raw/master/Archives/Isabella%20×%201.19.zip)
 
 ##### Release Version
 

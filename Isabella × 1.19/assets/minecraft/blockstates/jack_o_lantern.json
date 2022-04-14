@@ -1,0 +1,132 @@
+{
+  "variants": {
+    "facing=east": [
+      {
+        "model": "minecraft:block/jack_o_lantern",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern1",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern2",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern3",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern4",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern5",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern6",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern7",
+        "y": 90
+      }
+    ],
+    "facing=north": [
+      {
+        "model": "minecraft:block/jack_o_lantern"
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern1"
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern2"
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern3"
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern4"
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern5"
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern6"
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern7"
+      }
+    ],
+    "facing=south": [
+      {
+        "model": "minecraft:block/jack_o_lantern",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern1",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern2",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern3",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern4",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern5",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern6",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern7",
+        "y": 180
+      }
+    ],
+    "facing=west": [
+      {
+        "model": "minecraft:block/jack_o_lantern",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern1",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern2",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern3",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern4",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern5",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern6",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/jack_o_lantern7",
+        "y": 270
+      }
+    ]
+  }
+}

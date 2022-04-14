@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_fence_side",
+  "textures": {
+		"rail": "block/acacia_fence_rail",
+		"texture": "block/acacia_fence"
+	}
+}

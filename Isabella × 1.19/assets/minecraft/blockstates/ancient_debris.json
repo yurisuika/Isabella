@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/ancient_debris"
+      },
+      {
+        "model": "minecraft:block/ancient_debris1"
+      },
+      {
+        "model": "minecraft:block/ancient_debris2"
+      },
+      {
+        "model": "minecraft:block/ancient_debris3"
+      },
+      {
+        "model": "minecraft:block/ancient_debris4"
+      },
+      {
+        "model": "minecraft:block/ancient_debris5"
+      },
+      {
+        "model": "minecraft:block/ancient_debris6"
+      },
+      {
+        "model": "minecraft:block/ancient_debris7"
+      }
+    ]
+  }
+}

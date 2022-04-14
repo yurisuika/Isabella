@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/detector_rail_raised_ne",
+  "textures": {
+    "detector_rail": "minecraft:block/detector_rail_on"
+  }
+}

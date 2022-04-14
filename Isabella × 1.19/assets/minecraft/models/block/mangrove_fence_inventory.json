@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_fence_inventory",
+  "textures": {
+		"rail": "block/mangrove_fence_rail",
+		"top": "block/mangrove_fence_top",
+		"texture": "block/mangrove_fence"
+	}
+}

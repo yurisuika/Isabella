@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/deepslate_coal_ore"
+      },
+      {
+        "model": "minecraft:block/deepslate_coal_ore1"
+      },
+      {
+        "model": "minecraft:block/deepslate_coal_ore2"
+      },
+      {
+        "model": "minecraft:block/deepslate_coal_ore3"
+      },
+      {
+        "model": "minecraft:block/deepslate_coal_ore4"
+      },
+      {
+        "model": "minecraft:block/deepslate_coal_ore5"
+      },
+      {
+        "model": "minecraft:block/deepslate_coal_ore6"
+      },
+      {
+        "model": "minecraft:block/deepslate_coal_ore7"
+      }
+    ]
+  }
+}

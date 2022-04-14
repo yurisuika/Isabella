@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_fence_side",
+  "textures": {
+		"rail": "block/mangrove_fence_rail",
+		"texture": "block/mangrove_fence"
+	}
+}
